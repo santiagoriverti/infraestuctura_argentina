@@ -1,0 +1,3601 @@
+codigo,provincia,fecha,valor
+internet_penetracion,Buenos Aires,2014-01-01,54.57
+internet_penetracion,Buenos Aires,2014-04-01,55.06
+internet_penetracion,Buenos Aires,2014-07-01,56.75
+internet_penetracion,Buenos Aires,2014-10-01,56.09
+internet_penetracion,Buenos Aires,2015-01-01,56.37
+internet_penetracion,Buenos Aires,2015-04-01,56.8
+internet_penetracion,Buenos Aires,2015-07-01,57.69
+internet_penetracion,Buenos Aires,2015-10-01,58.29
+internet_penetracion,Buenos Aires,2016-01-01,57.34
+internet_penetracion,Buenos Aires,2016-04-01,59.34
+internet_penetracion,Buenos Aires,2016-07-01,60.14
+internet_penetracion,Buenos Aires,2016-10-01,61.24
+internet_penetracion,Buenos Aires,2017-01-01,58.57
+internet_penetracion,Buenos Aires,2017-04-01,56.27
+internet_penetracion,Buenos Aires,2017-07-01,55.63
+internet_penetracion,Buenos Aires,2017-10-01,57.61
+internet_penetracion,Buenos Aires,2018-01-01,62.63
+internet_penetracion,Buenos Aires,2018-04-01,62.78
+internet_penetracion,Buenos Aires,2018-07-01,64.44
+internet_penetracion,Buenos Aires,2018-10-01,64.6
+internet_penetracion,Buenos Aires,2019-01-01,66.24
+internet_penetracion,Buenos Aires,2019-04-01,67.85
+internet_penetracion,Buenos Aires,2019-07-01,69.36
+internet_penetracion,Buenos Aires,2019-10-01,64.25
+internet_penetracion,Buenos Aires,2020-01-01,64.33
+internet_penetracion,Buenos Aires,2020-04-01,65.22
+internet_penetracion,Buenos Aires,2020-07-01,67.66
+internet_penetracion,Buenos Aires,2020-10-01,68.98
+internet_penetracion,Buenos Aires,2021-01-01,69.11
+internet_penetracion,Buenos Aires,2021-04-01,70
+internet_penetracion,Buenos Aires,2021-07-01,71.68
+internet_penetracion,Buenos Aires,2021-10-01,75.66
+internet_penetracion,Buenos Aires,2022-01-01,76.08
+internet_penetracion,Buenos Aires,2022-04-01,77.12
+internet_penetracion,Buenos Aires,2022-07-01,78.14
+internet_penetracion,Buenos Aires,2022-10-01,79.47
+internet_penetracion,Buenos Aires,2023-01-01,80.03
+internet_penetracion,Buenos Aires,2023-04-01,81.22
+internet_penetracion,Buenos Aires,2023-07-01,82.58
+internet_penetracion,Buenos Aires,2023-10-01,82.56
+internet_penetracion,Buenos Aires,2024-01-01,83.82
+internet_penetracion,Buenos Aires,2024-04-01,82.89
+internet_penetracion,Buenos Aires,2024-07-01,83.46
+internet_penetracion,Buenos Aires,2024-10-01,86.71
+internet_penetracion,Buenos Aires,2025-01-01,87.85
+internet_penetracion,Buenos Aires,2025-04-01,88.99
+internet_penetracion,Buenos Aires,2025-07-01,89.74
+internet_penetracion,Buenos Aires,2025-10-01,92.13
+internet_penetracion,Buenos Aires,2026-01-01,93.21
+internet_penetracion,Buenos Aires,2026-04-01,94.56
+internet_penetracion,CABA,2014-01-01,112.25
+internet_penetracion,CABA,2014-04-01,113.14
+internet_penetracion,CABA,2014-07-01,113.8
+internet_penetracion,CABA,2014-10-01,114.9
+internet_penetracion,CABA,2015-01-01,114.9
+internet_penetracion,CABA,2015-04-01,116.07
+internet_penetracion,CABA,2015-07-01,118.29
+internet_penetracion,CABA,2015-10-01,118.13
+internet_penetracion,CABA,2016-01-01,115.16
+internet_penetracion,CABA,2016-04-01,120.04
+internet_penetracion,CABA,2016-07-01,120.77
+internet_penetracion,CABA,2016-10-01,120.63
+internet_penetracion,CABA,2017-01-01,108.37
+internet_penetracion,CABA,2017-04-01,124.06
+internet_penetracion,CABA,2017-07-01,121.86
+internet_penetracion,CABA,2017-10-01,122.9
+internet_penetracion,CABA,2018-01-01,106.24
+internet_penetracion,CABA,2018-04-01,106.53
+internet_penetracion,CABA,2018-07-01,108.45
+internet_penetracion,CABA,2018-10-01,108.27
+internet_penetracion,CABA,2019-01-01,109.2
+internet_penetracion,CABA,2019-04-01,110.55
+internet_penetracion,CABA,2019-07-01,112.65
+internet_penetracion,CABA,2019-10-01,106.25
+internet_penetracion,CABA,2020-01-01,105.98
+internet_penetracion,CABA,2020-04-01,106.41
+internet_penetracion,CABA,2020-07-01,107.68
+internet_penetracion,CABA,2020-10-01,108.31
+internet_penetracion,CABA,2021-01-01,108.42
+internet_penetracion,CABA,2021-04-01,110.14
+internet_penetracion,CABA,2021-07-01,111.27
+internet_penetracion,CABA,2021-10-01,111.27
+internet_penetracion,CABA,2022-01-01,111.8
+internet_penetracion,CABA,2022-04-01,109.24
+internet_penetracion,CABA,2022-07-01,110.14
+internet_penetracion,CABA,2022-10-01,110.57
+internet_penetracion,CABA,2023-01-01,110.46
+internet_penetracion,CABA,2023-04-01,104.08
+internet_penetracion,CABA,2023-07-01,104.94
+internet_penetracion,CABA,2023-10-01,105.06
+internet_penetracion,CABA,2024-01-01,107.81
+internet_penetracion,CABA,2024-04-01,104.98
+internet_penetracion,CABA,2024-07-01,104.81
+internet_penetracion,CABA,2024-10-01,105.26
+internet_penetracion,CABA,2025-01-01,106.45
+internet_penetracion,CABA,2025-04-01,106.77
+internet_penetracion,CABA,2025-07-01,107.73
+internet_penetracion,CABA,2025-10-01,108.98
+internet_penetracion,CABA,2026-01-01,118.81
+internet_penetracion,CABA,2026-04-01,119.93
+internet_penetracion,Catamarca,2014-01-01,24.25
+internet_penetracion,Catamarca,2014-04-01,24.7
+internet_penetracion,Catamarca,2014-07-01,24.71
+internet_penetracion,Catamarca,2014-10-01,25.51
+internet_penetracion,Catamarca,2015-01-01,25.11
+internet_penetracion,Catamarca,2015-04-01,25.45
+internet_penetracion,Catamarca,2015-07-01,25.86
+internet_penetracion,Catamarca,2015-10-01,26.24
+internet_penetracion,Catamarca,2016-01-01,25.91
+internet_penetracion,Catamarca,2016-04-01,26.07
+internet_penetracion,Catamarca,2016-07-01,26.48
+internet_penetracion,Catamarca,2016-10-01,26.54
+internet_penetracion,Catamarca,2017-01-01,25.66
+internet_penetracion,Catamarca,2017-04-01,25.98
+internet_penetracion,Catamarca,2017-07-01,32.49
+internet_penetracion,Catamarca,2017-10-01,28.62
+internet_penetracion,Catamarca,2018-01-01,32.79
+internet_penetracion,Catamarca,2018-04-01,32.86
+internet_penetracion,Catamarca,2018-07-01,32.92
+internet_penetracion,Catamarca,2018-10-01,32.23
+internet_penetracion,Catamarca,2019-01-01,32.19
+internet_penetracion,Catamarca,2019-04-01,32.13
+internet_penetracion,Catamarca,2019-07-01,30.88
+internet_penetracion,Catamarca,2019-10-01,36.44
+internet_penetracion,Catamarca,2020-01-01,37.62
+internet_penetracion,Catamarca,2020-04-01,45.43
+internet_penetracion,Catamarca,2020-07-01,47.16
+internet_penetracion,Catamarca,2020-10-01,49.41
+internet_penetracion,Catamarca,2021-01-01,48.9
+internet_penetracion,Catamarca,2021-04-01,52.34
+internet_penetracion,Catamarca,2021-07-01,52.71
+internet_penetracion,Catamarca,2021-10-01,55.25
+internet_penetracion,Catamarca,2022-01-01,58.21
+internet_penetracion,Catamarca,2022-04-01,49.58
+internet_penetracion,Catamarca,2022-07-01,51.81
+internet_penetracion,Catamarca,2022-10-01,52.07
+internet_penetracion,Catamarca,2023-01-01,52.3
+internet_penetracion,Catamarca,2023-04-01,53.2
+internet_penetracion,Catamarca,2023-07-01,54.15
+internet_penetracion,Catamarca,2023-10-01,54.1
+internet_penetracion,Catamarca,2024-01-01,54.48
+internet_penetracion,Catamarca,2024-04-01,54.54
+internet_penetracion,Catamarca,2024-07-01,55.85
+internet_penetracion,Catamarca,2024-10-01,56.15
+internet_penetracion,Catamarca,2025-01-01,57.25
+internet_penetracion,Catamarca,2025-04-01,59.38
+internet_penetracion,Catamarca,2025-07-01,61.98
+internet_penetracion,Catamarca,2025-10-01,64.42
+internet_penetracion,Catamarca,2026-01-01,67.42
+internet_penetracion,Catamarca,2026-04-01,69.37
+internet_penetracion,Chaco,2014-01-01,20.72
+internet_penetracion,Chaco,2014-04-01,20.96
+internet_penetracion,Chaco,2014-07-01,21.11
+internet_penetracion,Chaco,2014-10-01,21.87
+internet_penetracion,Chaco,2015-01-01,26.65
+internet_penetracion,Chaco,2015-04-01,27.46
+internet_penetracion,Chaco,2015-07-01,27.96
+internet_penetracion,Chaco,2015-10-01,28.35
+internet_penetracion,Chaco,2016-01-01,28.08
+internet_penetracion,Chaco,2016-04-01,28.59
+internet_penetracion,Chaco,2016-07-01,28.91
+internet_penetracion,Chaco,2016-10-01,28.79
+internet_penetracion,Chaco,2017-01-01,28.62
+internet_penetracion,Chaco,2017-04-01,29.05
+internet_penetracion,Chaco,2017-07-01,29.98
+internet_penetracion,Chaco,2017-10-01,30.81
+internet_penetracion,Chaco,2018-01-01,30.83
+internet_penetracion,Chaco,2018-04-01,31.25
+internet_penetracion,Chaco,2018-07-01,32.28
+internet_penetracion,Chaco,2018-10-01,32.59
+internet_penetracion,Chaco,2019-01-01,32.64
+internet_penetracion,Chaco,2019-04-01,34.14
+internet_penetracion,Chaco,2019-07-01,35.85
+internet_penetracion,Chaco,2019-10-01,36.84
+internet_penetracion,Chaco,2020-01-01,37.48
+internet_penetracion,Chaco,2020-04-01,39.83
+internet_penetracion,Chaco,2020-07-01,41.54
+internet_penetracion,Chaco,2020-10-01,43.03
+internet_penetracion,Chaco,2021-01-01,43.14
+internet_penetracion,Chaco,2021-04-01,43.33
+internet_penetracion,Chaco,2021-07-01,42.96
+internet_penetracion,Chaco,2021-10-01,44.05
+internet_penetracion,Chaco,2022-01-01,44.06
+internet_penetracion,Chaco,2022-04-01,38.34
+internet_penetracion,Chaco,2022-07-01,37.96
+internet_penetracion,Chaco,2022-10-01,37.3
+internet_penetracion,Chaco,2023-01-01,36.47
+internet_penetracion,Chaco,2023-04-01,35.82
+internet_penetracion,Chaco,2023-07-01,35.84
+internet_penetracion,Chaco,2023-10-01,35.8
+internet_penetracion,Chaco,2024-01-01,39.12
+internet_penetracion,Chaco,2024-04-01,36.95
+internet_penetracion,Chaco,2024-07-01,40.73
+internet_penetracion,Chaco,2024-10-01,41.04
+internet_penetracion,Chaco,2025-01-01,41.94
+internet_penetracion,Chaco,2025-04-01,42.75
+internet_penetracion,Chaco,2025-07-01,44.05
+internet_penetracion,Chaco,2025-10-01,48.58
+internet_penetracion,Chaco,2026-01-01,50.45
+internet_penetracion,Chaco,2026-04-01,51.47
+internet_penetracion,Chubut,2014-01-01,41.24
+internet_penetracion,Chubut,2014-04-01,41.41
+internet_penetracion,Chubut,2014-07-01,40.6
+internet_penetracion,Chubut,2014-10-01,40.25
+internet_penetracion,Chubut,2015-01-01,37.61
+internet_penetracion,Chubut,2015-04-01,36.58
+internet_penetracion,Chubut,2015-07-01,36.81
+internet_penetracion,Chubut,2015-10-01,36.89
+internet_penetracion,Chubut,2016-01-01,36.09
+internet_penetracion,Chubut,2016-04-01,36.12
+internet_penetracion,Chubut,2016-07-01,36.18
+internet_penetracion,Chubut,2016-10-01,36.07
+internet_penetracion,Chubut,2017-01-01,35.66
+internet_penetracion,Chubut,2017-04-01,35.55
+internet_penetracion,Chubut,2017-07-01,46.22
+internet_penetracion,Chubut,2017-10-01,51.46
+internet_penetracion,Chubut,2018-01-01,53.72
+internet_penetracion,Chubut,2018-04-01,54.9
+internet_penetracion,Chubut,2018-07-01,56.39
+internet_penetracion,Chubut,2018-10-01,42.61
+internet_penetracion,Chubut,2019-01-01,43
+internet_penetracion,Chubut,2019-04-01,46.99
+internet_penetracion,Chubut,2019-07-01,47.57
+internet_penetracion,Chubut,2019-10-01,51.15
+internet_penetracion,Chubut,2020-01-01,51.27
+internet_penetracion,Chubut,2020-04-01,57.34
+internet_penetracion,Chubut,2020-07-01,68.34
+internet_penetracion,Chubut,2020-10-01,68.35
+internet_penetracion,Chubut,2021-01-01,68.99
+internet_penetracion,Chubut,2021-04-01,72.29
+internet_penetracion,Chubut,2021-07-01,80.71
+internet_penetracion,Chubut,2021-10-01,82.57
+internet_penetracion,Chubut,2022-01-01,88.05
+internet_penetracion,Chubut,2022-04-01,75.63
+internet_penetracion,Chubut,2022-07-01,76.81
+internet_penetracion,Chubut,2022-10-01,77.98
+internet_penetracion,Chubut,2023-01-01,78.37
+internet_penetracion,Chubut,2023-04-01,75.37
+internet_penetracion,Chubut,2023-07-01,77.2
+internet_penetracion,Chubut,2023-10-01,77.14
+internet_penetracion,Chubut,2024-01-01,78.28
+internet_penetracion,Chubut,2024-04-01,79.85
+internet_penetracion,Chubut,2024-07-01,80.52
+internet_penetracion,Chubut,2024-10-01,82.86
+internet_penetracion,Chubut,2025-01-01,84.49
+internet_penetracion,Chubut,2025-04-01,76.37
+internet_penetracion,Chubut,2025-07-01,76.14
+internet_penetracion,Chubut,2025-10-01,80.94
+internet_penetracion,Chubut,2026-01-01,87.05
+internet_penetracion,Chubut,2026-04-01,88.78
+internet_penetracion,Corrientes,2014-01-01,22.32
+internet_penetracion,Corrientes,2014-04-01,22.58
+internet_penetracion,Corrientes,2014-07-01,22.79
+internet_penetracion,Corrientes,2014-10-01,23.56
+internet_penetracion,Corrientes,2015-01-01,28.95
+internet_penetracion,Corrientes,2015-04-01,29.58
+internet_penetracion,Corrientes,2015-07-01,30.17
+internet_penetracion,Corrientes,2015-10-01,30.34
+internet_penetracion,Corrientes,2016-01-01,30.08
+internet_penetracion,Corrientes,2016-04-01,30.58
+internet_penetracion,Corrientes,2016-07-01,31.07
+internet_penetracion,Corrientes,2016-10-01,30.98
+internet_penetracion,Corrientes,2017-01-01,30.94
+internet_penetracion,Corrientes,2017-04-01,31.39
+internet_penetracion,Corrientes,2017-07-01,32.17
+internet_penetracion,Corrientes,2017-10-01,32.52
+internet_penetracion,Corrientes,2018-01-01,32.66
+internet_penetracion,Corrientes,2018-04-01,33.81
+internet_penetracion,Corrientes,2018-07-01,34.25
+internet_penetracion,Corrientes,2018-10-01,34.57
+internet_penetracion,Corrientes,2019-01-01,35.13
+internet_penetracion,Corrientes,2019-04-01,38.16
+internet_penetracion,Corrientes,2019-07-01,38.49
+internet_penetracion,Corrientes,2019-10-01,38.77
+internet_penetracion,Corrientes,2020-01-01,38.73
+internet_penetracion,Corrientes,2020-04-01,40.3
+internet_penetracion,Corrientes,2020-07-01,41.75
+internet_penetracion,Corrientes,2020-10-01,42.43
+internet_penetracion,Corrientes,2021-01-01,42.66
+internet_penetracion,Corrientes,2021-04-01,43.54
+internet_penetracion,Corrientes,2021-07-01,44.9
+internet_penetracion,Corrientes,2021-10-01,45.51
+internet_penetracion,Corrientes,2022-01-01,47.64
+internet_penetracion,Corrientes,2022-04-01,38.24
+internet_penetracion,Corrientes,2022-07-01,38.35
+internet_penetracion,Corrientes,2022-10-01,41.32
+internet_penetracion,Corrientes,2023-01-01,41.9
+internet_penetracion,Corrientes,2023-04-01,42.41
+internet_penetracion,Corrientes,2023-07-01,42.77
+internet_penetracion,Corrientes,2023-10-01,42.73
+internet_penetracion,Corrientes,2024-01-01,42.16
+internet_penetracion,Corrientes,2024-04-01,41.74
+internet_penetracion,Corrientes,2024-07-01,42.21
+internet_penetracion,Corrientes,2024-10-01,42.53
+internet_penetracion,Corrientes,2025-01-01,43.59
+internet_penetracion,Corrientes,2025-04-01,45.63
+internet_penetracion,Corrientes,2025-07-01,49.83
+internet_penetracion,Corrientes,2025-10-01,55.76
+internet_penetracion,Corrientes,2026-01-01,58.94
+internet_penetracion,Corrientes,2026-04-01,60.92
+internet_penetracion,Córdoba,2014-01-01,52.52
+internet_penetracion,Córdoba,2014-04-01,53.45
+internet_penetracion,Córdoba,2014-07-01,54.23
+internet_penetracion,Córdoba,2014-10-01,54.7
+internet_penetracion,Córdoba,2015-01-01,54.7
+internet_penetracion,Córdoba,2015-04-01,55.87
+internet_penetracion,Córdoba,2015-07-01,57.08
+internet_penetracion,Córdoba,2015-10-01,57.36
+internet_penetracion,Córdoba,2016-01-01,55.28
+internet_penetracion,Córdoba,2016-04-01,57.55
+internet_penetracion,Córdoba,2016-07-01,58.24
+internet_penetracion,Córdoba,2016-10-01,57.7
+internet_penetracion,Córdoba,2017-01-01,57.65
+internet_penetracion,Córdoba,2017-04-01,58.97
+internet_penetracion,Córdoba,2017-07-01,62.31
+internet_penetracion,Córdoba,2017-10-01,63.33
+internet_penetracion,Córdoba,2018-01-01,63.52
+internet_penetracion,Córdoba,2018-04-01,63.27
+internet_penetracion,Córdoba,2018-07-01,64.24
+internet_penetracion,Córdoba,2018-10-01,65.09
+internet_penetracion,Córdoba,2019-01-01,65.52
+internet_penetracion,Córdoba,2019-04-01,68.07
+internet_penetracion,Córdoba,2019-07-01,68.59
+internet_penetracion,Córdoba,2019-10-01,70.48
+internet_penetracion,Córdoba,2020-01-01,70.69
+internet_penetracion,Córdoba,2020-04-01,72.71
+internet_penetracion,Córdoba,2020-07-01,75.22
+internet_penetracion,Córdoba,2020-10-01,78.08
+internet_penetracion,Córdoba,2021-01-01,78.59
+internet_penetracion,Córdoba,2021-04-01,80.12
+internet_penetracion,Córdoba,2021-07-01,81.28
+internet_penetracion,Córdoba,2021-10-01,84.51
+internet_penetracion,Córdoba,2022-01-01,85.76
+internet_penetracion,Córdoba,2022-04-01,73.61
+internet_penetracion,Córdoba,2022-07-01,74.04
+internet_penetracion,Córdoba,2022-10-01,74.38
+internet_penetracion,Córdoba,2023-01-01,73.95
+internet_penetracion,Córdoba,2023-04-01,74.75
+internet_penetracion,Córdoba,2023-07-01,74.81
+internet_penetracion,Córdoba,2023-10-01,74.75
+internet_penetracion,Córdoba,2024-01-01,75.59
+internet_penetracion,Córdoba,2024-04-01,75.79
+internet_penetracion,Córdoba,2024-07-01,77.24
+internet_penetracion,Córdoba,2024-10-01,77.18
+internet_penetracion,Córdoba,2025-01-01,78.37
+internet_penetracion,Córdoba,2025-04-01,79.06
+internet_penetracion,Córdoba,2025-07-01,81.94
+internet_penetracion,Córdoba,2025-10-01,84.66
+internet_penetracion,Córdoba,2026-01-01,86.14
+internet_penetracion,Córdoba,2026-04-01,87.21
+internet_penetracion,Entre Ríos,2014-01-01,34.37
+internet_penetracion,Entre Ríos,2014-04-01,34.69
+internet_penetracion,Entre Ríos,2014-07-01,34.98
+internet_penetracion,Entre Ríos,2014-10-01,36.03
+internet_penetracion,Entre Ríos,2015-01-01,42.07
+internet_penetracion,Entre Ríos,2015-04-01,42.93
+internet_penetracion,Entre Ríos,2015-07-01,43.68
+internet_penetracion,Entre Ríos,2015-10-01,44.11
+internet_penetracion,Entre Ríos,2016-01-01,43.85
+internet_penetracion,Entre Ríos,2016-04-01,44.74
+internet_penetracion,Entre Ríos,2016-07-01,45.44
+internet_penetracion,Entre Ríos,2016-10-01,45.21
+internet_penetracion,Entre Ríos,2017-01-01,44.91
+internet_penetracion,Entre Ríos,2017-04-01,45.39
+internet_penetracion,Entre Ríos,2017-07-01,45.96
+internet_penetracion,Entre Ríos,2017-10-01,47.89
+internet_penetracion,Entre Ríos,2018-01-01,48.68
+internet_penetracion,Entre Ríos,2018-04-01,49.2
+internet_penetracion,Entre Ríos,2018-07-01,50.22
+internet_penetracion,Entre Ríos,2018-10-01,54.37
+internet_penetracion,Entre Ríos,2019-01-01,56.79
+internet_penetracion,Entre Ríos,2019-04-01,57.48
+internet_penetracion,Entre Ríos,2019-07-01,57.9
+internet_penetracion,Entre Ríos,2019-10-01,57.99
+internet_penetracion,Entre Ríos,2020-01-01,56.12
+internet_penetracion,Entre Ríos,2020-04-01,56.54
+internet_penetracion,Entre Ríos,2020-07-01,58.19
+internet_penetracion,Entre Ríos,2020-10-01,59.47
+internet_penetracion,Entre Ríos,2021-01-01,60.44
+internet_penetracion,Entre Ríos,2021-04-01,61.66
+internet_penetracion,Entre Ríos,2021-07-01,62.18
+internet_penetracion,Entre Ríos,2021-10-01,63.16
+internet_penetracion,Entre Ríos,2022-01-01,63.7
+internet_penetracion,Entre Ríos,2022-04-01,53.8
+internet_penetracion,Entre Ríos,2022-07-01,53.47
+internet_penetracion,Entre Ríos,2022-10-01,53.62
+internet_penetracion,Entre Ríos,2023-01-01,54.13
+internet_penetracion,Entre Ríos,2023-04-01,53.69
+internet_penetracion,Entre Ríos,2023-07-01,57.45
+internet_penetracion,Entre Ríos,2023-10-01,57.42
+internet_penetracion,Entre Ríos,2024-01-01,58.03
+internet_penetracion,Entre Ríos,2024-04-01,57.56
+internet_penetracion,Entre Ríos,2024-07-01,58.16
+internet_penetracion,Entre Ríos,2024-10-01,58.77
+internet_penetracion,Entre Ríos,2025-01-01,59.32
+internet_penetracion,Entre Ríos,2025-04-01,60.05
+internet_penetracion,Entre Ríos,2025-07-01,62.39
+internet_penetracion,Entre Ríos,2025-10-01,66.7
+internet_penetracion,Entre Ríos,2026-01-01,69.19
+internet_penetracion,Entre Ríos,2026-04-01,70.37
+internet_penetracion,Formosa,2014-01-01,17.42
+internet_penetracion,Formosa,2014-04-01,17.54
+internet_penetracion,Formosa,2014-07-01,17.77
+internet_penetracion,Formosa,2014-10-01,17.96
+internet_penetracion,Formosa,2015-01-01,18.12
+internet_penetracion,Formosa,2015-04-01,18.36
+internet_penetracion,Formosa,2015-07-01,18.84
+internet_penetracion,Formosa,2015-10-01,19.07
+internet_penetracion,Formosa,2016-01-01,19.04
+internet_penetracion,Formosa,2016-04-01,19.37
+internet_penetracion,Formosa,2016-07-01,18.64
+internet_penetracion,Formosa,2016-10-01,19.85
+internet_penetracion,Formosa,2017-01-01,19.84
+internet_penetracion,Formosa,2017-04-01,19.97
+internet_penetracion,Formosa,2017-07-01,21.35
+internet_penetracion,Formosa,2017-10-01,21.27
+internet_penetracion,Formosa,2018-01-01,21.4
+internet_penetracion,Formosa,2018-04-01,29.43
+internet_penetracion,Formosa,2018-07-01,29.58
+internet_penetracion,Formosa,2018-10-01,29.74
+internet_penetracion,Formosa,2019-01-01,29.68
+internet_penetracion,Formosa,2019-04-01,30.42
+internet_penetracion,Formosa,2019-07-01,30.11
+internet_penetracion,Formosa,2019-10-01,30.47
+internet_penetracion,Formosa,2020-01-01,30.23
+internet_penetracion,Formosa,2020-04-01,31.14
+internet_penetracion,Formosa,2020-07-01,31.91
+internet_penetracion,Formosa,2020-10-01,32.49
+internet_penetracion,Formosa,2021-01-01,32.73
+internet_penetracion,Formosa,2021-04-01,33.23
+internet_penetracion,Formosa,2021-07-01,33.96
+internet_penetracion,Formosa,2021-10-01,34.45
+internet_penetracion,Formosa,2022-01-01,34.96
+internet_penetracion,Formosa,2022-04-01,34.25
+internet_penetracion,Formosa,2022-07-01,34.37
+internet_penetracion,Formosa,2022-10-01,30.82
+internet_penetracion,Formosa,2023-01-01,30.21
+internet_penetracion,Formosa,2023-04-01,29.71
+internet_penetracion,Formosa,2023-07-01,30.16
+internet_penetracion,Formosa,2023-10-01,30.14
+internet_penetracion,Formosa,2024-01-01,30.8
+internet_penetracion,Formosa,2024-04-01,30.89
+internet_penetracion,Formosa,2024-07-01,31.34
+internet_penetracion,Formosa,2024-10-01,31.92
+internet_penetracion,Formosa,2025-01-01,32.33
+internet_penetracion,Formosa,2025-04-01,33.68
+internet_penetracion,Formosa,2025-07-01,37.22
+internet_penetracion,Formosa,2025-10-01,42
+internet_penetracion,Formosa,2026-01-01,48.74
+internet_penetracion,Formosa,2026-04-01,50.11
+internet_penetracion,Jujuy,2014-01-01,18.42
+internet_penetracion,Jujuy,2014-04-01,18.71
+internet_penetracion,Jujuy,2014-07-01,18.37
+internet_penetracion,Jujuy,2014-10-01,19.6
+internet_penetracion,Jujuy,2015-01-01,19.69
+internet_penetracion,Jujuy,2015-04-01,20.29
+internet_penetracion,Jujuy,2015-07-01,21.27
+internet_penetracion,Jujuy,2015-10-01,21.47
+internet_penetracion,Jujuy,2016-01-01,21.41
+internet_penetracion,Jujuy,2016-04-01,21.89
+internet_penetracion,Jujuy,2016-07-01,22.61
+internet_penetracion,Jujuy,2016-10-01,22.65
+internet_penetracion,Jujuy,2017-01-01,22.76
+internet_penetracion,Jujuy,2017-04-01,22.4
+internet_penetracion,Jujuy,2017-07-01,22.65
+internet_penetracion,Jujuy,2017-10-01,22.74
+internet_penetracion,Jujuy,2018-01-01,23.12
+internet_penetracion,Jujuy,2018-04-01,23.43
+internet_penetracion,Jujuy,2018-07-01,23.26
+internet_penetracion,Jujuy,2018-10-01,46.53
+internet_penetracion,Jujuy,2019-01-01,46.41
+internet_penetracion,Jujuy,2019-04-01,44.51
+internet_penetracion,Jujuy,2019-07-01,44.32
+internet_penetracion,Jujuy,2019-10-01,45.38
+internet_penetracion,Jujuy,2020-01-01,46.67
+internet_penetracion,Jujuy,2020-04-01,47.89
+internet_penetracion,Jujuy,2020-07-01,54.04
+internet_penetracion,Jujuy,2020-10-01,53.46
+internet_penetracion,Jujuy,2021-01-01,55.63
+internet_penetracion,Jujuy,2021-04-01,56.18
+internet_penetracion,Jujuy,2021-07-01,55.69
+internet_penetracion,Jujuy,2021-10-01,56.92
+internet_penetracion,Jujuy,2022-01-01,58.06
+internet_penetracion,Jujuy,2022-04-01,46.93
+internet_penetracion,Jujuy,2022-07-01,48.58
+internet_penetracion,Jujuy,2022-10-01,48.56
+internet_penetracion,Jujuy,2023-01-01,48.68
+internet_penetracion,Jujuy,2023-04-01,48.68
+internet_penetracion,Jujuy,2023-07-01,48.63
+internet_penetracion,Jujuy,2023-10-01,48.6
+internet_penetracion,Jujuy,2024-01-01,48.85
+internet_penetracion,Jujuy,2024-04-01,49.5
+internet_penetracion,Jujuy,2024-07-01,53.85
+internet_penetracion,Jujuy,2024-10-01,53.99
+internet_penetracion,Jujuy,2025-01-01,54.43
+internet_penetracion,Jujuy,2025-04-01,55.25
+internet_penetracion,Jujuy,2025-07-01,58.28
+internet_penetracion,Jujuy,2025-10-01,62.88
+internet_penetracion,Jujuy,2026-01-01,64.78
+internet_penetracion,Jujuy,2026-04-01,66.42
+internet_penetracion,La Pampa,2014-01-01,48.43
+internet_penetracion,La Pampa,2014-04-01,49.71
+internet_penetracion,La Pampa,2014-07-01,55.78
+internet_penetracion,La Pampa,2014-10-01,51.27
+internet_penetracion,La Pampa,2015-01-01,55.51
+internet_penetracion,La Pampa,2015-04-01,56.71
+internet_penetracion,La Pampa,2015-07-01,57.96
+internet_penetracion,La Pampa,2015-10-01,58.76
+internet_penetracion,La Pampa,2016-01-01,57.84
+internet_penetracion,La Pampa,2016-04-01,60.44
+internet_penetracion,La Pampa,2016-07-01,61.73
+internet_penetracion,La Pampa,2016-10-01,63.02
+internet_penetracion,La Pampa,2017-01-01,62.67
+internet_penetracion,La Pampa,2017-04-01,63.49
+internet_penetracion,La Pampa,2017-07-01,69.14
+internet_penetracion,La Pampa,2017-10-01,71.05
+internet_penetracion,La Pampa,2018-01-01,71.75
+internet_penetracion,La Pampa,2018-04-01,71.04
+internet_penetracion,La Pampa,2018-07-01,71.75
+internet_penetracion,La Pampa,2018-10-01,73.49
+internet_penetracion,La Pampa,2019-01-01,76.35
+internet_penetracion,La Pampa,2019-04-01,77.08
+internet_penetracion,La Pampa,2019-07-01,77.45
+internet_penetracion,La Pampa,2019-10-01,76.92
+internet_penetracion,La Pampa,2020-01-01,75.77
+internet_penetracion,La Pampa,2020-04-01,76.1
+internet_penetracion,La Pampa,2020-07-01,79.26
+internet_penetracion,La Pampa,2020-10-01,81.77
+internet_penetracion,La Pampa,2021-01-01,81.78
+internet_penetracion,La Pampa,2021-04-01,82.08
+internet_penetracion,La Pampa,2021-07-01,84.28
+internet_penetracion,La Pampa,2021-10-01,89.57
+internet_penetracion,La Pampa,2022-01-01,91.66
+internet_penetracion,La Pampa,2022-04-01,78.78
+internet_penetracion,La Pampa,2022-07-01,81.28
+internet_penetracion,La Pampa,2022-10-01,79.22
+internet_penetracion,La Pampa,2023-01-01,80.13
+internet_penetracion,La Pampa,2023-04-01,81.06
+internet_penetracion,La Pampa,2023-07-01,81.7
+internet_penetracion,La Pampa,2023-10-01,81.65
+internet_penetracion,La Pampa,2024-01-01,83.15
+internet_penetracion,La Pampa,2024-04-01,83.82
+internet_penetracion,La Pampa,2024-07-01,86.66
+internet_penetracion,La Pampa,2024-10-01,87.17
+internet_penetracion,La Pampa,2025-01-01,87.97
+internet_penetracion,La Pampa,2025-04-01,88.88
+internet_penetracion,La Pampa,2025-07-01,90.47
+internet_penetracion,La Pampa,2025-10-01,97.1
+internet_penetracion,La Pampa,2026-01-01,102.74
+internet_penetracion,La Pampa,2026-04-01,103.29
+internet_penetracion,La Rioja,2014-01-01,16.29
+internet_penetracion,La Rioja,2014-04-01,16.5
+internet_penetracion,La Rioja,2014-07-01,16.51
+internet_penetracion,La Rioja,2014-10-01,17.01
+internet_penetracion,La Rioja,2015-01-01,16.7
+internet_penetracion,La Rioja,2015-04-01,16.88
+internet_penetracion,La Rioja,2015-07-01,17.15
+internet_penetracion,La Rioja,2015-10-01,17.32
+internet_penetracion,La Rioja,2016-01-01,16.83
+internet_penetracion,La Rioja,2016-04-01,16.88
+internet_penetracion,La Rioja,2016-07-01,17.07
+internet_penetracion,La Rioja,2016-10-01,16.46
+internet_penetracion,La Rioja,2017-01-01,16.2
+internet_penetracion,La Rioja,2017-04-01,16.2
+internet_penetracion,La Rioja,2017-07-01,51.47
+internet_penetracion,La Rioja,2017-10-01,51.57
+internet_penetracion,La Rioja,2018-01-01,51.44
+internet_penetracion,La Rioja,2018-04-01,50.98
+internet_penetracion,La Rioja,2018-07-01,50.73
+internet_penetracion,La Rioja,2018-10-01,50.35
+internet_penetracion,La Rioja,2019-01-01,50.18
+internet_penetracion,La Rioja,2019-04-01,48.7
+internet_penetracion,La Rioja,2019-07-01,47.94
+internet_penetracion,La Rioja,2019-10-01,47.14
+internet_penetracion,La Rioja,2020-01-01,46.35
+internet_penetracion,La Rioja,2020-04-01,49.84
+internet_penetracion,La Rioja,2020-07-01,50.12
+internet_penetracion,La Rioja,2020-10-01,50.11
+internet_penetracion,La Rioja,2021-01-01,49.81
+internet_penetracion,La Rioja,2021-04-01,76.98
+internet_penetracion,La Rioja,2021-07-01,77.26
+internet_penetracion,La Rioja,2021-10-01,77.92
+internet_penetracion,La Rioja,2022-01-01,78.77
+internet_penetracion,La Rioja,2022-04-01,68.14
+internet_penetracion,La Rioja,2022-07-01,68.09
+internet_penetracion,La Rioja,2022-10-01,66.92
+internet_penetracion,La Rioja,2023-01-01,66.34
+internet_penetracion,La Rioja,2023-04-01,66.09
+internet_penetracion,La Rioja,2023-07-01,66.57
+internet_penetracion,La Rioja,2023-10-01,66.5
+internet_penetracion,La Rioja,2024-01-01,66.49
+internet_penetracion,La Rioja,2024-04-01,66.19
+internet_penetracion,La Rioja,2024-07-01,66.36
+internet_penetracion,La Rioja,2024-10-01,66.29
+internet_penetracion,La Rioja,2025-01-01,66.81
+internet_penetracion,La Rioja,2025-04-01,67.53
+internet_penetracion,La Rioja,2025-07-01,68.03
+internet_penetracion,La Rioja,2025-10-01,68.41
+internet_penetracion,La Rioja,2026-01-01,69.22
+internet_penetracion,La Rioja,2026-04-01,73.72
+internet_penetracion,Mendoza,2014-01-01,31.91
+internet_penetracion,Mendoza,2014-04-01,32.1
+internet_penetracion,Mendoza,2014-07-01,32.31
+internet_penetracion,Mendoza,2014-10-01,32.64
+internet_penetracion,Mendoza,2015-01-01,32.37
+internet_penetracion,Mendoza,2015-04-01,32.49
+internet_penetracion,Mendoza,2015-07-01,32.49
+internet_penetracion,Mendoza,2015-10-01,32.49
+internet_penetracion,Mendoza,2016-01-01,32.12
+internet_penetracion,Mendoza,2016-04-01,32.13
+internet_penetracion,Mendoza,2016-07-01,32.09
+internet_penetracion,Mendoza,2016-10-01,32.11
+internet_penetracion,Mendoza,2017-01-01,31.84
+internet_penetracion,Mendoza,2017-04-01,31.76
+internet_penetracion,Mendoza,2017-07-01,35.7
+internet_penetracion,Mendoza,2017-10-01,33.33
+internet_penetracion,Mendoza,2018-01-01,37.07
+internet_penetracion,Mendoza,2018-04-01,36.97
+internet_penetracion,Mendoza,2018-07-01,37.99
+internet_penetracion,Mendoza,2018-10-01,37.76
+internet_penetracion,Mendoza,2019-01-01,37.66
+internet_penetracion,Mendoza,2019-04-01,40.75
+internet_penetracion,Mendoza,2019-07-01,40.74
+internet_penetracion,Mendoza,2019-10-01,33.65
+internet_penetracion,Mendoza,2020-01-01,33.14
+internet_penetracion,Mendoza,2020-04-01,36.25
+internet_penetracion,Mendoza,2020-07-01,37.35
+internet_penetracion,Mendoza,2020-10-01,38.63
+internet_penetracion,Mendoza,2021-01-01,39.15
+internet_penetracion,Mendoza,2021-04-01,40.97
+internet_penetracion,Mendoza,2021-07-01,45.55
+internet_penetracion,Mendoza,2021-10-01,47.51
+internet_penetracion,Mendoza,2022-01-01,48.74
+internet_penetracion,Mendoza,2022-04-01,42.87
+internet_penetracion,Mendoza,2022-07-01,44.43
+internet_penetracion,Mendoza,2022-10-01,44.86
+internet_penetracion,Mendoza,2023-01-01,45.03
+internet_penetracion,Mendoza,2023-04-01,45.78
+internet_penetracion,Mendoza,2023-07-01,45.81
+internet_penetracion,Mendoza,2023-10-01,45.78
+internet_penetracion,Mendoza,2024-01-01,46.46
+internet_penetracion,Mendoza,2024-04-01,46.28
+internet_penetracion,Mendoza,2024-07-01,47.16
+internet_penetracion,Mendoza,2024-10-01,51.79
+internet_penetracion,Mendoza,2025-01-01,52.76
+internet_penetracion,Mendoza,2025-04-01,54.03
+internet_penetracion,Mendoza,2025-07-01,55.96
+internet_penetracion,Mendoza,2025-10-01,59.42
+internet_penetracion,Mendoza,2026-01-01,60.7
+internet_penetracion,Mendoza,2026-04-01,62.26
+internet_penetracion,Misiones,2014-01-01,23.14
+internet_penetracion,Misiones,2014-04-01,23.37
+internet_penetracion,Misiones,2014-07-01,23.57
+internet_penetracion,Misiones,2014-10-01,24.16
+internet_penetracion,Misiones,2015-01-01,26.31
+internet_penetracion,Misiones,2015-04-01,27.35
+internet_penetracion,Misiones,2015-07-01,28.31
+internet_penetracion,Misiones,2015-10-01,28.69
+internet_penetracion,Misiones,2016-01-01,28.37
+internet_penetracion,Misiones,2016-04-01,29.24
+internet_penetracion,Misiones,2016-07-01,29.91
+internet_penetracion,Misiones,2016-10-01,29.72
+internet_penetracion,Misiones,2017-01-01,29.52
+internet_penetracion,Misiones,2017-04-01,30.09
+internet_penetracion,Misiones,2017-07-01,30.21
+internet_penetracion,Misiones,2017-10-01,31.14
+internet_penetracion,Misiones,2018-01-01,30.96
+internet_penetracion,Misiones,2018-04-01,31.63
+internet_penetracion,Misiones,2018-07-01,32.1
+internet_penetracion,Misiones,2018-10-01,34.45
+internet_penetracion,Misiones,2019-01-01,36.26
+internet_penetracion,Misiones,2019-04-01,39.15
+internet_penetracion,Misiones,2019-07-01,39.33
+internet_penetracion,Misiones,2019-10-01,39.79
+internet_penetracion,Misiones,2020-01-01,39.02
+internet_penetracion,Misiones,2020-04-01,40.89
+internet_penetracion,Misiones,2020-07-01,41.6
+internet_penetracion,Misiones,2020-10-01,42.64
+internet_penetracion,Misiones,2021-01-01,43.17
+internet_penetracion,Misiones,2021-04-01,45.01
+internet_penetracion,Misiones,2021-07-01,45.57
+internet_penetracion,Misiones,2021-10-01,49.06
+internet_penetracion,Misiones,2022-01-01,49.04
+internet_penetracion,Misiones,2022-04-01,42.01
+internet_penetracion,Misiones,2022-07-01,42.43
+internet_penetracion,Misiones,2022-10-01,43.02
+internet_penetracion,Misiones,2023-01-01,43.67
+internet_penetracion,Misiones,2023-04-01,44.39
+internet_penetracion,Misiones,2023-07-01,44.68
+internet_penetracion,Misiones,2023-10-01,44.59
+internet_penetracion,Misiones,2024-01-01,45.72
+internet_penetracion,Misiones,2024-04-01,46.53
+internet_penetracion,Misiones,2024-07-01,47.02
+internet_penetracion,Misiones,2024-10-01,47.39
+internet_penetracion,Misiones,2025-01-01,47.7
+internet_penetracion,Misiones,2025-04-01,47.84
+internet_penetracion,Misiones,2025-07-01,51.53
+internet_penetracion,Misiones,2025-10-01,53.26
+internet_penetracion,Misiones,2026-01-01,54.67
+internet_penetracion,Misiones,2026-04-01,56.57
+internet_penetracion,Neuquén,2014-01-01,49.79
+internet_penetracion,Neuquén,2014-04-01,50.84
+internet_penetracion,Neuquén,2014-07-01,56.4
+internet_penetracion,Neuquén,2014-10-01,52.55
+internet_penetracion,Neuquén,2015-01-01,51.95
+internet_penetracion,Neuquén,2015-04-01,53.12
+internet_penetracion,Neuquén,2015-07-01,54.6
+internet_penetracion,Neuquén,2015-10-01,58.29
+internet_penetracion,Neuquén,2016-01-01,55.75
+internet_penetracion,Neuquén,2016-04-01,59.1
+internet_penetracion,Neuquén,2016-07-01,60.21
+internet_penetracion,Neuquén,2016-10-01,60.87
+internet_penetracion,Neuquén,2017-01-01,61.02
+internet_penetracion,Neuquén,2017-04-01,61.91
+internet_penetracion,Neuquén,2017-07-01,60.83
+internet_penetracion,Neuquén,2017-10-01,61.24
+internet_penetracion,Neuquén,2018-01-01,61.52
+internet_penetracion,Neuquén,2018-04-01,60.24
+internet_penetracion,Neuquén,2018-07-01,60.49
+internet_penetracion,Neuquén,2018-10-01,59.07
+internet_penetracion,Neuquén,2019-01-01,58.88
+internet_penetracion,Neuquén,2019-04-01,63.08
+internet_penetracion,Neuquén,2019-07-01,64.14
+internet_penetracion,Neuquén,2019-10-01,59.36
+internet_penetracion,Neuquén,2020-01-01,61.85
+internet_penetracion,Neuquén,2020-04-01,63.9
+internet_penetracion,Neuquén,2020-07-01,65.24
+internet_penetracion,Neuquén,2020-10-01,67
+internet_penetracion,Neuquén,2021-01-01,66.84
+internet_penetracion,Neuquén,2021-04-01,69.14
+internet_penetracion,Neuquén,2021-07-01,69.71
+internet_penetracion,Neuquén,2021-10-01,73.3
+internet_penetracion,Neuquén,2022-01-01,74.17
+internet_penetracion,Neuquén,2022-04-01,62.93
+internet_penetracion,Neuquén,2022-07-01,63.77
+internet_penetracion,Neuquén,2022-10-01,62.99
+internet_penetracion,Neuquén,2023-01-01,63.46
+internet_penetracion,Neuquén,2023-04-01,64.37
+internet_penetracion,Neuquén,2023-07-01,65.27
+internet_penetracion,Neuquén,2023-10-01,65.17
+internet_penetracion,Neuquén,2024-01-01,65.05
+internet_penetracion,Neuquén,2024-04-01,64.67
+internet_penetracion,Neuquén,2024-07-01,66.59
+internet_penetracion,Neuquén,2024-10-01,73.76
+internet_penetracion,Neuquén,2025-01-01,75.9
+internet_penetracion,Neuquén,2025-04-01,78.65
+internet_penetracion,Neuquén,2025-07-01,82.28
+internet_penetracion,Neuquén,2025-10-01,85.14
+internet_penetracion,Neuquén,2026-01-01,92.97
+internet_penetracion,Neuquén,2026-04-01,94.49
+internet_penetracion,Río Negro,2014-01-01,44.91
+internet_penetracion,Río Negro,2014-04-01,45.33
+internet_penetracion,Río Negro,2014-07-01,46.2
+internet_penetracion,Río Negro,2014-10-01,45.48
+internet_penetracion,Río Negro,2015-01-01,45.33
+internet_penetracion,Río Negro,2015-04-01,45.98
+internet_penetracion,Río Negro,2015-07-01,46.39
+internet_penetracion,Río Negro,2015-10-01,46.44
+internet_penetracion,Río Negro,2016-01-01,45.84
+internet_penetracion,Río Negro,2016-04-01,46.24
+internet_penetracion,Río Negro,2016-07-01,46.39
+internet_penetracion,Río Negro,2016-10-01,46.39
+internet_penetracion,Río Negro,2017-01-01,46.03
+internet_penetracion,Río Negro,2017-04-01,46.02
+internet_penetracion,Río Negro,2017-07-01,48.52
+internet_penetracion,Río Negro,2017-10-01,49.38
+internet_penetracion,Río Negro,2018-01-01,49.82
+internet_penetracion,Río Negro,2018-04-01,50.15
+internet_penetracion,Río Negro,2018-07-01,50.54
+internet_penetracion,Río Negro,2018-10-01,51.86
+internet_penetracion,Río Negro,2019-01-01,53.57
+internet_penetracion,Río Negro,2019-04-01,61.09
+internet_penetracion,Río Negro,2019-07-01,63.42
+internet_penetracion,Río Negro,2019-10-01,55.71
+internet_penetracion,Río Negro,2020-01-01,55.12
+internet_penetracion,Río Negro,2020-04-01,56.37
+internet_penetracion,Río Negro,2020-07-01,57.05
+internet_penetracion,Río Negro,2020-10-01,61.09
+internet_penetracion,Río Negro,2021-01-01,60.88
+internet_penetracion,Río Negro,2021-04-01,61.94
+internet_penetracion,Río Negro,2021-07-01,61.97
+internet_penetracion,Río Negro,2021-10-01,65.69
+internet_penetracion,Río Negro,2022-01-01,67.04
+internet_penetracion,Río Negro,2022-04-01,57.28
+internet_penetracion,Río Negro,2022-07-01,57
+internet_penetracion,Río Negro,2022-10-01,56.99
+internet_penetracion,Río Negro,2023-01-01,57.22
+internet_penetracion,Río Negro,2023-04-01,56.34
+internet_penetracion,Río Negro,2023-07-01,56.3
+internet_penetracion,Río Negro,2023-10-01,56.23
+internet_penetracion,Río Negro,2024-01-01,58.74
+internet_penetracion,Río Negro,2024-04-01,59.02
+internet_penetracion,Río Negro,2024-07-01,60.92
+internet_penetracion,Río Negro,2024-10-01,61.41
+internet_penetracion,Río Negro,2025-01-01,62.55
+internet_penetracion,Río Negro,2025-04-01,63.91
+internet_penetracion,Río Negro,2025-07-01,70.52
+internet_penetracion,Río Negro,2025-10-01,76.43
+internet_penetracion,Río Negro,2026-01-01,81.63
+internet_penetracion,Río Negro,2026-04-01,83.58
+internet_penetracion,Salta,2014-01-01,28.7
+internet_penetracion,Salta,2014-04-01,28.91
+internet_penetracion,Salta,2014-07-01,29.22
+internet_penetracion,Salta,2014-10-01,29.53
+internet_penetracion,Salta,2015-01-01,30.01
+internet_penetracion,Salta,2015-04-01,30.46
+internet_penetracion,Salta,2015-07-01,31.18
+internet_penetracion,Salta,2015-10-01,31.59
+internet_penetracion,Salta,2016-01-01,31.32
+internet_penetracion,Salta,2016-04-01,32.08
+internet_penetracion,Salta,2016-07-01,32.96
+internet_penetracion,Salta,2016-10-01,32.69
+internet_penetracion,Salta,2017-01-01,32.58
+internet_penetracion,Salta,2017-04-01,32.74
+internet_penetracion,Salta,2017-07-01,39.84
+internet_penetracion,Salta,2017-10-01,39.8
+internet_penetracion,Salta,2018-01-01,39.78
+internet_penetracion,Salta,2018-04-01,39.94
+internet_penetracion,Salta,2018-07-01,39.43
+internet_penetracion,Salta,2018-10-01,39.8
+internet_penetracion,Salta,2019-01-01,40.1
+internet_penetracion,Salta,2019-04-01,41.89
+internet_penetracion,Salta,2019-07-01,44.48
+internet_penetracion,Salta,2019-10-01,50.35
+internet_penetracion,Salta,2020-01-01,49.6
+internet_penetracion,Salta,2020-04-01,51.58
+internet_penetracion,Salta,2020-07-01,52.32
+internet_penetracion,Salta,2020-10-01,54.04
+internet_penetracion,Salta,2021-01-01,53.93
+internet_penetracion,Salta,2021-04-01,54.93
+internet_penetracion,Salta,2021-07-01,55.96
+internet_penetracion,Salta,2021-10-01,56.81
+internet_penetracion,Salta,2022-01-01,56.11
+internet_penetracion,Salta,2022-04-01,48.56
+internet_penetracion,Salta,2022-07-01,48.61
+internet_penetracion,Salta,2022-10-01,48.65
+internet_penetracion,Salta,2023-01-01,48.28
+internet_penetracion,Salta,2023-04-01,47.99
+internet_penetracion,Salta,2023-07-01,48.15
+internet_penetracion,Salta,2023-10-01,48.09
+internet_penetracion,Salta,2024-01-01,47.26
+internet_penetracion,Salta,2024-04-01,46.85
+internet_penetracion,Salta,2024-07-01,47.37
+internet_penetracion,Salta,2024-10-01,44.05
+internet_penetracion,Salta,2025-01-01,44.48
+internet_penetracion,Salta,2025-04-01,46.15
+internet_penetracion,Salta,2025-07-01,49.96
+internet_penetracion,Salta,2025-10-01,53.52
+internet_penetracion,Salta,2026-01-01,71.97
+internet_penetracion,Salta,2026-04-01,73.79
+internet_penetracion,San Juan,2014-01-01,27.6
+internet_penetracion,San Juan,2014-04-01,27.78
+internet_penetracion,San Juan,2014-07-01,27.85
+internet_penetracion,San Juan,2014-10-01,28.04
+internet_penetracion,San Juan,2015-01-01,27.55
+internet_penetracion,San Juan,2015-04-01,27.64
+internet_penetracion,San Juan,2015-07-01,27.67
+internet_penetracion,San Juan,2015-10-01,27.66
+internet_penetracion,San Juan,2016-01-01,27.33
+internet_penetracion,San Juan,2016-04-01,27.34
+internet_penetracion,San Juan,2016-07-01,27.32
+internet_penetracion,San Juan,2016-10-01,27.29
+internet_penetracion,San Juan,2017-01-01,27.04
+internet_penetracion,San Juan,2017-04-01,26.96
+internet_penetracion,San Juan,2017-07-01,32.37
+internet_penetracion,San Juan,2017-10-01,30.3
+internet_penetracion,San Juan,2018-01-01,32.61
+internet_penetracion,San Juan,2018-04-01,32.95
+internet_penetracion,San Juan,2018-07-01,33.05
+internet_penetracion,San Juan,2018-10-01,31.9
+internet_penetracion,San Juan,2019-01-01,31.83
+internet_penetracion,San Juan,2019-04-01,35.6
+internet_penetracion,San Juan,2019-07-01,37.06
+internet_penetracion,San Juan,2019-10-01,32.85
+internet_penetracion,San Juan,2020-01-01,32.39
+internet_penetracion,San Juan,2020-04-01,35.09
+internet_penetracion,San Juan,2020-07-01,38.79
+internet_penetracion,San Juan,2020-10-01,36.32
+internet_penetracion,San Juan,2021-01-01,39.06
+internet_penetracion,San Juan,2021-04-01,39.28
+internet_penetracion,San Juan,2021-07-01,39.46
+internet_penetracion,San Juan,2021-10-01,39.59
+internet_penetracion,San Juan,2022-01-01,43.55
+internet_penetracion,San Juan,2022-04-01,40.64
+internet_penetracion,San Juan,2022-07-01,41.62
+internet_penetracion,San Juan,2022-10-01,41.56
+internet_penetracion,San Juan,2023-01-01,40.51
+internet_penetracion,San Juan,2023-04-01,38.58
+internet_penetracion,San Juan,2023-07-01,41.02
+internet_penetracion,San Juan,2023-10-01,40.97
+internet_penetracion,San Juan,2024-01-01,42.08
+internet_penetracion,San Juan,2024-04-01,41.76
+internet_penetracion,San Juan,2024-07-01,42.41
+internet_penetracion,San Juan,2024-10-01,49.86
+internet_penetracion,San Juan,2025-01-01,50.51
+internet_penetracion,San Juan,2025-04-01,52.01
+internet_penetracion,San Juan,2025-07-01,56.5
+internet_penetracion,San Juan,2025-10-01,59.52
+internet_penetracion,San Juan,2026-01-01,58.84
+internet_penetracion,San Juan,2026-04-01,61.19
+internet_penetracion,San Luis,2014-01-01,9.35
+internet_penetracion,San Luis,2014-04-01,9.72
+internet_penetracion,San Luis,2014-07-01,9.71
+internet_penetracion,San Luis,2014-10-01,9.79
+internet_penetracion,San Luis,2015-01-01,9.72
+internet_penetracion,San Luis,2015-04-01,9.71
+internet_penetracion,San Luis,2015-07-01,9.71
+internet_penetracion,San Luis,2015-10-01,9.71
+internet_penetracion,San Luis,2016-01-01,9.59
+internet_penetracion,San Luis,2016-04-01,9.6
+internet_penetracion,San Luis,2016-07-01,9.63
+internet_penetracion,San Luis,2016-10-01,9.64
+internet_penetracion,San Luis,2017-01-01,9.55
+internet_penetracion,San Luis,2017-04-01,9.51
+internet_penetracion,San Luis,2017-07-01,15.48
+internet_penetracion,San Luis,2017-10-01,10.59
+internet_penetracion,San Luis,2018-01-01,15.15
+internet_penetracion,San Luis,2018-04-01,15.15
+internet_penetracion,San Luis,2018-07-01,52.35
+internet_penetracion,San Luis,2018-10-01,67.55
+internet_penetracion,San Luis,2019-01-01,67.34
+internet_penetracion,San Luis,2019-04-01,81.79
+internet_penetracion,San Luis,2019-07-01,85.23
+internet_penetracion,San Luis,2019-10-01,74.92
+internet_penetracion,San Luis,2020-01-01,76.31
+internet_penetracion,San Luis,2020-04-01,78.41
+internet_penetracion,San Luis,2020-07-01,79.96
+internet_penetracion,San Luis,2020-10-01,81.68
+internet_penetracion,San Luis,2021-01-01,81.24
+internet_penetracion,San Luis,2021-04-01,83.48
+internet_penetracion,San Luis,2021-07-01,79.87
+internet_penetracion,San Luis,2021-10-01,80.3
+internet_penetracion,San Luis,2022-01-01,80.72
+internet_penetracion,San Luis,2022-04-01,65.61
+internet_penetracion,San Luis,2022-07-01,66.14
+internet_penetracion,San Luis,2022-10-01,73.65
+internet_penetracion,San Luis,2023-01-01,74.17
+internet_penetracion,San Luis,2023-04-01,77.47
+internet_penetracion,San Luis,2023-07-01,81.86
+internet_penetracion,San Luis,2023-10-01,81.76
+internet_penetracion,San Luis,2024-01-01,85.59
+internet_penetracion,San Luis,2024-04-01,86.31
+internet_penetracion,San Luis,2024-07-01,93.24
+internet_penetracion,San Luis,2024-10-01,96.01
+internet_penetracion,San Luis,2025-01-01,97.03
+internet_penetracion,San Luis,2025-04-01,101.9
+internet_penetracion,San Luis,2025-07-01,101.2
+internet_penetracion,San Luis,2025-10-01,98.77
+internet_penetracion,San Luis,2026-01-01,103.57
+internet_penetracion,San Luis,2026-04-01,104.18
+internet_penetracion,Santa Cruz,2014-01-01,28.94
+internet_penetracion,Santa Cruz,2014-04-01,29.38
+internet_penetracion,Santa Cruz,2014-07-01,28.23
+internet_penetracion,Santa Cruz,2014-10-01,27.8
+internet_penetracion,Santa Cruz,2015-01-01,27.99
+internet_penetracion,Santa Cruz,2015-04-01,27.07
+internet_penetracion,Santa Cruz,2015-07-01,27.61
+internet_penetracion,Santa Cruz,2015-10-01,27.74
+internet_penetracion,Santa Cruz,2016-01-01,26.87
+internet_penetracion,Santa Cruz,2016-04-01,26.73
+internet_penetracion,Santa Cruz,2016-07-01,26.84
+internet_penetracion,Santa Cruz,2016-10-01,27.05
+internet_penetracion,Santa Cruz,2017-01-01,26.52
+internet_penetracion,Santa Cruz,2017-04-01,26.25
+internet_penetracion,Santa Cruz,2017-07-01,33.29
+internet_penetracion,Santa Cruz,2017-10-01,28.91
+internet_penetracion,Santa Cruz,2018-01-01,33.55
+internet_penetracion,Santa Cruz,2018-04-01,33.33
+internet_penetracion,Santa Cruz,2018-07-01,32.73
+internet_penetracion,Santa Cruz,2018-10-01,23.69
+internet_penetracion,Santa Cruz,2019-01-01,23.67
+internet_penetracion,Santa Cruz,2019-04-01,28.85
+internet_penetracion,Santa Cruz,2019-07-01,35.63
+internet_penetracion,Santa Cruz,2019-10-01,36.71
+internet_penetracion,Santa Cruz,2020-01-01,35.97
+internet_penetracion,Santa Cruz,2020-04-01,35.79
+internet_penetracion,Santa Cruz,2020-07-01,35.95
+internet_penetracion,Santa Cruz,2020-10-01,37
+internet_penetracion,Santa Cruz,2021-01-01,41.65
+internet_penetracion,Santa Cruz,2021-04-01,44.01
+internet_penetracion,Santa Cruz,2021-07-01,43.75
+internet_penetracion,Santa Cruz,2021-10-01,43.05
+internet_penetracion,Santa Cruz,2022-01-01,43.34
+internet_penetracion,Santa Cruz,2022-04-01,41.24
+internet_penetracion,Santa Cruz,2022-07-01,41.6
+internet_penetracion,Santa Cruz,2022-10-01,42.26
+internet_penetracion,Santa Cruz,2023-01-01,42.48
+internet_penetracion,Santa Cruz,2023-04-01,41.08
+internet_penetracion,Santa Cruz,2023-07-01,40.55
+internet_penetracion,Santa Cruz,2023-10-01,40.55
+internet_penetracion,Santa Cruz,2024-01-01,67.76
+internet_penetracion,Santa Cruz,2024-04-01,70.5
+internet_penetracion,Santa Cruz,2024-07-01,71.25
+internet_penetracion,Santa Cruz,2024-10-01,69.97
+internet_penetracion,Santa Cruz,2025-01-01,70.46
+internet_penetracion,Santa Cruz,2025-04-01,71.84
+internet_penetracion,Santa Cruz,2025-07-01,73.53
+internet_penetracion,Santa Cruz,2025-10-01,82.34
+internet_penetracion,Santa Cruz,2026-01-01,89.6
+internet_penetracion,Santa Cruz,2026-04-01,90.83
+internet_penetracion,Santa Fe,2014-01-01,47.85
+internet_penetracion,Santa Fe,2014-04-01,48.39
+internet_penetracion,Santa Fe,2014-07-01,49.2
+internet_penetracion,Santa Fe,2014-10-01,50
+internet_penetracion,Santa Fe,2015-01-01,50.24
+internet_penetracion,Santa Fe,2015-04-01,51.18
+internet_penetracion,Santa Fe,2015-07-01,52.15
+internet_penetracion,Santa Fe,2015-10-01,52.61
+internet_penetracion,Santa Fe,2016-01-01,51.28
+internet_penetracion,Santa Fe,2016-04-01,52.44
+internet_penetracion,Santa Fe,2016-07-01,52.67
+internet_penetracion,Santa Fe,2016-10-01,52.19
+internet_penetracion,Santa Fe,2017-01-01,51.97
+internet_penetracion,Santa Fe,2017-04-01,52.27
+internet_penetracion,Santa Fe,2017-07-01,60.91
+internet_penetracion,Santa Fe,2017-10-01,61.71
+internet_penetracion,Santa Fe,2018-01-01,62.28
+internet_penetracion,Santa Fe,2018-04-01,62.57
+internet_penetracion,Santa Fe,2018-07-01,63.41
+internet_penetracion,Santa Fe,2018-10-01,65.59
+internet_penetracion,Santa Fe,2019-01-01,66.97
+internet_penetracion,Santa Fe,2019-04-01,67.42
+internet_penetracion,Santa Fe,2019-07-01,68.87
+internet_penetracion,Santa Fe,2019-10-01,69.48
+internet_penetracion,Santa Fe,2020-01-01,69.52
+internet_penetracion,Santa Fe,2020-04-01,70
+internet_penetracion,Santa Fe,2020-07-01,72.12
+internet_penetracion,Santa Fe,2020-10-01,73.58
+internet_penetracion,Santa Fe,2021-01-01,73.92
+internet_penetracion,Santa Fe,2021-04-01,75.07
+internet_penetracion,Santa Fe,2021-07-01,75.02
+internet_penetracion,Santa Fe,2021-10-01,77.09
+internet_penetracion,Santa Fe,2022-01-01,77.3
+internet_penetracion,Santa Fe,2022-04-01,68.13
+internet_penetracion,Santa Fe,2022-07-01,68.21
+internet_penetracion,Santa Fe,2022-10-01,67.59
+internet_penetracion,Santa Fe,2023-01-01,66.88
+internet_penetracion,Santa Fe,2023-04-01,67
+internet_penetracion,Santa Fe,2023-07-01,67.31
+internet_penetracion,Santa Fe,2023-10-01,67.29
+internet_penetracion,Santa Fe,2024-01-01,68.63
+internet_penetracion,Santa Fe,2024-04-01,69.53
+internet_penetracion,Santa Fe,2024-07-01,69.83
+internet_penetracion,Santa Fe,2024-10-01,67.83
+internet_penetracion,Santa Fe,2025-01-01,68.56
+internet_penetracion,Santa Fe,2025-04-01,69.55
+internet_penetracion,Santa Fe,2025-07-01,71.35
+internet_penetracion,Santa Fe,2025-10-01,72.9
+internet_penetracion,Santa Fe,2026-01-01,75.27
+internet_penetracion,Santa Fe,2026-04-01,76.18
+internet_penetracion,Santiago Del Estero,2014-01-01,16.31
+internet_penetracion,Santiago Del Estero,2014-04-01,16.7
+internet_penetracion,Santiago Del Estero,2014-07-01,16.49
+internet_penetracion,Santiago Del Estero,2014-10-01,17.27
+internet_penetracion,Santiago Del Estero,2015-01-01,17.06
+internet_penetracion,Santiago Del Estero,2015-04-01,17.11
+internet_penetracion,Santiago Del Estero,2015-07-01,17.12
+internet_penetracion,Santiago Del Estero,2015-10-01,17
+internet_penetracion,Santiago Del Estero,2016-01-01,16.21
+internet_penetracion,Santiago Del Estero,2016-04-01,15.89
+internet_penetracion,Santiago Del Estero,2016-07-01,15.33
+internet_penetracion,Santiago Del Estero,2016-10-01,15.07
+internet_penetracion,Santiago Del Estero,2017-01-01,14.7
+internet_penetracion,Santiago Del Estero,2017-04-01,14.12
+internet_penetracion,Santiago Del Estero,2017-07-01,35.12
+internet_penetracion,Santiago Del Estero,2017-10-01,29.13
+internet_penetracion,Santiago Del Estero,2018-01-01,34.99
+internet_penetracion,Santiago Del Estero,2018-04-01,35.26
+internet_penetracion,Santiago Del Estero,2018-07-01,36.25
+internet_penetracion,Santiago Del Estero,2018-10-01,37.4
+internet_penetracion,Santiago Del Estero,2019-01-01,37.52
+internet_penetracion,Santiago Del Estero,2019-04-01,52.79
+internet_penetracion,Santiago Del Estero,2019-07-01,55.3
+internet_penetracion,Santiago Del Estero,2019-10-01,42.92
+internet_penetracion,Santiago Del Estero,2020-01-01,42.47
+internet_penetracion,Santiago Del Estero,2020-04-01,43.47
+internet_penetracion,Santiago Del Estero,2020-07-01,43.38
+internet_penetracion,Santiago Del Estero,2020-10-01,43.75
+internet_penetracion,Santiago Del Estero,2021-01-01,45.67
+internet_penetracion,Santiago Del Estero,2021-04-01,46.56
+internet_penetracion,Santiago Del Estero,2021-07-01,47
+internet_penetracion,Santiago Del Estero,2021-10-01,47.05
+internet_penetracion,Santiago Del Estero,2022-01-01,47.17
+internet_penetracion,Santiago Del Estero,2022-04-01,37.24
+internet_penetracion,Santiago Del Estero,2022-07-01,37.65
+internet_penetracion,Santiago Del Estero,2022-10-01,37.9
+internet_penetracion,Santiago Del Estero,2023-01-01,37.7
+internet_penetracion,Santiago Del Estero,2023-04-01,37.56
+internet_penetracion,Santiago Del Estero,2023-07-01,38.84
+internet_penetracion,Santiago Del Estero,2023-10-01,38.81
+internet_penetracion,Santiago Del Estero,2024-01-01,39.55
+internet_penetracion,Santiago Del Estero,2024-04-01,39.81
+internet_penetracion,Santiago Del Estero,2024-07-01,40.99
+internet_penetracion,Santiago Del Estero,2024-10-01,35.17
+internet_penetracion,Santiago Del Estero,2025-01-01,36.94
+internet_penetracion,Santiago Del Estero,2025-04-01,38.92
+internet_penetracion,Santiago Del Estero,2025-07-01,41.62
+internet_penetracion,Santiago Del Estero,2025-10-01,44.73
+internet_penetracion,Santiago Del Estero,2026-01-01,64.14
+internet_penetracion,Santiago Del Estero,2026-04-01,66.25
+internet_penetracion,Tierra Del Fuego,2014-01-01,63.97
+internet_penetracion,Tierra Del Fuego,2014-04-01,64.36
+internet_penetracion,Tierra Del Fuego,2014-07-01,65.69
+internet_penetracion,Tierra Del Fuego,2014-10-01,66.14
+internet_penetracion,Tierra Del Fuego,2015-01-01,74.23
+internet_penetracion,Tierra Del Fuego,2015-04-01,74.51
+internet_penetracion,Tierra Del Fuego,2015-07-01,74.86
+internet_penetracion,Tierra Del Fuego,2015-10-01,66.46
+internet_penetracion,Tierra Del Fuego,2016-01-01,65.83
+internet_penetracion,Tierra Del Fuego,2016-04-01,67.72
+internet_penetracion,Tierra Del Fuego,2016-07-01,68.94
+internet_penetracion,Tierra Del Fuego,2016-10-01,70.31
+internet_penetracion,Tierra Del Fuego,2017-01-01,68.92
+internet_penetracion,Tierra Del Fuego,2017-04-01,68.46
+internet_penetracion,Tierra Del Fuego,2017-07-01,65.74
+internet_penetracion,Tierra Del Fuego,2017-10-01,59.89
+internet_penetracion,Tierra Del Fuego,2018-01-01,65.2
+internet_penetracion,Tierra Del Fuego,2018-04-01,91.61
+internet_penetracion,Tierra Del Fuego,2018-07-01,92.77
+internet_penetracion,Tierra Del Fuego,2018-10-01,93.59
+internet_penetracion,Tierra Del Fuego,2019-01-01,93.38
+internet_penetracion,Tierra Del Fuego,2019-04-01,94.8
+internet_penetracion,Tierra Del Fuego,2019-07-01,96.46
+internet_penetracion,Tierra Del Fuego,2019-10-01,79.7
+internet_penetracion,Tierra Del Fuego,2020-01-01,76.07
+internet_penetracion,Tierra Del Fuego,2020-04-01,76.37
+internet_penetracion,Tierra Del Fuego,2020-07-01,76.81
+internet_penetracion,Tierra Del Fuego,2020-10-01,76.27
+internet_penetracion,Tierra Del Fuego,2021-01-01,77.35
+internet_penetracion,Tierra Del Fuego,2021-04-01,67.89
+internet_penetracion,Tierra Del Fuego,2021-07-01,94.95
+internet_penetracion,Tierra Del Fuego,2021-10-01,98.4
+internet_penetracion,Tierra Del Fuego,2022-01-01,98.29
+internet_penetracion,Tierra Del Fuego,2022-04-01,81.24
+internet_penetracion,Tierra Del Fuego,2022-07-01,82.01
+internet_penetracion,Tierra Del Fuego,2022-10-01,84.68
+internet_penetracion,Tierra Del Fuego,2023-01-01,88.14
+internet_penetracion,Tierra Del Fuego,2023-04-01,91.13
+internet_penetracion,Tierra Del Fuego,2023-07-01,91.19
+internet_penetracion,Tierra Del Fuego,2023-10-01,91.1
+internet_penetracion,Tierra Del Fuego,2024-01-01,95.39
+internet_penetracion,Tierra Del Fuego,2024-04-01,95.07
+internet_penetracion,Tierra Del Fuego,2024-07-01,89.84
+internet_penetracion,Tierra Del Fuego,2024-10-01,88.49
+internet_penetracion,Tierra Del Fuego,2025-01-01,89.95
+internet_penetracion,Tierra Del Fuego,2025-04-01,92.45
+internet_penetracion,Tierra Del Fuego,2025-07-01,94.46
+internet_penetracion,Tierra Del Fuego,2025-10-01,94.97
+internet_penetracion,Tierra Del Fuego,2026-01-01,97.11
+internet_penetracion,Tierra Del Fuego,2026-04-01,97.85
+internet_penetracion,Tucumán,2014-01-01,33.42
+internet_penetracion,Tucumán,2014-04-01,33.94
+internet_penetracion,Tucumán,2014-07-01,33.94
+internet_penetracion,Tucumán,2014-10-01,35.32
+internet_penetracion,Tucumán,2015-01-01,35.08
+internet_penetracion,Tucumán,2015-04-01,35.69
+internet_penetracion,Tucumán,2015-07-01,36.61
+internet_penetracion,Tucumán,2015-10-01,37.06
+internet_penetracion,Tucumán,2016-01-01,36.72
+internet_penetracion,Tucumán,2016-04-01,37.24
+internet_penetracion,Tucumán,2016-07-01,37.9
+internet_penetracion,Tucumán,2016-10-01,37.98
+internet_penetracion,Tucumán,2017-01-01,37.9
+internet_penetracion,Tucumán,2017-04-01,38.19
+internet_penetracion,Tucumán,2017-07-01,39.7
+internet_penetracion,Tucumán,2017-10-01,39.9
+internet_penetracion,Tucumán,2018-01-01,41.18
+internet_penetracion,Tucumán,2018-04-01,41.51
+internet_penetracion,Tucumán,2018-07-01,41.68
+internet_penetracion,Tucumán,2018-10-01,41.76
+internet_penetracion,Tucumán,2019-01-01,41.63
+internet_penetracion,Tucumán,2019-04-01,40.14
+internet_penetracion,Tucumán,2019-07-01,39.49
+internet_penetracion,Tucumán,2019-10-01,47.65
+internet_penetracion,Tucumán,2020-01-01,47.85
+internet_penetracion,Tucumán,2020-04-01,51.78
+internet_penetracion,Tucumán,2020-07-01,53.23
+internet_penetracion,Tucumán,2020-10-01,54.78
+internet_penetracion,Tucumán,2021-01-01,54.82
+internet_penetracion,Tucumán,2021-04-01,54.93
+internet_penetracion,Tucumán,2021-07-01,54.64
+internet_penetracion,Tucumán,2021-10-01,55.93
+internet_penetracion,Tucumán,2022-01-01,57.39
+internet_penetracion,Tucumán,2022-04-01,50.35
+internet_penetracion,Tucumán,2022-07-01,51.81
+internet_penetracion,Tucumán,2022-10-01,51.64
+internet_penetracion,Tucumán,2023-01-01,50.96
+internet_penetracion,Tucumán,2023-04-01,51.21
+internet_penetracion,Tucumán,2023-07-01,51.75
+internet_penetracion,Tucumán,2023-10-01,51.71
+internet_penetracion,Tucumán,2024-01-01,51.29
+internet_penetracion,Tucumán,2024-04-01,51.71
+internet_penetracion,Tucumán,2024-07-01,52.78
+internet_penetracion,Tucumán,2024-10-01,52.26
+internet_penetracion,Tucumán,2025-01-01,52.66
+internet_penetracion,Tucumán,2025-04-01,53.88
+internet_penetracion,Tucumán,2025-07-01,58.35
+internet_penetracion,Tucumán,2025-10-01,60.2
+internet_penetracion,Tucumán,2026-01-01,61.6
+internet_penetracion,Tucumán,2026-04-01,63.23
+internet_share_fibra,Buenos Aires,2014-01-01,4.414798334
+internet_share_fibra,Buenos Aires,2014-04-01,4.340965931
+internet_share_fibra,Buenos Aires,2014-07-01,4.368175493
+internet_share_fibra,Buenos Aires,2014-10-01,4.279495116
+internet_share_fibra,Buenos Aires,2015-01-01,4.688483851
+internet_share_fibra,Buenos Aires,2015-04-01,4.01069426
+internet_share_fibra,Buenos Aires,2015-07-01,3.878426572
+internet_share_fibra,Buenos Aires,2015-10-01,3.489542591
+internet_share_fibra,Buenos Aires,2016-01-01,3.780133661
+internet_share_fibra,Buenos Aires,2016-04-01,3.712945659
+internet_share_fibra,Buenos Aires,2016-07-01,3.67599605
+internet_share_fibra,Buenos Aires,2016-10-01,3.778501359
+internet_share_fibra,Buenos Aires,2017-01-01,3.726089367
+internet_share_fibra,Buenos Aires,2017-04-01,3.869642058
+internet_share_fibra,Buenos Aires,2017-07-01,4.085076325
+internet_share_fibra,Buenos Aires,2017-10-01,4.122730598
+internet_share_fibra,Buenos Aires,2018-01-01,3.853548581
+internet_share_fibra,Buenos Aires,2018-04-01,4.102780616
+internet_share_fibra,Buenos Aires,2018-07-01,4.33157899
+internet_share_fibra,Buenos Aires,2018-10-01,8.142262318
+internet_share_fibra,Buenos Aires,2019-01-01,8.977632653
+internet_share_fibra,Buenos Aires,2019-04-01,9.932598456
+internet_share_fibra,Buenos Aires,2019-07-01,10.7414387
+internet_share_fibra,Buenos Aires,2019-10-01,18.15376803
+internet_share_fibra,Buenos Aires,2020-01-01,19.43576288
+internet_share_fibra,Buenos Aires,2020-04-01,19.14131555
+internet_share_fibra,Buenos Aires,2020-07-01,19.02550925
+internet_share_fibra,Buenos Aires,2020-10-01,19.95881248
+internet_share_fibra,Buenos Aires,2021-01-01,20.23636934
+internet_share_fibra,Buenos Aires,2021-04-01,20.67038836
+internet_share_fibra,Buenos Aires,2021-07-01,20.83006692
+internet_share_fibra,Buenos Aires,2021-10-01,26.08079515
+internet_share_fibra,Buenos Aires,2022-01-01,27.26685815
+internet_share_fibra,Buenos Aires,2022-04-01,29.97617621
+internet_share_fibra,Buenos Aires,2022-07-01,30.42215166
+internet_share_fibra,Buenos Aires,2022-10-01,31.26702283
+internet_share_fibra,Buenos Aires,2023-01-01,32.17376406
+internet_share_fibra,Buenos Aires,2023-04-01,33.69049315
+internet_share_fibra,Buenos Aires,2023-07-01,35.02729439
+internet_share_fibra,Buenos Aires,2023-10-01,35.60910444
+internet_share_fibra,Buenos Aires,2024-01-01,35.66245758
+internet_share_fibra,Buenos Aires,2024-04-01,37.06825297
+internet_share_fibra,Buenos Aires,2024-07-01,37.72251993
+internet_share_fibra,Buenos Aires,2024-10-01,40.77238464
+internet_share_fibra,Buenos Aires,2025-01-01,40.97306014
+internet_share_fibra,Buenos Aires,2025-04-01,43.5863573
+internet_share_fibra,Buenos Aires,2025-07-01,44.43365874
+internet_share_fibra,Buenos Aires,2025-10-01,46.13869951
+internet_share_fibra,Buenos Aires,2026-01-01,46.86144897
+internet_share_fibra,Buenos Aires,2026-04-01,48.252624
+internet_share_fibra,CABA,2014-01-01,1.36677852
+internet_share_fibra,CABA,2014-04-01,1.353136699
+internet_share_fibra,CABA,2014-07-01,1.357236355
+internet_share_fibra,CABA,2014-10-01,1.289345519
+internet_share_fibra,CABA,2015-01-01,1.450716241
+internet_share_fibra,CABA,2015-04-01,1.469675046
+internet_share_fibra,CABA,2015-07-01,2.257468289
+internet_share_fibra,CABA,2015-10-01,1.446330751
+internet_share_fibra,CABA,2016-01-01,2.715607192
+internet_share_fibra,CABA,2016-04-01,2.629386254
+internet_share_fibra,CABA,2016-07-01,2.622471321
+internet_share_fibra,CABA,2016-10-01,2.722948013
+internet_share_fibra,CABA,2017-01-01,2.734649182
+internet_share_fibra,CABA,2017-04-01,2.413961833
+internet_share_fibra,CABA,2017-07-01,2.132060249
+internet_share_fibra,CABA,2017-10-01,2.292640445
+internet_share_fibra,CABA,2018-01-01,2.600305875
+internet_share_fibra,CABA,2018-04-01,2.600815375
+internet_share_fibra,CABA,2018-07-01,2.563321819
+internet_share_fibra,CABA,2018-10-01,2.378799441
+internet_share_fibra,CABA,2019-01-01,2.306444698
+internet_share_fibra,CABA,2019-04-01,2.548847855
+internet_share_fibra,CABA,2019-07-01,1.727713707
+internet_share_fibra,CABA,2019-10-01,2.616439819
+internet_share_fibra,CABA,2020-01-01,2.873895267
+internet_share_fibra,CABA,2020-04-01,2.907747045
+internet_share_fibra,CABA,2020-07-01,2.871546433
+internet_share_fibra,CABA,2020-10-01,2.891564518
+internet_share_fibra,CABA,2021-01-01,2.897788099
+internet_share_fibra,CABA,2021-04-01,2.950537542
+internet_share_fibra,CABA,2021-07-01,3.039893024
+internet_share_fibra,CABA,2021-10-01,4.249287772
+internet_share_fibra,CABA,2022-01-01,4.395498966
+internet_share_fibra,CABA,2022-04-01,7.906578143
+internet_share_fibra,CABA,2022-07-01,8.349147336
+internet_share_fibra,CABA,2022-10-01,8.927487522
+internet_share_fibra,CABA,2023-01-01,10.08711014
+internet_share_fibra,CABA,2023-04-01,9.350144545
+internet_share_fibra,CABA,2023-07-01,11.40530142
+internet_share_fibra,CABA,2023-10-01,12.37955
+internet_share_fibra,CABA,2024-01-01,13.54120492
+internet_share_fibra,CABA,2024-04-01,15.74215342
+internet_share_fibra,CABA,2024-07-01,17.4718645
+internet_share_fibra,CABA,2024-10-01,21.27767833
+internet_share_fibra,CABA,2025-01-01,23.33758864
+internet_share_fibra,CABA,2025-04-01,26.63770017
+internet_share_fibra,CABA,2025-07-01,30.02605459
+internet_share_fibra,CABA,2025-10-01,32.78654956
+internet_share_fibra,CABA,2026-01-01,41.45089828
+internet_share_fibra,CABA,2026-04-01,44.21415953
+internet_share_fibra,Catamarca,2014-01-01,0.07015516672
+internet_share_fibra,Catamarca,2014-04-01,0.06887331362
+internet_share_fibra,Catamarca,2014-07-01,0.06076318561
+internet_share_fibra,Catamarca,2014-10-01,0.06276232691
+internet_share_fibra,Catamarca,2015-01-01,0.06316121901
+internet_share_fibra,Catamarca,2015-04-01,0.05841348962
+internet_share_fibra,Catamarca,2015-07-01,0.05748668225
+internet_share_fibra,Catamarca,2015-10-01,0.05666364461
+internet_share_fibra,Catamarca,2016-01-01,0.05684186593
+internet_share_fibra,Catamarca,2016-04-01,0.05271878295
+internet_share_fibra,Catamarca,2016-07-01,0.05190952911
+internet_share_fibra,Catamarca,2016-10-01,0.05178663905
+internet_share_fibra,Catamarca,2017-01-01,0.05319755291
+internet_share_fibra,Catamarca,2017-04-01,0.05242463958
+internet_share_fibra,Catamarca,2017-07-01,0.03584443515
+internet_share_fibra,Catamarca,2017-10-01,0.03721496718
+internet_share_fibra,Catamarca,2018-01-01,0.04418912947
+internet_share_fibra,Catamarca,2018-04-01,0.04400246414
+internet_share_fibra,Catamarca,2018-07-01,0.04382633086
+internet_share_fibra,Catamarca,2018-10-01,0.04764315279
+internet_share_fibra,Catamarca,2019-01-01,0.04758788888
+internet_share_fibra,Catamarca,2019-04-01,0.03865021555
+internet_share_fibra,Catamarca,2019-07-01,0.04012345679
+internet_share_fibra,Catamarca,2019-10-01,24.81271697
+internet_share_fibra,Catamarca,2020-01-01,30.41756024
+internet_share_fibra,Catamarca,2020-04-01,31.011339
+internet_share_fibra,Catamarca,2020-07-01,33.7788554
+internet_share_fibra,Catamarca,2020-10-01,34.07893732
+internet_share_fibra,Catamarca,2021-01-01,35.96059113
+internet_share_fibra,Catamarca,2021-04-01,40.05991676
+internet_share_fibra,Catamarca,2021-07-01,39.69673268
+internet_share_fibra,Catamarca,2021-10-01,42.47757658
+internet_share_fibra,Catamarca,2022-01-01,46.6799192
+internet_share_fibra,Catamarca,2022-04-01,62.80891834
+internet_share_fibra,Catamarca,2022-07-01,65.75903717
+internet_share_fibra,Catamarca,2022-10-01,66.75739328
+internet_share_fibra,Catamarca,2023-01-01,70.25960947
+internet_share_fibra,Catamarca,2023-04-01,72.85518564
+internet_share_fibra,Catamarca,2023-07-01,73.49875597
+internet_share_fibra,Catamarca,2023-10-01,74.32528457
+internet_share_fibra,Catamarca,2024-01-01,75.45674136
+internet_share_fibra,Catamarca,2024-04-01,77.72997309
+internet_share_fibra,Catamarca,2024-07-01,77.94224671
+internet_share_fibra,Catamarca,2024-10-01,78.43775427
+internet_share_fibra,Catamarca,2025-01-01,78.07054178
+internet_share_fibra,Catamarca,2025-04-01,77.20872396
+internet_share_fibra,Catamarca,2025-07-01,76.24327447
+internet_share_fibra,Catamarca,2025-10-01,74.35437187
+internet_share_fibra,Catamarca,2026-01-01,72.47595381
+internet_share_fibra,Catamarca,2026-04-01,71.97819914
+internet_share_fibra,Chaco,2014-01-01,0.0479570305
+internet_share_fibra,Chaco,2014-04-01,0.04740909306
+internet_share_fibra,Chaco,2014-07-01,0.04549305054
+internet_share_fibra,Chaco,2014-10-01,0.046944802
+internet_share_fibra,Chaco,2015-01-01,0.2015732547
+internet_share_fibra,Chaco,2015-04-01,0.213481538
+internet_share_fibra,Chaco,2015-07-01,0.2178751318
+internet_share_fibra,Chaco,2015-10-01,0.2148972306
+internet_share_fibra,Chaco,2016-01-01,0.2435055568
+internet_share_fibra,Chaco,2016-04-01,0.2504220915
+internet_share_fibra,Chaco,2016-07-01,0.2600022414
+internet_share_fibra,Chaco,2016-10-01,0.2791315407
+internet_share_fibra,Chaco,2017-01-01,0.2829870859
+internet_share_fibra,Chaco,2017-04-01,0.5054573948
+internet_share_fibra,Chaco,2017-07-01,0.4863533101
+internet_share_fibra,Chaco,2017-10-01,0.4026289914
+internet_share_fibra,Chaco,2018-01-01,0.3951019734
+internet_share_fibra,Chaco,2018-04-01,0.5704367597
+internet_share_fibra,Chaco,2018-07-01,1.950349397
+internet_share_fibra,Chaco,2018-10-01,1.878570737
+internet_share_fibra,Chaco,2019-01-01,1.881805994
+internet_share_fibra,Chaco,2019-04-01,3.865396288
+internet_share_fibra,Chaco,2019-07-01,7.044936261
+internet_share_fibra,Chaco,2019-10-01,7.490055385
+internet_share_fibra,Chaco,2020-01-01,9.942050434
+internet_share_fibra,Chaco,2020-04-01,13.47516623
+internet_share_fibra,Chaco,2020-07-01,15.43440285
+internet_share_fibra,Chaco,2020-10-01,17.02985815
+internet_share_fibra,Chaco,2021-01-01,18.1913143
+internet_share_fibra,Chaco,2021-04-01,19.60079301
+internet_share_fibra,Chaco,2021-07-01,19.72031372
+internet_share_fibra,Chaco,2021-10-01,24.13162197
+internet_share_fibra,Chaco,2022-01-01,25.43869996
+internet_share_fibra,Chaco,2022-04-01,29.39037642
+internet_share_fibra,Chaco,2022-07-01,30.97206998
+internet_share_fibra,Chaco,2022-10-01,32.91383307
+internet_share_fibra,Chaco,2023-01-01,34.93070864
+internet_share_fibra,Chaco,2023-04-01,36.62542737
+internet_share_fibra,Chaco,2023-07-01,38.68768731
+internet_share_fibra,Chaco,2023-10-01,42.27063629
+internet_share_fibra,Chaco,2024-01-01,41.44384511
+internet_share_fibra,Chaco,2024-04-01,46.87134582
+internet_share_fibra,Chaco,2024-07-01,52.72623132
+internet_share_fibra,Chaco,2024-10-01,54.90723789
+internet_share_fibra,Chaco,2025-01-01,55.97545046
+internet_share_fibra,Chaco,2025-04-01,57.22023243
+internet_share_fibra,Chaco,2025-07-01,57.16267718
+internet_share_fibra,Chaco,2025-10-01,61.14982489
+internet_share_fibra,Chaco,2026-01-01,61.15888717
+internet_share_fibra,Chaco,2026-04-01,61.9045321
+internet_share_fibra,Chubut,2014-01-01,1.233249313
+internet_share_fibra,Chubut,2014-04-01,1.228037834
+internet_share_fibra,Chubut,2014-07-01,1.275727903
+internet_share_fibra,Chubut,2014-10-01,1.299932888
+internet_share_fibra,Chubut,2015-01-01,1.388016485
+internet_share_fibra,Chubut,2015-04-01,1.442860518
+internet_share_fibra,Chubut,2015-07-01,1.433871296
+internet_share_fibra,Chubut,2015-10-01,1.430825224
+internet_share_fibra,Chubut,2016-01-01,1.435736677
+internet_share_fibra,Chubut,2016-04-01,1.434477575
+internet_share_fibra,Chubut,2016-07-01,1.432324243
+internet_share_fibra,Chubut,2016-10-01,1.436524739
+internet_share_fibra,Chubut,2017-01-01,1.433579567
+internet_share_fibra,Chubut,2017-04-01,1.431809301
+internet_share_fibra,Chubut,2017-07-01,1.456717418
+internet_share_fibra,Chubut,2017-10-01,1.270333904
+internet_share_fibra,Chubut,2018-01-01,1.218877285
+internet_share_fibra,Chubut,2018-04-01,1.232051231
+internet_share_fibra,Chubut,2018-07-01,1.194378037
+internet_share_fibra,Chubut,2018-10-01,1.209318869
+internet_share_fibra,Chubut,2019-01-01,2.410438968
+internet_share_fibra,Chubut,2019-04-01,2.189455891
+internet_share_fibra,Chubut,2019-07-01,2.153811584
+internet_share_fibra,Chubut,2019-10-01,1.377702857
+internet_share_fibra,Chubut,2020-01-01,1.368645207
+internet_share_fibra,Chubut,2020-04-01,1.218524518
+internet_share_fibra,Chubut,2020-07-01,2.2279988
+internet_share_fibra,Chubut,2020-10-01,2.328181721
+internet_share_fibra,Chubut,2021-01-01,2.602387789
+internet_share_fibra,Chubut,2021-04-01,4.367373615
+internet_share_fibra,Chubut,2021-07-01,5.732190227
+internet_share_fibra,Chubut,2021-10-01,6.022781146
+internet_share_fibra,Chubut,2022-01-01,5.351108211
+internet_share_fibra,Chubut,2022-04-01,5.880654771
+internet_share_fibra,Chubut,2022-07-01,5.775193331
+internet_share_fibra,Chubut,2022-10-01,5.81598611
+internet_share_fibra,Chubut,2023-01-01,5.77172999
+internet_share_fibra,Chubut,2023-04-01,9.826117186
+internet_share_fibra,Chubut,2023-07-01,15.36699431
+internet_share_fibra,Chubut,2023-10-01,15.3810895
+internet_share_fibra,Chubut,2024-01-01,15.44212426
+internet_share_fibra,Chubut,2024-04-01,15.21957491
+internet_share_fibra,Chubut,2024-07-01,15.10445995
+internet_share_fibra,Chubut,2024-10-01,36.71678229
+internet_share_fibra,Chubut,2025-01-01,37.27026164
+internet_share_fibra,Chubut,2025-04-01,28.94469114
+internet_share_fibra,Chubut,2025-07-01,30.52336045
+internet_share_fibra,Chubut,2025-10-01,32.59572548
+internet_share_fibra,Chubut,2026-01-01,35.51830387
+internet_share_fibra,Chubut,2026-04-01,35.83164748
+internet_share_fibra,Corrientes,2014-01-01,0.04981039913
+internet_share_fibra,Corrientes,2014-04-01,0.04923917532
+internet_share_fibra,Corrientes,2014-07-01,0.04878125541
+internet_share_fibra,Corrientes,2014-10-01,0.06087353523
+internet_share_fibra,Corrientes,2015-01-01,0.158222026
+internet_share_fibra,Corrientes,2015-04-01,0.1884391954
+internet_share_fibra,Corrientes,2015-07-01,0.2071587472
+internet_share_fibra,Corrientes,2015-10-01,0.2071750454
+internet_share_fibra,Corrientes,2016-01-01,0.2244668911
+internet_share_fibra,Corrientes,2016-04-01,0.2334514007
+internet_share_fibra,Corrientes,2016-07-01,0.2456418384
+internet_share_fibra,Corrientes,2016-10-01,0.2644841991
+internet_share_fibra,Corrientes,2017-01-01,0.2663416396
+internet_share_fibra,Corrientes,2017-04-01,0.2863580363
+internet_share_fibra,Corrientes,2017-07-01,1.023252799
+internet_share_fibra,Corrientes,2017-10-01,0.9533864414
+internet_share_fibra,Corrientes,2018-01-01,0.9405085949
+internet_share_fibra,Corrientes,2018-04-01,0.2051920741
+internet_share_fibra,Corrientes,2018-07-01,0.2131595882
+internet_share_fibra,Corrientes,2018-10-01,0.7912446198
+internet_share_fibra,Corrientes,2019-01-01,1.575809615
+internet_share_fibra,Corrientes,2019-04-01,1.524890407
+internet_share_fibra,Corrientes,2019-07-01,1.674367456
+internet_share_fibra,Corrientes,2019-10-01,1.758701267
+internet_share_fibra,Corrientes,2020-01-01,1.905764675
+internet_share_fibra,Corrientes,2020-04-01,2.644995205
+internet_share_fibra,Corrientes,2020-07-01,2.398878362
+internet_share_fibra,Corrientes,2020-10-01,2.503601015
+internet_share_fibra,Corrientes,2021-01-01,2.635340573
+internet_share_fibra,Corrientes,2021-04-01,2.881058834
+internet_share_fibra,Corrientes,2021-07-01,5.635970976
+internet_share_fibra,Corrientes,2021-10-01,7.459238331
+internet_share_fibra,Corrientes,2022-01-01,7.627403947
+internet_share_fibra,Corrientes,2022-04-01,12.53888011
+internet_share_fibra,Corrientes,2022-07-01,12.85434185
+internet_share_fibra,Corrientes,2022-10-01,17.20905997
+internet_share_fibra,Corrientes,2023-01-01,19.11603617
+internet_share_fibra,Corrientes,2023-04-01,20.74241601
+internet_share_fibra,Corrientes,2023-07-01,22.544094
+internet_share_fibra,Corrientes,2023-10-01,22.55442962
+internet_share_fibra,Corrientes,2024-01-01,24.2365131
+internet_share_fibra,Corrientes,2024-04-01,25.43026042
+internet_share_fibra,Corrientes,2024-07-01,25.49523389
+internet_share_fibra,Corrientes,2024-10-01,29.77665941
+internet_share_fibra,Corrientes,2025-01-01,31.96993362
+internet_share_fibra,Corrientes,2025-04-01,35.35149426
+internet_share_fibra,Corrientes,2025-07-01,40.44682857
+internet_share_fibra,Corrientes,2025-10-01,48.52412389
+internet_share_fibra,Corrientes,2026-01-01,52.68975748
+internet_share_fibra,Corrientes,2026-04-01,55.07022179
+internet_share_fibra,Córdoba,2014-01-01,0.06120901025
+internet_share_fibra,Córdoba,2014-04-01,0.06083695004
+internet_share_fibra,Córdoba,2014-07-01,0.07584155947
+internet_share_fibra,Córdoba,2014-10-01,0.07096498835
+internet_share_fibra,Córdoba,2015-01-01,0.0695192451
+internet_share_fibra,Córdoba,2015-04-01,0.07134118141
+internet_share_fibra,Córdoba,2015-07-01,0.2327455305
+internet_share_fibra,Córdoba,2015-10-01,0.07666874311
+internet_share_fibra,Córdoba,2016-01-01,0.1105052088
+internet_share_fibra,Córdoba,2016-04-01,0.2691703128
+internet_share_fibra,Córdoba,2016-07-01,0.3952747549
+internet_share_fibra,Córdoba,2016-10-01,0.5290980355
+internet_share_fibra,Córdoba,2017-01-01,0.7596705547
+internet_share_fibra,Córdoba,2017-04-01,0.6768161207
+internet_share_fibra,Córdoba,2017-07-01,1.518566154
+internet_share_fibra,Córdoba,2017-10-01,1.799771543
+internet_share_fibra,Córdoba,2018-01-01,1.84584957
+internet_share_fibra,Córdoba,2018-04-01,1.939773347
+internet_share_fibra,Córdoba,2018-07-01,2.174667772
+internet_share_fibra,Córdoba,2018-10-01,2.397133476
+internet_share_fibra,Córdoba,2019-01-01,2.674586589
+internet_share_fibra,Córdoba,2019-04-01,2.970219112
+internet_share_fibra,Córdoba,2019-07-01,3.839331437
+internet_share_fibra,Córdoba,2019-10-01,6.611602007
+internet_share_fibra,Córdoba,2020-01-01,8.446811055
+internet_share_fibra,Córdoba,2020-04-01,10.25956761
+internet_share_fibra,Córdoba,2020-07-01,11.78331981
+internet_share_fibra,Córdoba,2020-10-01,13.91601427
+internet_share_fibra,Córdoba,2021-01-01,14.78063545
+internet_share_fibra,Córdoba,2021-04-01,16.31305861
+internet_share_fibra,Córdoba,2021-07-01,17.69086638
+internet_share_fibra,Córdoba,2021-10-01,22.01262706
+internet_share_fibra,Córdoba,2022-01-01,23.4944506
+internet_share_fibra,Córdoba,2022-04-01,30.09396601
+internet_share_fibra,Córdoba,2022-07-01,32.59655636
+internet_share_fibra,Córdoba,2022-10-01,35.00114323
+internet_share_fibra,Córdoba,2023-01-01,36.79117157
+internet_share_fibra,Córdoba,2023-04-01,38.55795967
+internet_share_fibra,Córdoba,2023-07-01,39.0278435
+internet_share_fibra,Córdoba,2023-10-01,40.81675008
+internet_share_fibra,Córdoba,2024-01-01,42.41225505
+internet_share_fibra,Córdoba,2024-04-01,43.97821278
+internet_share_fibra,Córdoba,2024-07-01,44.58858548
+internet_share_fibra,Córdoba,2024-10-01,45.37933439
+internet_share_fibra,Córdoba,2025-01-01,46.09012426
+internet_share_fibra,Córdoba,2025-04-01,46.48925568
+internet_share_fibra,Córdoba,2025-07-01,48.6557814
+internet_share_fibra,Córdoba,2025-10-01,51.61095403
+internet_share_fibra,Córdoba,2026-01-01,52.12300264
+internet_share_fibra,Córdoba,2026-04-01,53.18600568
+internet_share_fibra,Entre Ríos,2014-01-01,0.0364770604
+internet_share_fibra,Entre Ríos,2014-04-01,0.03614022407
+internet_share_fibra,Entre Ríos,2014-07-01,0.03510491249
+internet_share_fibra,Entre Ríos,2014-10-01,0.04047921712
+internet_share_fibra,Entre Ríos,2015-01-01,0.06503281749
+internet_share_fibra,Entre Ríos,2015-04-01,0.07020980341
+internet_share_fibra,Entre Ríos,2015-07-01,0.0707517079
+internet_share_fibra,Entre Ríos,2015-10-01,0.07005978052
+internet_share_fibra,Entre Ríos,2016-01-01,0.08351781618
+internet_share_fibra,Entre Ríos,2016-04-01,0.09474528096
+internet_share_fibra,Entre Ríos,2016-07-01,0.1137185411
+internet_share_fibra,Entre Ríos,2016-10-01,0.1253848928
+internet_share_fibra,Entre Ríos,2017-01-01,0.1275276818
+internet_share_fibra,Entre Ríos,2017-04-01,0.1390013791
+internet_share_fibra,Entre Ríos,2017-07-01,0.9629901221
+internet_share_fibra,Entre Ríos,2017-10-01,0.977785579
+internet_share_fibra,Entre Ríos,2018-01-01,1.919511231
+internet_share_fibra,Entre Ríos,2018-04-01,1.202590194
+internet_share_fibra,Entre Ríos,2018-07-01,1.174440882
+internet_share_fibra,Entre Ríos,2018-10-01,2.185573325
+internet_share_fibra,Entre Ríos,2019-01-01,5.473505788
+internet_share_fibra,Entre Ríos,2019-04-01,5.412511025
+internet_share_fibra,Entre Ríos,2019-07-01,5.412806276
+internet_share_fibra,Entre Ríos,2019-10-01,5.386353177
+internet_share_fibra,Entre Ríos,2020-01-01,5.712843871
+internet_share_fibra,Entre Ríos,2020-04-01,5.960369565
+internet_share_fibra,Entre Ríos,2020-07-01,5.778173461
+internet_share_fibra,Entre Ríos,2020-10-01,6.327486751
+internet_share_fibra,Entre Ríos,2021-01-01,6.685902295
+internet_share_fibra,Entre Ríos,2021-04-01,6.930816048
+internet_share_fibra,Entre Ríos,2021-07-01,7.8674988
+internet_share_fibra,Entre Ríos,2021-10-01,8.848275394
+internet_share_fibra,Entre Ríos,2022-01-01,8.61842449
+internet_share_fibra,Entre Ríos,2022-04-01,13.30563723
+internet_share_fibra,Entre Ríos,2022-07-01,13.74596128
+internet_share_fibra,Entre Ríos,2022-10-01,15.05605704
+internet_share_fibra,Entre Ríos,2023-01-01,16.19191059
+internet_share_fibra,Entre Ríos,2023-04-01,17.97829507
+internet_share_fibra,Entre Ríos,2023-07-01,18.68234155
+internet_share_fibra,Entre Ríos,2023-10-01,20.64948416
+internet_share_fibra,Entre Ríos,2024-01-01,22.31649087
+internet_share_fibra,Entre Ríos,2024-04-01,23.28829028
+internet_share_fibra,Entre Ríos,2024-07-01,23.81009991
+internet_share_fibra,Entre Ríos,2024-10-01,25.51712676
+internet_share_fibra,Entre Ríos,2025-01-01,26.31138935
+internet_share_fibra,Entre Ríos,2025-04-01,26.94041224
+internet_share_fibra,Entre Ríos,2025-07-01,31.95727068
+internet_share_fibra,Entre Ríos,2025-10-01,36.44433143
+internet_share_fibra,Entre Ríos,2026-01-01,38.58561283
+internet_share_fibra,Entre Ríos,2026-04-01,40.02131016
+internet_share_fibra,Formosa,2014-01-01,0
+internet_share_fibra,Formosa,2014-04-01,0
+internet_share_fibra,Formosa,2014-07-01,0
+internet_share_fibra,Formosa,2014-10-01,0.003815774411
+internet_share_fibra,Formosa,2015-01-01,0.003745318352
+internet_share_fibra,Formosa,2015-04-01,0.007393715342
+internet_share_fibra,Formosa,2015-07-01,0.007206687806
+internet_share_fibra,Formosa,2015-10-01,0.01424045
+internet_share_fibra,Formosa,2016-01-01,0.01765910857
+internet_share_fibra,Formosa,2016-04-01,0.02083188667
+internet_share_fibra,Formosa,2016-07-01,0.03247221821
+internet_share_fibra,Formosa,2016-10-01,0.05421339749
+internet_share_fibra,Formosa,2017-01-01,0.05386298603
+internet_share_fibra,Formosa,2017-04-01,0.05674989985
+internet_share_fibra,Formosa,2017-07-01,1.333125681
+internet_share_fibra,Formosa,2017-10-01,0.05927127527
+internet_share_fibra,Formosa,2018-01-01,0.05258599357
+internet_share_fibra,Formosa,2018-04-01,0.04040041298
+internet_share_fibra,Formosa,2018-07-01,1.821018611
+internet_share_fibra,Formosa,2018-10-01,1.962215733
+internet_share_fibra,Formosa,2019-01-01,2.079140032
+internet_share_fibra,Formosa,2019-04-01,2.976011025
+internet_share_fibra,Formosa,2019-07-01,3.204098467
+internet_share_fibra,Formosa,2019-10-01,3.767849115
+internet_share_fibra,Formosa,2020-01-01,3.876469828
+internet_share_fibra,Formosa,2020-04-01,3.926395727
+internet_share_fibra,Formosa,2020-07-01,4.064297181
+internet_share_fibra,Formosa,2020-10-01,4.844042545
+internet_share_fibra,Formosa,2021-01-01,5.054650199
+internet_share_fibra,Formosa,2021-04-01,7.002773952
+internet_share_fibra,Formosa,2021-07-01,8.959181741
+internet_share_fibra,Formosa,2021-10-01,9.598792464
+internet_share_fibra,Formosa,2022-01-01,9.433893085
+internet_share_fibra,Formosa,2022-04-01,14.54751698
+internet_share_fibra,Formosa,2022-07-01,16.10931162
+internet_share_fibra,Formosa,2022-10-01,21.21280724
+internet_share_fibra,Formosa,2023-01-01,21.88243011
+internet_share_fibra,Formosa,2023-04-01,22.69759735
+internet_share_fibra,Formosa,2023-07-01,24.3076622
+internet_share_fibra,Formosa,2023-10-01,26.09431954
+internet_share_fibra,Formosa,2024-01-01,28.55320642
+internet_share_fibra,Formosa,2024-04-01,30.14614774
+internet_share_fibra,Formosa,2024-07-01,30.97298058
+internet_share_fibra,Formosa,2024-10-01,32.56388612
+internet_share_fibra,Formosa,2025-01-01,32.51021953
+internet_share_fibra,Formosa,2025-04-01,33.02355299
+internet_share_fibra,Formosa,2025-07-01,31.59456443
+internet_share_fibra,Formosa,2025-10-01,34.85663811
+internet_share_fibra,Formosa,2026-01-01,31.23649027
+internet_share_fibra,Formosa,2026-04-01,32.94984878
+internet_share_fibra,Jujuy,2014-01-01,0.06799302332
+internet_share_fibra,Jujuy,2014-04-01,0.06693635226
+internet_share_fibra,Jujuy,2014-07-01,0.06520257254
+internet_share_fibra,Jujuy,2014-10-01,0.06110771624
+internet_share_fibra,Jujuy,2015-01-01,0.06009122941
+internet_share_fibra,Jujuy,2015-04-01,0.05832140396
+internet_share_fibra,Jujuy,2015-07-01,0.05562579014
+internet_share_fibra,Jujuy,2015-10-01,0.05510469893
+internet_share_fibra,Jujuy,2016-01-01,0.05460547544
+internet_share_fibra,Jujuy,2016-04-01,0.05341231882
+internet_share_fibra,Jujuy,2016-07-01,0.05171846349
+internet_share_fibra,Jujuy,2016-10-01,0.05161290323
+internet_share_fibra,Jujuy,2017-01-01,0.05092238965
+internet_share_fibra,Jujuy,2017-04-01,0.05157418478
+internet_share_fibra,Jujuy,2017-07-01,0.04625132973
+internet_share_fibra,Jujuy,2017-10-01,0.04592211609
+internet_share_fibra,Jujuy,2018-01-01,0.0517948025
+internet_share_fibra,Jujuy,2018-04-01,0.05096049454
+internet_share_fibra,Jujuy,2018-07-01,0.07121397574
+internet_share_fibra,Jujuy,2018-10-01,0.1697491485
+internet_share_fibra,Jujuy,2019-01-01,0.1697227861
+internet_share_fibra,Jujuy,2019-04-01,0.3160067815
+internet_share_fibra,Jujuy,2019-07-01,0.3164849381
+internet_share_fibra,Jujuy,2019-10-01,0.9822121713
+internet_share_fibra,Jujuy,2020-01-01,3.357879234
+internet_share_fibra,Jujuy,2020-04-01,5.361762585
+internet_share_fibra,Jujuy,2020-07-01,10.41151338
+internet_share_fibra,Jujuy,2020-10-01,14.77454157
+internet_share_fibra,Jujuy,2021-01-01,15.68226262
+internet_share_fibra,Jujuy,2021-04-01,17.53361705
+internet_share_fibra,Jujuy,2021-07-01,17.9258353
+internet_share_fibra,Jujuy,2021-10-01,21.20528464
+internet_share_fibra,Jujuy,2022-01-01,22.27209915
+internet_share_fibra,Jujuy,2022-04-01,29.64427563
+internet_share_fibra,Jujuy,2022-07-01,33.80826944
+internet_share_fibra,Jujuy,2022-10-01,36.05711482
+internet_share_fibra,Jujuy,2023-01-01,39.21902679
+internet_share_fibra,Jujuy,2023-04-01,40.26583335
+internet_share_fibra,Jujuy,2023-07-01,41.19205637
+internet_share_fibra,Jujuy,2023-10-01,42.32079309
+internet_share_fibra,Jujuy,2024-01-01,43.27208965
+internet_share_fibra,Jujuy,2024-04-01,44.69436182
+internet_share_fibra,Jujuy,2024-07-01,37.42180604
+internet_share_fibra,Jujuy,2024-10-01,38.24737772
+internet_share_fibra,Jujuy,2025-01-01,38.82156669
+internet_share_fibra,Jujuy,2025-04-01,40.01060279
+internet_share_fibra,Jujuy,2025-07-01,42.67747503
+internet_share_fibra,Jujuy,2025-10-01,47.10742177
+internet_share_fibra,Jujuy,2026-01-01,47.20894764
+internet_share_fibra,Jujuy,2026-04-01,47.76528008
+internet_share_fibra,La Pampa,2014-01-01,0.9466167217
+internet_share_fibra,La Pampa,2014-04-01,0.9221974545
+internet_share_fibra,La Pampa,2014-07-01,0.861834201
+internet_share_fibra,La Pampa,2014-10-01,0.8957825026
+internet_share_fibra,La Pampa,2015-01-01,5.127837058
+internet_share_fibra,La Pampa,2015-04-01,5.806219946
+internet_share_fibra,La Pampa,2015-07-01,6.228711949
+internet_share_fibra,La Pampa,2015-10-01,6.519904771
+internet_share_fibra,La Pampa,2016-01-01,6.880128623
+internet_share_fibra,La Pampa,2016-04-01,6.834281733
+internet_share_fibra,La Pampa,2016-07-01,6.978000114
+internet_share_fibra,La Pampa,2016-10-01,7.036253272
+internet_share_fibra,La Pampa,2017-01-01,7.222616217
+internet_share_fibra,La Pampa,2017-04-01,7.112924872
+internet_share_fibra,La Pampa,2017-07-01,6.466306939
+internet_share_fibra,La Pampa,2017-10-01,10.07907787
+internet_share_fibra,La Pampa,2018-01-01,10.09582972
+internet_share_fibra,La Pampa,2018-04-01,10.21584305
+internet_share_fibra,La Pampa,2018-07-01,10.11339662
+internet_share_fibra,La Pampa,2018-10-01,3.135363632
+internet_share_fibra,La Pampa,2019-01-01,3.242485419
+internet_share_fibra,La Pampa,2019-04-01,5.365556233
+internet_share_fibra,La Pampa,2019-07-01,5.498304488
+internet_share_fibra,La Pampa,2019-10-01,5.466874634
+internet_share_fibra,La Pampa,2020-01-01,15.48987963
+internet_share_fibra,La Pampa,2020-04-01,15.84696411
+internet_share_fibra,La Pampa,2020-07-01,15.65797194
+internet_share_fibra,La Pampa,2020-10-01,15.9265184
+internet_share_fibra,La Pampa,2021-01-01,16.24942073
+internet_share_fibra,La Pampa,2021-04-01,17.54123706
+internet_share_fibra,La Pampa,2021-07-01,17.73065173
+internet_share_fibra,La Pampa,2021-10-01,18.86979356
+internet_share_fibra,La Pampa,2022-01-01,19.81099406
+internet_share_fibra,La Pampa,2022-04-01,20.61742896
+internet_share_fibra,La Pampa,2022-07-01,20.28649692
+internet_share_fibra,La Pampa,2022-10-01,21.50590379
+internet_share_fibra,La Pampa,2023-01-01,24.14166037
+internet_share_fibra,La Pampa,2023-04-01,26.44773358
+internet_share_fibra,La Pampa,2023-07-01,27.42722292
+internet_share_fibra,La Pampa,2023-10-01,28.29649045
+internet_share_fibra,La Pampa,2024-01-01,29.09775359
+internet_share_fibra,La Pampa,2024-04-01,30.20046567
+internet_share_fibra,La Pampa,2024-07-01,32.62332366
+internet_share_fibra,La Pampa,2024-10-01,35.1446537
+internet_share_fibra,La Pampa,2025-01-01,35.99592586
+internet_share_fibra,La Pampa,2025-04-01,36.32568328
+internet_share_fibra,La Pampa,2025-07-01,37.9392259
+internet_share_fibra,La Pampa,2025-10-01,39.45932367
+internet_share_fibra,La Pampa,2026-01-01,39.42799515
+internet_share_fibra,La Pampa,2026-04-01,41.55690977
+internet_share_fibra,La Rioja,2014-01-01,0.08910954109
+internet_share_fibra,La Rioja,2014-04-01,0.08798391151
+internet_share_fibra,La Rioja,2014-07-01,0.08796179945
+internet_share_fibra,La Rioja,2014-10-01,0.1036458968
+internet_share_fibra,La Rioja,2015-01-01,0.09796118288
+internet_share_fibra,La Rioja,2015-04-01,0.09691683324
+internet_share_fibra,La Rioja,2015-07-01,0.09540277861
+internet_share_fibra,La Rioja,2015-10-01,0.09449562958
+internet_share_fibra,La Rioja,2016-01-01,0.09586004434
+internet_share_fibra,La Rioja,2016-04-01,0.08962715105
+internet_share_fibra,La Rioja,2016-07-01,0.08860011813
+internet_share_fibra,La Rioja,2016-10-01,0.0980632508
+internet_share_fibra,La Rioja,2017-01-01,0.09244992296
+internet_share_fibra,La Rioja,2017-04-01,0.09208668427
+internet_share_fibra,La Rioja,2017-07-01,0.02696819679
+internet_share_fibra,La Rioja,2017-10-01,0.02682300648
+internet_share_fibra,La Rioja,2018-01-01,0.0248827639
+internet_share_fibra,La Rioja,2018-04-01,0.02502502503
+internet_share_fibra,La Rioja,2018-07-01,0.02506169031
+internet_share_fibra,La Rioja,2018-10-01,0.02323285125
+internet_share_fibra,La Rioja,2019-01-01,0.02323060245
+internet_share_fibra,La Rioja,2019-04-01,0.02186835252
+internet_share_fibra,La Rioja,2019-07-01,0.02214304406
+internet_share_fibra,La Rioja,2019-10-01,0
+internet_share_fibra,La Rioja,2020-01-01,0
+internet_share_fibra,La Rioja,2020-04-01,0.00191736171
+internet_share_fibra,La Rioja,2020-07-01,0.001900562567
+internet_share_fibra,La Rioja,2020-10-01,0.001894728864
+internet_share_fibra,La Rioja,2021-01-01,0.001900129209
+internet_share_fibra,La Rioja,2021-04-01,11.57447121
+internet_share_fibra,La Rioja,2021-07-01,11.4946446
+internet_share_fibra,La Rioja,2021-10-01,11.36319892
+internet_share_fibra,La Rioja,2022-01-01,11.32344045
+internet_share_fibra,La Rioja,2022-04-01,22.30500988
+internet_share_fibra,La Rioja,2022-07-01,22.67567692
+internet_share_fibra,La Rioja,2022-10-01,22.40615798
+internet_share_fibra,La Rioja,2023-01-01,23.98240843
+internet_share_fibra,La Rioja,2023-04-01,24.42740192
+internet_share_fibra,La Rioja,2023-07-01,25.14680562
+internet_share_fibra,La Rioja,2023-10-01,25.71676109
+internet_share_fibra,La Rioja,2024-01-01,26.2992413
+internet_share_fibra,La Rioja,2024-04-01,26.62749626
+internet_share_fibra,La Rioja,2024-07-01,27.03096705
+internet_share_fibra,La Rioja,2024-10-01,27.5586785
+internet_share_fibra,La Rioja,2025-01-01,28.35551342
+internet_share_fibra,La Rioja,2025-04-01,28.92185844
+internet_share_fibra,La Rioja,2025-07-01,29.58988372
+internet_share_fibra,La Rioja,2025-10-01,29.78173905
+internet_share_fibra,La Rioja,2026-01-01,29.90885417
+internet_share_fibra,La Rioja,2026-04-01,28.56139708
+internet_share_fibra,Mendoza,2014-01-01,1.495372185
+internet_share_fibra,Mendoza,2014-04-01,1.486748158
+internet_share_fibra,Mendoza,2014-07-01,1.495914819
+internet_share_fibra,Mendoza,2014-10-01,1.49398045
+internet_share_fibra,Mendoza,2015-01-01,1.493888105
+internet_share_fibra,Mendoza,2015-04-01,1.505652049
+internet_share_fibra,Mendoza,2015-07-01,1.505652049
+internet_share_fibra,Mendoza,2015-10-01,1.505793088
+internet_share_fibra,Mendoza,2016-01-01,1.508108425
+internet_share_fibra,Mendoza,2016-04-01,1.507984826
+internet_share_fibra,Mendoza,2016-07-01,1.509752438
+internet_share_fibra,Mendoza,2016-10-01,1.510616489
+internet_share_fibra,Mendoza,2017-01-01,1.511717126
+internet_share_fibra,Mendoza,2017-04-01,1.511540061
+internet_share_fibra,Mendoza,2017-07-01,1.440067328
+internet_share_fibra,Mendoza,2017-10-01,1.673596039
+internet_share_fibra,Mendoza,2018-01-01,1.535728326
+internet_share_fibra,Mendoza,2018-04-01,1.534694853
+internet_share_fibra,Mendoza,2018-07-01,2.77449053
+internet_share_fibra,Mendoza,2018-10-01,2.745947728
+internet_share_fibra,Mendoza,2019-01-01,2.744573384
+internet_share_fibra,Mendoza,2019-04-01,3.066689896
+internet_share_fibra,Mendoza,2019-07-01,3.060128289
+internet_share_fibra,Mendoza,2019-10-01,13.45085585
+internet_share_fibra,Mendoza,2020-01-01,15.29500905
+internet_share_fibra,Mendoza,2020-04-01,14.71936138
+internet_share_fibra,Mendoza,2020-07-01,15.79350107
+internet_share_fibra,Mendoza,2020-10-01,16.7475041
+internet_share_fibra,Mendoza,2021-01-01,17.64044892
+internet_share_fibra,Mendoza,2021-04-01,19.460881
+internet_share_fibra,Mendoza,2021-07-01,27.57649284
+internet_share_fibra,Mendoza,2021-10-01,40.98368007
+internet_share_fibra,Mendoza,2022-01-01,44.78005705
+internet_share_fibra,Mendoza,2022-04-01,48.47010681
+internet_share_fibra,Mendoza,2022-07-01,49.25860812
+internet_share_fibra,Mendoza,2022-10-01,50.35192945
+internet_share_fibra,Mendoza,2023-01-01,52.05601002
+internet_share_fibra,Mendoza,2023-04-01,57.73290423
+internet_share_fibra,Mendoza,2023-07-01,59.9683916
+internet_share_fibra,Mendoza,2023-10-01,60.87168575
+internet_share_fibra,Mendoza,2024-01-01,61.28943777
+internet_share_fibra,Mendoza,2024-04-01,62.59344346
+internet_share_fibra,Mendoza,2024-07-01,62.91770582
+internet_share_fibra,Mendoza,2024-10-01,71.08438013
+internet_share_fibra,Mendoza,2025-01-01,71.76006827
+internet_share_fibra,Mendoza,2025-04-01,72.10828664
+internet_share_fibra,Mendoza,2025-07-01,73.24703226
+internet_share_fibra,Mendoza,2025-10-01,71.92981553
+internet_share_fibra,Mendoza,2026-01-01,71.31684404
+internet_share_fibra,Mendoza,2026-04-01,71.31518079
+internet_share_fibra,Misiones,2014-01-01,0.005409060176
+internet_share_fibra,Misiones,2014-04-01,0.005355540977
+internet_share_fibra,Misiones,2014-07-01,0.005310180944
+internet_share_fibra,Misiones,2014-10-01,0.02071760608
+internet_share_fibra,Misiones,2015-01-01,0.03523359876
+internet_share_fibra,Misiones,2015-04-01,0.04179893582
+internet_share_fibra,Misiones,2015-07-01,0.05020628233
+internet_share_fibra,Misiones,2015-10-01,0.05169461407
+internet_share_fibra,Misiones,2016-01-01,0.07530282493
+internet_share_fibra,Misiones,2016-04-01,0.08036319992
+internet_share_fibra,Misiones,2016-07-01,0.0806147127
+internet_share_fibra,Misiones,2016-10-01,0.1026799466
+internet_share_fibra,Misiones,2017-01-01,0.1034634651
+internet_share_fibra,Misiones,2017-04-01,0.103212618
+internet_share_fibra,Misiones,2017-07-01,0.1094788805
+internet_share_fibra,Misiones,2017-10-01,0.09143847153
+internet_share_fibra,Misiones,2018-01-01,0.3166634485
+internet_share_fibra,Misiones,2018-04-01,0.4823499487
+internet_share_fibra,Misiones,2018-07-01,0.4738897836
+internet_share_fibra,Misiones,2018-10-01,0.3999208759
+internet_share_fibra,Misiones,2019-01-01,0.3789113429
+internet_share_fibra,Misiones,2019-04-01,0.4086455245
+internet_share_fibra,Misiones,2019-07-01,0.6191973589
+internet_share_fibra,Misiones,2019-10-01,0.6236516387
+internet_share_fibra,Misiones,2020-01-01,0.913501857
+internet_share_fibra,Misiones,2020-04-01,1.83767992
+internet_share_fibra,Misiones,2020-07-01,1.796264998
+internet_share_fibra,Misiones,2020-10-01,4.477409096
+internet_share_fibra,Misiones,2021-01-01,4.728657781
+internet_share_fibra,Misiones,2021-04-01,6.643786497
+internet_share_fibra,Misiones,2021-07-01,6.919282398
+internet_share_fibra,Misiones,2021-10-01,12.87602552
+internet_share_fibra,Misiones,2022-01-01,14.68036476
+internet_share_fibra,Misiones,2022-04-01,18.81798303
+internet_share_fibra,Misiones,2022-07-01,21.43535522
+internet_share_fibra,Misiones,2022-10-01,25.17058662
+internet_share_fibra,Misiones,2023-01-01,29.69242468
+internet_share_fibra,Misiones,2023-04-01,32.94913312
+internet_share_fibra,Misiones,2023-07-01,35.51018338
+internet_share_fibra,Misiones,2023-10-01,37.6283488
+internet_share_fibra,Misiones,2024-01-01,40.23479927
+internet_share_fibra,Misiones,2024-04-01,42.30806472
+internet_share_fibra,Misiones,2024-07-01,43.53570711
+internet_share_fibra,Misiones,2024-10-01,46.04162227
+internet_share_fibra,Misiones,2025-01-01,47.03841749
+internet_share_fibra,Misiones,2025-04-01,47.84550206
+internet_share_fibra,Misiones,2025-07-01,51.32053912
+internet_share_fibra,Misiones,2025-10-01,53.89026108
+internet_share_fibra,Misiones,2026-01-01,55.479967
+internet_share_fibra,Misiones,2026-04-01,56.27305188
+internet_share_fibra,Neuquén,2014-01-01,1.103120159
+internet_share_fibra,Neuquén,2014-04-01,1.0803138
+internet_share_fibra,Neuquén,2014-07-01,0.976877314
+internet_share_fibra,Neuquén,2014-10-01,1.062937649
+internet_share_fibra,Neuquén,2015-01-01,1.069541058
+internet_share_fibra,Neuquén,2015-04-01,1.066557695
+internet_share_fibra,Neuquén,2015-07-01,1.03860221
+internet_share_fibra,Neuquén,2015-10-01,0.9756460862
+internet_share_fibra,Neuquén,2016-01-01,1.04065758
+internet_share_fibra,Neuquén,2016-04-01,0.9844817446
+internet_share_fibra,Neuquén,2016-07-01,0.9706668561
+internet_share_fibra,Neuquén,2016-10-01,0.9873940352
+internet_share_fibra,Neuquén,2017-01-01,0.974518593
+internet_share_fibra,Neuquén,2017-04-01,0.9648054635
+internet_share_fibra,Neuquén,2017-07-01,0.9016789885
+internet_share_fibra,Neuquén,2017-10-01,0.869446273
+internet_share_fibra,Neuquén,2018-01-01,0.8481548391
+internet_share_fibra,Neuquén,2018-04-01,0.8614736551
+internet_share_fibra,Neuquén,2018-07-01,0.8550523484
+internet_share_fibra,Neuquén,2018-10-01,2.723735409
+internet_share_fibra,Neuquén,2019-01-01,2.722575343
+internet_share_fibra,Neuquén,2019-04-01,4.052768131
+internet_share_fibra,Neuquén,2019-07-01,4.433069422
+internet_share_fibra,Neuquén,2019-10-01,9.059212504
+internet_share_fibra,Neuquén,2020-01-01,9.062081543
+internet_share_fibra,Neuquén,2020-04-01,8.747582665
+internet_share_fibra,Neuquén,2020-07-01,8.544898828
+internet_share_fibra,Neuquén,2020-10-01,10.31434258
+internet_share_fibra,Neuquén,2021-01-01,10.63609412
+internet_share_fibra,Neuquén,2021-04-01,11.29764919
+internet_share_fibra,Neuquén,2021-07-01,11.76962856
+internet_share_fibra,Neuquén,2021-10-01,15.76838051
+internet_share_fibra,Neuquén,2022-01-01,16.16325603
+internet_share_fibra,Neuquén,2022-04-01,17.79610787
+internet_share_fibra,Neuquén,2022-07-01,18.01656033
+internet_share_fibra,Neuquén,2022-10-01,19.7072044
+internet_share_fibra,Neuquén,2023-01-01,20.13315712
+internet_share_fibra,Neuquén,2023-04-01,21.74458719
+internet_share_fibra,Neuquén,2023-07-01,23.88889227
+internet_share_fibra,Neuquén,2023-10-01,25.25891865
+internet_share_fibra,Neuquén,2024-01-01,25.31385848
+internet_share_fibra,Neuquén,2024-04-01,25.54940015
+internet_share_fibra,Neuquén,2024-07-01,24.77530888
+internet_share_fibra,Neuquén,2024-10-01,35.25107957
+internet_share_fibra,Neuquén,2025-01-01,35.17555368
+internet_share_fibra,Neuquén,2025-04-01,34.40322967
+internet_share_fibra,Neuquén,2025-07-01,34.30070097
+internet_share_fibra,Neuquén,2025-10-01,34.54224202
+internet_share_fibra,Neuquén,2026-01-01,33.69811718
+internet_share_fibra,Neuquén,2026-04-01,34.13167217
+internet_share_fibra,Río Negro,2014-01-01,0.9214650874
+internet_share_fibra,Río Negro,2014-04-01,0.9129089071
+internet_share_fibra,Río Negro,2014-07-01,0.9081611782
+internet_share_fibra,Río Negro,2014-10-01,0.9360066487
+internet_share_fibra,Río Negro,2015-01-01,0.9318525063
+internet_share_fibra,Río Negro,2015-04-01,0.9278110345
+internet_share_fibra,Río Negro,2015-07-01,0.9205533359
+internet_share_fibra,Río Negro,2015-10-01,0.9175507912
+internet_share_fibra,Río Negro,2016-01-01,0.9386708341
+internet_share_fibra,Río Negro,2016-04-01,0.932435653
+internet_share_fibra,Río Negro,2016-07-01,0.932433235
+internet_share_fibra,Río Negro,2016-10-01,0.944367452
+internet_share_fibra,Río Negro,2017-01-01,0.9418687307
+internet_share_fibra,Río Negro,2017-04-01,0.9456892904
+internet_share_fibra,Río Negro,2017-07-01,1.028875493
+internet_share_fibra,Río Negro,2017-10-01,1.138806895
+internet_share_fibra,Río Negro,2018-01-01,1.125820067
+internet_share_fibra,Río Negro,2018-04-01,1.11551655
+internet_share_fibra,Río Negro,2018-07-01,1.103161456
+internet_share_fibra,Río Negro,2018-10-01,1.111805336
+internet_share_fibra,Río Negro,2019-01-01,3.29842759
+internet_share_fibra,Río Negro,2019-04-01,2.913812641
+internet_share_fibra,Río Negro,2019-07-01,6.749367615
+internet_share_fibra,Río Negro,2019-10-01,7.59635048
+internet_share_fibra,Río Negro,2020-01-01,8.225832013
+internet_share_fibra,Río Negro,2020-04-01,8.017855212
+internet_share_fibra,Río Negro,2020-07-01,7.896278153
+internet_share_fibra,Río Negro,2020-10-01,12.62375186
+internet_share_fibra,Río Negro,2021-01-01,12.6289244
+internet_share_fibra,Río Negro,2021-04-01,12.99727936
+internet_share_fibra,Río Negro,2021-07-01,12.95085936
+internet_share_fibra,Río Negro,2021-10-01,20.95048552
+internet_share_fibra,Río Negro,2022-01-01,24.16981204
+internet_share_fibra,Río Negro,2022-04-01,25.62905285
+internet_share_fibra,Río Negro,2022-07-01,25.54653147
+internet_share_fibra,Río Negro,2022-10-01,27.11916689
+internet_share_fibra,Río Negro,2023-01-01,27.58396164
+internet_share_fibra,Río Negro,2023-04-01,32.63883363
+internet_share_fibra,Río Negro,2023-07-01,34.66250726
+internet_share_fibra,Río Negro,2023-10-01,38.19270026
+internet_share_fibra,Río Negro,2024-01-01,39.11202849
+internet_share_fibra,Río Negro,2024-04-01,39.31388448
+internet_share_fibra,Río Negro,2024-07-01,39.22395614
+internet_share_fibra,Río Negro,2024-10-01,45.29341624
+internet_share_fibra,Río Negro,2025-01-01,45.30802684
+internet_share_fibra,Río Negro,2025-04-01,45.01361816
+internet_share_fibra,Río Negro,2025-07-01,49.37861628
+internet_share_fibra,Río Negro,2025-10-01,51.76080178
+internet_share_fibra,Río Negro,2026-01-01,50.68874884
+internet_share_fibra,Río Negro,2026-04-01,51.12014887
+internet_share_fibra,Salta,2014-01-01,0.0492934604
+internet_share_fibra,Salta,2014-04-01,0.04892687064
+internet_share_fibra,Salta,2014-07-01,0.04625944015
+internet_share_fibra,Salta,2014-10-01,0.05109263734
+internet_share_fibra,Salta,2015-01-01,0.04854820217
+internet_share_fibra,Salta,2015-04-01,0.04782887439
+internet_share_fibra,Salta,2015-07-01,0.04673222435
+internet_share_fibra,Salta,2015-10-01,0.04611459969
+internet_share_fibra,Salta,2016-01-01,0.07127096636
+internet_share_fibra,Salta,2016-04-01,0.08100484123
+internet_share_fibra,Salta,2016-07-01,0.08349491145
+internet_share_fibra,Salta,2016-10-01,0.1028662271
+internet_share_fibra,Salta,2017-01-01,0.105915472
+internet_share_fibra,Salta,2017-04-01,0.1059507467
+internet_share_fibra,Salta,2017-07-01,0.09583603737
+internet_share_fibra,Salta,2017-10-01,0.09562388941
+internet_share_fibra,Salta,2018-01-01,0.08859989638
+internet_share_fibra,Salta,2018-04-01,0.5053403594
+internet_share_fibra,Salta,2018-07-01,0.5102232791
+internet_share_fibra,Salta,2018-10-01,0.4740745144
+internet_share_fibra,Salta,2019-01-01,0.4756653433
+internet_share_fibra,Salta,2019-04-01,0.5085292632
+internet_share_fibra,Salta,2019-07-01,0.4827608918
+internet_share_fibra,Salta,2019-10-01,12.67940503
+internet_share_fibra,Salta,2020-01-01,13.51383077
+internet_share_fibra,Salta,2020-04-01,13.66377516
+internet_share_fibra,Salta,2020-07-01,14.06998219
+internet_share_fibra,Salta,2020-10-01,16.33171461
+internet_share_fibra,Salta,2021-01-01,16.79230597
+internet_share_fibra,Salta,2021-04-01,16.72415323
+internet_share_fibra,Salta,2021-07-01,18.44735055
+internet_share_fibra,Salta,2021-10-01,19.83651363
+internet_share_fibra,Salta,2022-01-01,20.75487938
+internet_share_fibra,Salta,2022-04-01,23.16994542
+internet_share_fibra,Salta,2022-07-01,24.56915728
+internet_share_fibra,Salta,2022-10-01,25.97396289
+internet_share_fibra,Salta,2023-01-01,27.38650414
+internet_share_fibra,Salta,2023-04-01,28.381419
+internet_share_fibra,Salta,2023-07-01,29.05160668
+internet_share_fibra,Salta,2023-10-01,29.69736045
+internet_share_fibra,Salta,2024-01-01,30.33752175
+internet_share_fibra,Salta,2024-04-01,32.12907456
+internet_share_fibra,Salta,2024-07-01,32.5194196
+internet_share_fibra,Salta,2024-10-01,39.91302285
+internet_share_fibra,Salta,2025-01-01,39.75178599
+internet_share_fibra,Salta,2025-04-01,41.03157588
+internet_share_fibra,Salta,2025-07-01,44.74318338
+internet_share_fibra,Salta,2025-10-01,47.02473303
+internet_share_fibra,Salta,2026-01-01,39.34763067
+internet_share_fibra,Salta,2026-04-01,44.6288256
+internet_share_fibra,San Juan,2014-01-01,1.407462279
+internet_share_fibra,San Juan,2014-04-01,1.397978546
+internet_share_fibra,San Juan,2014-07-01,1.41176925
+internet_share_fibra,San Juan,2014-10-01,1.419827702
+internet_share_fibra,San Juan,2015-01-01,1.456994539
+internet_share_fibra,San Juan,2015-04-01,1.481111026
+internet_share_fibra,San Juan,2015-07-01,1.479915433
+internet_share_fibra,San Juan,2015-10-01,1.479943877
+internet_share_fibra,San Juan,2016-01-01,1.480940108
+internet_share_fibra,San Juan,2016-04-01,1.480399131
+internet_share_fibra,San Juan,2016-07-01,1.481681034
+internet_share_fibra,San Juan,2016-10-01,1.48687429
+internet_share_fibra,San Juan,2017-01-01,1.488250149
+internet_share_fibra,San Juan,2017-04-01,1.488020663
+internet_share_fibra,San Juan,2017-07-01,1.30666624
+internet_share_fibra,San Juan,2017-10-01,1.385098253
+internet_share_fibra,San Juan,2018-01-01,1.305557312
+internet_share_fibra,San Juan,2018-04-01,1.288591442
+internet_share_fibra,San Juan,2018-07-01,1.280997503
+internet_share_fibra,San Juan,2018-10-01,1.291708068
+internet_share_fibra,San Juan,2019-01-01,1.293938666
+internet_share_fibra,San Juan,2019-04-01,1.676544091
+internet_share_fibra,San Juan,2019-07-01,1.678568497
+internet_share_fibra,San Juan,2019-10-01,7.589189522
+internet_share_fibra,San Juan,2020-01-01,8.575298532
+internet_share_fibra,San Juan,2020-04-01,7.895151698
+internet_share_fibra,San Juan,2020-07-01,7.124290351
+internet_share_fibra,San Juan,2020-10-01,9.090032509
+internet_share_fibra,San Juan,2021-01-01,8.52338789
+internet_share_fibra,San Juan,2021-04-01,8.454005296
+internet_share_fibra,San Juan,2021-07-01,8.391731565
+internet_share_fibra,San Juan,2021-10-01,13.84726982
+internet_share_fibra,San Juan,2022-01-01,12.80818345
+internet_share_fibra,San Juan,2022-04-01,12.27802842
+internet_share_fibra,San Juan,2022-07-01,11.92274587
+internet_share_fibra,San Juan,2022-10-01,12.03070522
+internet_share_fibra,San Juan,2023-01-01,12.57578586
+internet_share_fibra,San Juan,2023-04-01,25.87712547
+internet_share_fibra,San Juan,2023-07-01,40.85896076
+internet_share_fibra,San Juan,2023-10-01,41.36324
+internet_share_fibra,San Juan,2024-01-01,42.09776311
+internet_share_fibra,San Juan,2024-04-01,43.20407586
+internet_share_fibra,San Juan,2024-07-01,44.08536302
+internet_share_fibra,San Juan,2024-10-01,61.51893345
+internet_share_fibra,San Juan,2025-01-01,63.56110718
+internet_share_fibra,San Juan,2025-04-01,64.50070875
+internet_share_fibra,San Juan,2025-07-01,67.52783903
+internet_share_fibra,San Juan,2025-10-01,66.77229962
+internet_share_fibra,San Juan,2026-01-01,69.33165028
+internet_share_fibra,San Juan,2026-04-01,70.00146786
+internet_share_fibra,San Luis,2014-01-01,2.8191447
+internet_share_fibra,San Luis,2014-04-01,2.711604749
+internet_share_fibra,San Luis,2014-07-01,2.721140579
+internet_share_fibra,San Luis,2014-10-01,2.700235795
+internet_share_fibra,San Luis,2015-01-01,2.652660218
+internet_share_fibra,San Luis,2015-04-01,2.67755843
+internet_share_fibra,San Luis,2015-07-01,2.677963537
+internet_share_fibra,San Luis,2015-10-01,2.678166137
+internet_share_fibra,San Luis,2016-01-01,2.675332527
+internet_share_fibra,San Luis,2016-04-01,2.670488835
+internet_share_fibra,San Luis,2016-07-01,2.663055744
+internet_share_fibra,San Luis,2016-10-01,2.660254002
+internet_share_fibra,San Luis,2017-01-01,2.660254002
+internet_share_fibra,San Luis,2017-04-01,2.660254002
+internet_share_fibra,San Luis,2017-07-01,1.597679451
+internet_share_fibra,San Luis,2017-10-01,2.247718733
+internet_share_fibra,San Luis,2018-01-01,1.719947654
+internet_share_fibra,San Luis,2018-04-01,1.714179244
+internet_share_fibra,San Luis,2018-07-01,0.4944840838
+internet_share_fibra,San Luis,2018-10-01,0.3923970477
+internet_share_fibra,San Luis,2019-01-01,0.3923807547
+internet_share_fibra,San Luis,2019-04-01,0.2956084679
+internet_share_fibra,San Luis,2019-07-01,0.2852485738
+internet_share_fibra,San Luis,2019-10-01,0.005545235257
+internet_share_fibra,San Luis,2020-01-01,0.004522758521
+internet_share_fibra,San Luis,2020-04-01,0.005265374895
+internet_share_fibra,San Luis,2020-07-01,0.005147342684
+internet_share_fibra,San Luis,2020-10-01,0.02260643865
+internet_share_fibra,San Luis,2021-01-01,0.02349900129
+internet_share_fibra,San Luis,2021-04-01,0.02279796121
+internet_share_fibra,San Luis,2021-07-01,0.02290775809
+internet_share_fibra,San Luis,2021-10-01,0.02524211394
+internet_share_fibra,San Luis,2022-01-01,0.02586696038
+internet_share_fibra,San Luis,2022-04-01,0.2037111573
+internet_share_fibra,San Luis,2022-07-01,0.2031621201
+internet_share_fibra,San Luis,2022-10-01,2.521076764
+internet_share_fibra,San Luis,2023-01-01,5.132028672
+internet_share_fibra,San Luis,2023-04-01,11.0800864
+internet_share_fibra,San Luis,2023-07-01,16.46901609
+internet_share_fibra,San Luis,2023-10-01,19.48152697
+internet_share_fibra,San Luis,2024-01-01,20.20565059
+internet_share_fibra,San Luis,2024-04-01,21.73416493
+internet_share_fibra,San Luis,2024-07-01,21.77555127
+internet_share_fibra,San Luis,2024-10-01,24.94125813
+internet_share_fibra,San Luis,2025-01-01,29.79618228
+internet_share_fibra,San Luis,2025-04-01,32.6627953
+internet_share_fibra,San Luis,2025-07-01,35.26634474
+internet_share_fibra,San Luis,2025-10-01,41.35815376
+internet_share_fibra,San Luis,2026-01-01,42.24197572
+internet_share_fibra,San Luis,2026-04-01,43.89931674
+internet_share_fibra,Santa Cruz,2014-01-01,1.423554028
+internet_share_fibra,Santa Cruz,2014-04-01,1.402333542
+internet_share_fibra,Santa Cruz,2014-07-01,1.474530831
+internet_share_fibra,Santa Cruz,2014-10-01,1.508964337
+internet_share_fibra,Santa Cruz,2015-01-01,1.471416238
+internet_share_fibra,Santa Cruz,2015-04-01,1.537088072
+internet_share_fibra,Santa Cruz,2015-07-01,1.507365536
+internet_share_fibra,Santa Cruz,2015-10-01,1.499829565
+internet_share_fibra,Santa Cruz,2016-01-01,1.506448054
+internet_share_fibra,Santa Cruz,2016-04-01,1.514166635
+internet_share_fibra,Santa Cruz,2016-07-01,3.111551205
+internet_share_fibra,Santa Cruz,2016-10-01,3.986547763
+internet_share_fibra,Santa Cruz,2017-01-01,4.802537189
+internet_share_fibra,Santa Cruz,2017-04-01,5.172805821
+internet_share_fibra,Santa Cruz,2017-07-01,4.582962303
+internet_share_fibra,Santa Cruz,2017-10-01,1.9760967
+internet_share_fibra,Santa Cruz,2018-01-01,5.22889115
+internet_share_fibra,Santa Cruz,2018-04-01,1.700334254
+internet_share_fibra,Santa Cruz,2018-07-01,1.720638842
+internet_share_fibra,Santa Cruz,2018-10-01,1.542312661
+internet_share_fibra,Santa Cruz,2019-01-01,1.533828548
+internet_share_fibra,Santa Cruz,2019-04-01,1.240589198
+internet_share_fibra,Santa Cruz,2019-07-01,2.552014748
+internet_share_fibra,Santa Cruz,2019-10-01,2.631445263
+internet_share_fibra,Santa Cruz,2020-01-01,2.642831384
+internet_share_fibra,Santa Cruz,2020-04-01,2.642208444
+internet_share_fibra,Santa Cruz,2020-07-01,2.614495558
+internet_share_fibra,Santa Cruz,2020-10-01,2.559374539
+internet_share_fibra,Santa Cruz,2021-01-01,12.97080213
+internet_share_fibra,Santa Cruz,2021-04-01,12.91903148
+internet_share_fibra,Santa Cruz,2021-07-01,12.92061418
+internet_share_fibra,Santa Cruz,2021-10-01,20.68844615
+internet_share_fibra,Santa Cruz,2022-01-01,21.92578714
+internet_share_fibra,Santa Cruz,2022-04-01,21.9884111
+internet_share_fibra,Santa Cruz,2022-07-01,21.8440719
+internet_share_fibra,Santa Cruz,2022-10-01,24.33519909
+internet_share_fibra,Santa Cruz,2023-01-01,24.2588511
+internet_share_fibra,Santa Cruz,2023-04-01,23.18628863
+internet_share_fibra,Santa Cruz,2023-07-01,23.48552733
+internet_share_fibra,Santa Cruz,2023-10-01,63.47853064
+internet_share_fibra,Santa Cruz,2024-01-01,61.77064632
+internet_share_fibra,Santa Cruz,2024-04-01,59.3630558
+internet_share_fibra,Santa Cruz,2024-07-01,58.73113716
+internet_share_fibra,Santa Cruz,2024-10-01,59.88245091
+internet_share_fibra,Santa Cruz,2025-01-01,59.45670669
+internet_share_fibra,Santa Cruz,2025-04-01,58.32275804
+internet_share_fibra,Santa Cruz,2025-07-01,57.16696321
+internet_share_fibra,Santa Cruz,2025-10-01,58.23706088
+internet_share_fibra,Santa Cruz,2026-01-01,54.70429221
+internet_share_fibra,Santa Cruz,2026-04-01,54.53709381
+internet_share_fibra,Santa Fe,2014-01-01,0.6038151485
+internet_share_fibra,Santa Fe,2014-04-01,0.6021180503
+internet_share_fibra,Santa Fe,2014-07-01,0.8460568223
+internet_share_fibra,Santa Fe,2014-10-01,0.605405773
+internet_share_fibra,Santa Fe,2015-01-01,0.5303511876
+internet_share_fibra,Santa Fe,2015-04-01,0.5265488993
+internet_share_fibra,Santa Fe,2015-07-01,0.7488261983
+internet_share_fibra,Santa Fe,2015-10-01,0.5136449743
+internet_share_fibra,Santa Fe,2016-01-01,0.5460184494
+internet_share_fibra,Santa Fe,2016-04-01,0.5281022687
+internet_share_fibra,Santa Fe,2016-07-01,0.5356157112
+internet_share_fibra,Santa Fe,2016-10-01,0.5697432685
+internet_share_fibra,Santa Fe,2017-01-01,0.5702793836
+internet_share_fibra,Santa Fe,2017-04-01,0.570088845
+internet_share_fibra,Santa Fe,2017-07-01,0.9569074587
+internet_share_fibra,Santa Fe,2017-10-01,1.576599352
+internet_share_fibra,Santa Fe,2018-01-01,1.569645866
+internet_share_fibra,Santa Fe,2018-04-01,1.658602999
+internet_share_fibra,Santa Fe,2018-07-01,1.690260394
+internet_share_fibra,Santa Fe,2018-10-01,1.997112675
+internet_share_fibra,Santa Fe,2019-01-01,2.119314374
+internet_share_fibra,Santa Fe,2019-04-01,2.452776388
+internet_share_fibra,Santa Fe,2019-07-01,2.456191996
+internet_share_fibra,Santa Fe,2019-10-01,3.57060672
+internet_share_fibra,Santa Fe,2020-01-01,4.554815216
+internet_share_fibra,Santa Fe,2020-04-01,6.002838294
+internet_share_fibra,Santa Fe,2020-07-01,5.693787531
+internet_share_fibra,Santa Fe,2020-10-01,7.637793261
+internet_share_fibra,Santa Fe,2021-01-01,8.591415121
+internet_share_fibra,Santa Fe,2021-04-01,10.75707828
+internet_share_fibra,Santa Fe,2021-07-01,11.09954562
+internet_share_fibra,Santa Fe,2021-10-01,14.87187241
+internet_share_fibra,Santa Fe,2022-01-01,16.83578811
+internet_share_fibra,Santa Fe,2022-04-01,21.56238942
+internet_share_fibra,Santa Fe,2022-07-01,24.23818159
+internet_share_fibra,Santa Fe,2022-10-01,28.00050919
+internet_share_fibra,Santa Fe,2023-01-01,32.04291224
+internet_share_fibra,Santa Fe,2023-04-01,34.73555894
+internet_share_fibra,Santa Fe,2023-07-01,37.32018144
+internet_share_fibra,Santa Fe,2023-10-01,39.11617469
+internet_share_fibra,Santa Fe,2024-01-01,40.74601454
+internet_share_fibra,Santa Fe,2024-04-01,41.90132259
+internet_share_fibra,Santa Fe,2024-07-01,42.86566609
+internet_share_fibra,Santa Fe,2024-10-01,48.70055987
+internet_share_fibra,Santa Fe,2025-01-01,49.55177007
+internet_share_fibra,Santa Fe,2025-04-01,50.75758388
+internet_share_fibra,Santa Fe,2025-07-01,52.75856411
+internet_share_fibra,Santa Fe,2025-10-01,54.92215157
+internet_share_fibra,Santa Fe,2026-01-01,57.10571443
+internet_share_fibra,Santa Fe,2026-04-01,59.10133742
+internet_share_fibra,Santiago Del Estero,2014-01-01,0.0511674252
+internet_share_fibra,Santiago Del Estero,2014-04-01,0.0499855305
+internet_share_fibra,Santiago Del Estero,2014-07-01,0.05060189624
+internet_share_fibra,Santiago Del Estero,2014-10-01,0.04832515197
+internet_share_fibra,Santiago Del Estero,2015-01-01,0.04840517681
+internet_share_fibra,Santiago Del Estero,2015-04-01,0.04825029204
+internet_share_fibra,Santiago Del Estero,2015-07-01,0.04822702236
+internet_share_fibra,Santiago Del Estero,2015-10-01,0.0485498914
+internet_share_fibra,Santiago Del Estero,2016-01-01,0.05040055175
+internet_share_fibra,Santiago Del Estero,2016-04-01,0.05140553556
+internet_share_fibra,Santiago Del Estero,2016-07-01,0.0532809871
+internet_share_fibra,Santiago Del Estero,2016-10-01,0.05420672734
+internet_share_fibra,Santiago Del Estero,2017-01-01,0.05511240029
+internet_share_fibra,Santiago Del Estero,2017-04-01,0.05723581154
+internet_share_fibra,Santiago Del Estero,2017-07-01,0.02294852284
+internet_share_fibra,Santiago Del Estero,2017-10-01,0.02759862878
+internet_share_fibra,Santiago Del Estero,2018-01-01,0.02773824743
+internet_share_fibra,Santiago Del Estero,2018-04-01,0.0274544912
+internet_share_fibra,Santiago Del Estero,2018-07-01,0.02663270032
+internet_share_fibra,Santiago Del Estero,2018-10-01,0.02574578832
+internet_share_fibra,Santiago Del Estero,2019-01-01,0.02559736458
+internet_share_fibra,Santiago Del Estero,2019-04-01,0.1727756126
+internet_share_fibra,Santiago Del Estero,2019-07-01,0.1644983926
+internet_share_fibra,Santiago Del Estero,2019-10-01,0.1930725567
+internet_share_fibra,Santiago Del Estero,2020-01-01,0.1946377305
+internet_share_fibra,Santiago Del Estero,2020-04-01,0.3366620198
+internet_share_fibra,Santiago Del Estero,2020-07-01,0.526106245
+internet_share_fibra,Santiago Del Estero,2020-10-01,0.5343633108
+internet_share_fibra,Santiago Del Estero,2021-01-01,0.510565115
+internet_share_fibra,Santiago Del Estero,2021-04-01,0.7967394163
+internet_share_fibra,Santiago Del Estero,2021-07-01,0.7872992777
+internet_share_fibra,Santiago Del Estero,2021-10-01,0.939056283
+internet_share_fibra,Santiago Del Estero,2022-01-01,0.9385116047
+internet_share_fibra,Santiago Del Estero,2022-04-01,9.831079936
+internet_share_fibra,Santiago Del Estero,2022-07-01,11.06425163
+internet_share_fibra,Santiago Del Estero,2022-10-01,12.65084439
+internet_share_fibra,Santiago Del Estero,2023-01-01,14.04917549
+internet_share_fibra,Santiago Del Estero,2023-04-01,14.63725182
+internet_share_fibra,Santiago Del Estero,2023-07-01,17.83429565
+internet_share_fibra,Santiago Del Estero,2023-10-01,19.69569098
+internet_share_fibra,Santiago Del Estero,2024-01-01,21.72528586
+internet_share_fibra,Santiago Del Estero,2024-04-01,23.94624703
+internet_share_fibra,Santiago Del Estero,2024-07-01,25.33673098
+internet_share_fibra,Santiago Del Estero,2024-10-01,38.42282787
+internet_share_fibra,Santiago Del Estero,2025-01-01,40.80144157
+internet_share_fibra,Santiago Del Estero,2025-04-01,41.52282364
+internet_share_fibra,Santiago Del Estero,2025-07-01,42.78338757
+internet_share_fibra,Santiago Del Estero,2025-10-01,43.27161672
+internet_share_fibra,Santiago Del Estero,2026-01-01,36.08200186
+internet_share_fibra,Santiago Del Estero,2026-04-01,39.5578836
+internet_share_fibra,Tierra Del Fuego,2014-01-01,2.311149155
+internet_share_fibra,Tierra Del Fuego,2014-04-01,2.297139211
+internet_share_fibra,Tierra Del Fuego,2014-07-01,2.257571548
+internet_share_fibra,Tierra Del Fuego,2014-10-01,2.259399793
+internet_share_fibra,Tierra Del Fuego,2015-01-01,1.963773314
+internet_share_fibra,Tierra Del Fuego,2015-04-01,1.980404419
+internet_share_fibra,Tierra Del Fuego,2015-07-01,1.97112962
+internet_share_fibra,Tierra Del Fuego,2015-10-01,2.220144894
+internet_share_fibra,Tierra Del Fuego,2016-01-01,2.181329135
+internet_share_fibra,Tierra Del Fuego,2016-04-01,2.120603336
+internet_share_fibra,Tierra Del Fuego,2016-07-01,2.083007048
+internet_share_fibra,Tierra Del Fuego,2016-10-01,2.04257149
+internet_share_fibra,Tierra Del Fuego,2017-01-01,2.04257149
+internet_share_fibra,Tierra Del Fuego,2017-04-01,2.04257149
+internet_share_fibra,Tierra Del Fuego,2017-07-01,1.976736795
+internet_share_fibra,Tierra Del Fuego,2017-10-01,1.836833715
+internet_share_fibra,Tierra Del Fuego,2018-01-01,1.679635604
+internet_share_fibra,Tierra Del Fuego,2018-04-01,1.187733465
+internet_share_fibra,Tierra Del Fuego,2018-07-01,3.296462119
+internet_share_fibra,Tierra Del Fuego,2018-10-01,3.50843061
+internet_share_fibra,Tierra Del Fuego,2019-01-01,3.494305337
+internet_share_fibra,Tierra Del Fuego,2019-04-01,1.371854849
+internet_share_fibra,Tierra Del Fuego,2019-07-01,1.339864573
+internet_share_fibra,Tierra Del Fuego,2019-10-01,0
+internet_share_fibra,Tierra Del Fuego,2020-01-01,0
+internet_share_fibra,Tierra Del Fuego,2020-04-01,0
+internet_share_fibra,Tierra Del Fuego,2020-07-01,0
+internet_share_fibra,Tierra Del Fuego,2020-10-01,0.01514616045
+internet_share_fibra,Tierra Del Fuego,2021-01-01,0.01484340211
+internet_share_fibra,Tierra Del Fuego,2021-04-01,0.01681001877
+internet_share_fibra,Tierra Del Fuego,2021-07-01,0.01194671764
+internet_share_fibra,Tierra Del Fuego,2021-10-01,0.8136447848
+internet_share_fibra,Tierra Del Fuego,2022-01-01,0.7907091673
+internet_share_fibra,Tierra Del Fuego,2022-04-01,0.7494885624
+internet_share_fibra,Tierra Del Fuego,2022-07-01,0.7477363812
+internet_share_fibra,Tierra Del Fuego,2022-10-01,0.7328990228
+internet_share_fibra,Tierra Del Fuego,2023-01-01,0.7091205155
+internet_share_fibra,Tierra Del Fuego,2023-04-01,0.8953696598
+internet_share_fibra,Tierra Del Fuego,2023-07-01,6.269261548
+internet_share_fibra,Tierra Del Fuego,2023-10-01,5.977369762
+internet_share_fibra,Tierra Del Fuego,2024-01-01,5.98489156
+internet_share_fibra,Tierra Del Fuego,2024-04-01,5.99912065
+internet_share_fibra,Tierra Del Fuego,2024-07-01,6.341555781
+internet_share_fibra,Tierra Del Fuego,2024-10-01,14.9264937
+internet_share_fibra,Tierra Del Fuego,2025-01-01,14.83356211
+internet_share_fibra,Tierra Del Fuego,2025-04-01,13.91474032
+internet_share_fibra,Tierra Del Fuego,2025-07-01,13.23462266
+internet_share_fibra,Tierra Del Fuego,2025-10-01,12.82932046
+internet_share_fibra,Tierra Del Fuego,2026-01-01,12.09516573
+internet_share_fibra,Tierra Del Fuego,2026-04-01,11.73258004
+internet_share_fibra,Tucumán,2014-01-01,0.09305401747
+internet_share_fibra,Tucumán,2014-04-01,0.09161877503
+internet_share_fibra,Tucumán,2014-07-01,0.0885920676
+internet_share_fibra,Tucumán,2014-10-01,0.08441029223
+internet_share_fibra,Tucumán,2015-01-01,0.08389019063
+internet_share_fibra,Tucumán,2015-04-01,0.08245839761
+internet_share_fibra,Tucumán,2015-07-01,0.08038028189
+internet_share_fibra,Tucumán,2015-10-01,0.07940039016
+internet_share_fibra,Tucumán,2016-01-01,0.07910691026
+internet_share_fibra,Tucumán,2016-04-01,0.07802148281
+internet_share_fibra,Tucumán,2016-07-01,0.07665924306
+internet_share_fibra,Tucumán,2016-10-01,0.07649091341
+internet_share_fibra,Tucumán,2017-01-01,0.07593064129
+internet_share_fibra,Tucumán,2017-04-01,0.07512418157
+internet_share_fibra,Tucumán,2017-07-01,0.06583360246
+internet_share_fibra,Tucumán,2017-10-01,0.06468225612
+internet_share_fibra,Tucumán,2018-01-01,0.06366887425
+internet_share_fibra,Tucumán,2018-04-01,0.06472225328
+internet_share_fibra,Tucumán,2018-07-01,0.06426509938
+internet_share_fibra,Tucumán,2018-10-01,0.06918443757
+internet_share_fibra,Tucumán,2019-01-01,0.06860385344
+internet_share_fibra,Tucumán,2019-04-01,0.06974045728
+internet_share_fibra,Tucumán,2019-07-01,0.0706752533
+internet_share_fibra,Tucumán,2019-10-01,19.92207165
+internet_share_fibra,Tucumán,2020-01-01,22.33601743
+internet_share_fibra,Tucumán,2020-04-01,25.38267421
+internet_share_fibra,Tucumán,2020-07-01,26.77776984
+internet_share_fibra,Tucumán,2020-10-01,29.44449974
+internet_share_fibra,Tucumán,2021-01-01,30.16402773
+internet_share_fibra,Tucumán,2021-04-01,30.7585035
+internet_share_fibra,Tucumán,2021-07-01,30.52582677
+internet_share_fibra,Tucumán,2021-10-01,33.01639715
+internet_share_fibra,Tucumán,2022-01-01,35.08941951
+internet_share_fibra,Tucumán,2022-04-01,58.47041768
+internet_share_fibra,Tucumán,2022-07-01,61.70068829
+internet_share_fibra,Tucumán,2022-10-01,64.04818125
+internet_share_fibra,Tucumán,2023-01-01,69.31290693
+internet_share_fibra,Tucumán,2023-04-01,71.69368973
+internet_share_fibra,Tucumán,2023-07-01,73.17496821
+internet_share_fibra,Tucumán,2023-10-01,75.04683951
+internet_share_fibra,Tucumán,2024-01-01,77.83933937
+internet_share_fibra,Tucumán,2024-04-01,80.08309793
+internet_share_fibra,Tucumán,2024-07-01,80.68517316
+internet_share_fibra,Tucumán,2024-10-01,83.15136127
+internet_share_fibra,Tucumán,2025-01-01,83.94710086
+internet_share_fibra,Tucumán,2025-04-01,84.45748536
+internet_share_fibra,Tucumán,2025-07-01,85.70417224
+internet_share_fibra,Tucumán,2025-10-01,85.27137992
+internet_share_fibra,Tucumán,2026-01-01,84.28781985
+internet_share_fibra,Tucumán,2026-04-01,84.14225483
+internet_vmd_mbps,Buenos Aires,2014-01-01,3.73
+internet_vmd_mbps,Buenos Aires,2014-04-01,3.85
+internet_vmd_mbps,Buenos Aires,2014-07-01,3.97
+internet_vmd_mbps,Buenos Aires,2014-10-01,4.2
+internet_vmd_mbps,Buenos Aires,2015-01-01,4.32
+internet_vmd_mbps,Buenos Aires,2015-04-01,4.46
+internet_vmd_mbps,Buenos Aires,2015-07-01,4.7
+internet_vmd_mbps,Buenos Aires,2015-10-01,4.88
+internet_vmd_mbps,Buenos Aires,2016-01-01,4.99
+internet_vmd_mbps,Buenos Aires,2016-04-01,5.42
+internet_vmd_mbps,Buenos Aires,2016-07-01,5.91
+internet_vmd_mbps,Buenos Aires,2016-10-01,6.35
+internet_vmd_mbps,Buenos Aires,2017-01-01,6.68
+internet_vmd_mbps,Buenos Aires,2017-04-01,7.2
+internet_vmd_mbps,Buenos Aires,2017-07-01,8.43
+internet_vmd_mbps,Buenos Aires,2017-10-01,12.97
+internet_vmd_mbps,Buenos Aires,2018-01-01,14.2
+internet_vmd_mbps,Buenos Aires,2018-04-01,14.68
+internet_vmd_mbps,Buenos Aires,2018-07-01,16.78
+internet_vmd_mbps,Buenos Aires,2018-10-01,16.93
+internet_vmd_mbps,Buenos Aires,2019-01-01,19.64
+internet_vmd_mbps,Buenos Aires,2019-04-01,22.48
+internet_vmd_mbps,Buenos Aires,2019-07-01,25.68
+internet_vmd_mbps,Buenos Aires,2019-10-01,30.77
+internet_vmd_mbps,Buenos Aires,2020-01-01,45.18
+internet_vmd_mbps,Buenos Aires,2020-04-01,45.66
+internet_vmd_mbps,Buenos Aires,2020-07-01,48.38
+internet_vmd_mbps,Buenos Aires,2020-10-01,50.01
+internet_vmd_mbps,Buenos Aires,2021-01-01,50.79
+internet_vmd_mbps,Buenos Aires,2021-04-01,52.76
+internet_vmd_mbps,Buenos Aires,2021-07-01,56.26
+internet_vmd_mbps,Buenos Aires,2021-10-01,60.21
+internet_vmd_mbps,Buenos Aires,2022-01-01,62.51
+internet_vmd_mbps,Buenos Aires,2022-04-01,65.5
+internet_vmd_mbps,Buenos Aires,2022-07-01,70.19
+internet_vmd_mbps,Buenos Aires,2022-10-01,111
+internet_vmd_mbps,Buenos Aires,2023-01-01,116.18
+internet_vmd_mbps,Buenos Aires,2023-04-01,138.35
+internet_vmd_mbps,Buenos Aires,2023-07-01,146.84
+internet_vmd_mbps,Buenos Aires,2023-10-01,158.49
+internet_vmd_mbps,Buenos Aires,2024-01-01,159.13
+internet_vmd_mbps,Buenos Aires,2024-04-01,157.41
+internet_vmd_mbps,Buenos Aires,2024-07-01,160
+internet_vmd_mbps,Buenos Aires,2024-10-01,217.1
+internet_vmd_mbps,Buenos Aires,2025-01-01,274.51
+internet_vmd_mbps,Buenos Aires,2025-04-01,279.09
+internet_vmd_mbps,Buenos Aires,2025-07-01,293.01
+internet_vmd_mbps,Buenos Aires,2025-10-01,303.39
+internet_vmd_mbps,Buenos Aires,2026-01-01,311.31
+internet_vmd_mbps,Buenos Aires,2026-04-01,326.87
+internet_vmd_mbps,CABA,2014-01-01,4.02
+internet_vmd_mbps,CABA,2014-04-01,4.25
+internet_vmd_mbps,CABA,2014-07-01,4.44
+internet_vmd_mbps,CABA,2014-10-01,4.78
+internet_vmd_mbps,CABA,2015-01-01,5
+internet_vmd_mbps,CABA,2015-04-01,5.31
+internet_vmd_mbps,CABA,2015-07-01,5.66
+internet_vmd_mbps,CABA,2015-10-01,5.93
+internet_vmd_mbps,CABA,2016-01-01,6.05
+internet_vmd_mbps,CABA,2016-04-01,6.58
+internet_vmd_mbps,CABA,2016-07-01,7.38
+internet_vmd_mbps,CABA,2016-10-01,7.96
+internet_vmd_mbps,CABA,2017-01-01,8.35
+internet_vmd_mbps,CABA,2017-04-01,8.84
+internet_vmd_mbps,CABA,2017-07-01,10.64
+internet_vmd_mbps,CABA,2017-10-01,15.2
+internet_vmd_mbps,CABA,2018-01-01,17.75
+internet_vmd_mbps,CABA,2018-04-01,18.94
+internet_vmd_mbps,CABA,2018-07-01,21.64
+internet_vmd_mbps,CABA,2018-10-01,22.94
+internet_vmd_mbps,CABA,2019-01-01,24.72
+internet_vmd_mbps,CABA,2019-04-01,30.35
+internet_vmd_mbps,CABA,2019-07-01,38.71
+internet_vmd_mbps,CABA,2019-10-01,44.2
+internet_vmd_mbps,CABA,2020-01-01,58.71
+internet_vmd_mbps,CABA,2020-04-01,60.48
+internet_vmd_mbps,CABA,2020-07-01,63.81
+internet_vmd_mbps,CABA,2020-10-01,67.33
+internet_vmd_mbps,CABA,2021-01-01,68.29
+internet_vmd_mbps,CABA,2021-04-01,72.75
+internet_vmd_mbps,CABA,2021-07-01,77.71
+internet_vmd_mbps,CABA,2021-10-01,82.95
+internet_vmd_mbps,CABA,2022-01-01,88.22
+internet_vmd_mbps,CABA,2022-04-01,93.97
+internet_vmd_mbps,CABA,2022-07-01,101.05
+internet_vmd_mbps,CABA,2022-10-01,182.86
+internet_vmd_mbps,CABA,2023-01-01,188.65
+internet_vmd_mbps,CABA,2023-04-01,208.01
+internet_vmd_mbps,CABA,2023-07-01,218.13
+internet_vmd_mbps,CABA,2023-10-01,234.44
+internet_vmd_mbps,CABA,2024-01-01,229.94
+internet_vmd_mbps,CABA,2024-04-01,233.01
+internet_vmd_mbps,CABA,2024-07-01,236.92
+internet_vmd_mbps,CABA,2024-10-01,258.19
+internet_vmd_mbps,CABA,2025-01-01,319.34
+internet_vmd_mbps,CABA,2025-04-01,324.76
+internet_vmd_mbps,CABA,2025-07-01,331.7
+internet_vmd_mbps,CABA,2025-10-01,343.1
+internet_vmd_mbps,CABA,2026-01-01,359.28
+internet_vmd_mbps,CABA,2026-04-01,372.42
+internet_vmd_mbps,Catamarca,2014-01-01,2.8
+internet_vmd_mbps,Catamarca,2014-04-01,2.92
+internet_vmd_mbps,Catamarca,2014-07-01,2.92
+internet_vmd_mbps,Catamarca,2014-10-01,3.34
+internet_vmd_mbps,Catamarca,2015-01-01,3.48
+internet_vmd_mbps,Catamarca,2015-04-01,3.68
+internet_vmd_mbps,Catamarca,2015-07-01,3.88
+internet_vmd_mbps,Catamarca,2015-10-01,4.12
+internet_vmd_mbps,Catamarca,2016-01-01,4.2
+internet_vmd_mbps,Catamarca,2016-04-01,4.36
+internet_vmd_mbps,Catamarca,2016-07-01,4.73
+internet_vmd_mbps,Catamarca,2016-10-01,4.89
+internet_vmd_mbps,Catamarca,2017-01-01,4.97
+internet_vmd_mbps,Catamarca,2017-04-01,5.1
+internet_vmd_mbps,Catamarca,2017-07-01,5.26
+internet_vmd_mbps,Catamarca,2017-10-01,7.78
+internet_vmd_mbps,Catamarca,2018-01-01,8.2
+internet_vmd_mbps,Catamarca,2018-04-01,7.69
+internet_vmd_mbps,Catamarca,2018-07-01,7.81
+internet_vmd_mbps,Catamarca,2018-10-01,8.04
+internet_vmd_mbps,Catamarca,2019-01-01,7.96
+internet_vmd_mbps,Catamarca,2019-04-01,8.81
+internet_vmd_mbps,Catamarca,2019-07-01,9.29
+internet_vmd_mbps,Catamarca,2019-10-01,24.88
+internet_vmd_mbps,Catamarca,2020-01-01,29.13
+internet_vmd_mbps,Catamarca,2020-04-01,34.93
+internet_vmd_mbps,Catamarca,2020-07-01,36.54
+internet_vmd_mbps,Catamarca,2020-10-01,37.65
+internet_vmd_mbps,Catamarca,2021-01-01,39.97
+internet_vmd_mbps,Catamarca,2021-04-01,42.19
+internet_vmd_mbps,Catamarca,2021-07-01,43.43
+internet_vmd_mbps,Catamarca,2021-10-01,46.38
+internet_vmd_mbps,Catamarca,2022-01-01,51.22
+internet_vmd_mbps,Catamarca,2022-04-01,56.56
+internet_vmd_mbps,Catamarca,2022-07-01,60.99
+internet_vmd_mbps,Catamarca,2022-10-01,83.33
+internet_vmd_mbps,Catamarca,2023-01-01,87.41
+internet_vmd_mbps,Catamarca,2023-04-01,86.13
+internet_vmd_mbps,Catamarca,2023-07-01,87.9
+internet_vmd_mbps,Catamarca,2023-10-01,89.4
+internet_vmd_mbps,Catamarca,2024-01-01,91.45
+internet_vmd_mbps,Catamarca,2024-04-01,97.38
+internet_vmd_mbps,Catamarca,2024-07-01,103.2
+internet_vmd_mbps,Catamarca,2024-10-01,112.38
+internet_vmd_mbps,Catamarca,2025-01-01,120.65
+internet_vmd_mbps,Catamarca,2025-04-01,131.59
+internet_vmd_mbps,Catamarca,2025-07-01,152.03
+internet_vmd_mbps,Catamarca,2025-10-01,160.72
+internet_vmd_mbps,Catamarca,2026-01-01,168.42
+internet_vmd_mbps,Catamarca,2026-04-01,176.18
+internet_vmd_mbps,Chaco,2014-01-01,3.26
+internet_vmd_mbps,Chaco,2014-04-01,3.42
+internet_vmd_mbps,Chaco,2014-07-01,3.46
+internet_vmd_mbps,Chaco,2014-10-01,3.98
+internet_vmd_mbps,Chaco,2015-01-01,4.9
+internet_vmd_mbps,Chaco,2015-04-01,5.19
+internet_vmd_mbps,Chaco,2015-07-01,5.47
+internet_vmd_mbps,Chaco,2015-10-01,5.83
+internet_vmd_mbps,Chaco,2016-01-01,5.99
+internet_vmd_mbps,Chaco,2016-04-01,6.3
+internet_vmd_mbps,Chaco,2016-07-01,6.72
+internet_vmd_mbps,Chaco,2016-10-01,7.08
+internet_vmd_mbps,Chaco,2017-01-01,7.31
+internet_vmd_mbps,Chaco,2017-04-01,7.69
+internet_vmd_mbps,Chaco,2017-07-01,8.48
+internet_vmd_mbps,Chaco,2017-10-01,11.7
+internet_vmd_mbps,Chaco,2018-01-01,12.44
+internet_vmd_mbps,Chaco,2018-04-01,12.5
+internet_vmd_mbps,Chaco,2018-07-01,12.89
+internet_vmd_mbps,Chaco,2018-10-01,13.49
+internet_vmd_mbps,Chaco,2019-01-01,13.44
+internet_vmd_mbps,Chaco,2019-04-01,16.01
+internet_vmd_mbps,Chaco,2019-07-01,19.99
+internet_vmd_mbps,Chaco,2019-10-01,23.37
+internet_vmd_mbps,Chaco,2020-01-01,25.94
+internet_vmd_mbps,Chaco,2020-04-01,27.95
+internet_vmd_mbps,Chaco,2020-07-01,30.8
+internet_vmd_mbps,Chaco,2020-10-01,32.45
+internet_vmd_mbps,Chaco,2021-01-01,33.63
+internet_vmd_mbps,Chaco,2021-04-01,37.4
+internet_vmd_mbps,Chaco,2021-07-01,39.11
+internet_vmd_mbps,Chaco,2021-10-01,42.34
+internet_vmd_mbps,Chaco,2022-01-01,45.84
+internet_vmd_mbps,Chaco,2022-04-01,50.61
+internet_vmd_mbps,Chaco,2022-07-01,53.21
+internet_vmd_mbps,Chaco,2022-10-01,104.02
+internet_vmd_mbps,Chaco,2023-01-01,104.33
+internet_vmd_mbps,Chaco,2023-04-01,105.45
+internet_vmd_mbps,Chaco,2023-07-01,107.5
+internet_vmd_mbps,Chaco,2023-10-01,107.14
+internet_vmd_mbps,Chaco,2024-01-01,107.51
+internet_vmd_mbps,Chaco,2024-04-01,107.76
+internet_vmd_mbps,Chaco,2024-07-01,109.01
+internet_vmd_mbps,Chaco,2024-10-01,114.37
+internet_vmd_mbps,Chaco,2025-01-01,119.48
+internet_vmd_mbps,Chaco,2025-04-01,125.89
+internet_vmd_mbps,Chaco,2025-07-01,134.31
+internet_vmd_mbps,Chaco,2025-10-01,149.23
+internet_vmd_mbps,Chaco,2026-01-01,153.27
+internet_vmd_mbps,Chaco,2026-04-01,159.64
+internet_vmd_mbps,Chubut,2014-01-01,3.18
+internet_vmd_mbps,Chubut,2014-04-01,3.16
+internet_vmd_mbps,Chubut,2014-07-01,3.17
+internet_vmd_mbps,Chubut,2014-10-01,3.17
+internet_vmd_mbps,Chubut,2015-01-01,3.21
+internet_vmd_mbps,Chubut,2015-04-01,3.22
+internet_vmd_mbps,Chubut,2015-07-01,3.28
+internet_vmd_mbps,Chubut,2015-10-01,3.28
+internet_vmd_mbps,Chubut,2016-01-01,3.38
+internet_vmd_mbps,Chubut,2016-04-01,3.34
+internet_vmd_mbps,Chubut,2016-07-01,3.34
+internet_vmd_mbps,Chubut,2016-10-01,3.41
+internet_vmd_mbps,Chubut,2017-01-01,3.44
+internet_vmd_mbps,Chubut,2017-04-01,3.45
+internet_vmd_mbps,Chubut,2017-07-01,3.48
+internet_vmd_mbps,Chubut,2017-10-01,5.41
+internet_vmd_mbps,Chubut,2018-01-01,5.42
+internet_vmd_mbps,Chubut,2018-04-01,5.33
+internet_vmd_mbps,Chubut,2018-07-01,6.08
+internet_vmd_mbps,Chubut,2018-10-01,6.09
+internet_vmd_mbps,Chubut,2019-01-01,5.89
+internet_vmd_mbps,Chubut,2019-04-01,6.05
+internet_vmd_mbps,Chubut,2019-07-01,6.97
+internet_vmd_mbps,Chubut,2019-10-01,6.99
+internet_vmd_mbps,Chubut,2020-01-01,7.12
+internet_vmd_mbps,Chubut,2020-04-01,7.61
+internet_vmd_mbps,Chubut,2020-07-01,7.4
+internet_vmd_mbps,Chubut,2020-10-01,7.38
+internet_vmd_mbps,Chubut,2021-01-01,7.53
+internet_vmd_mbps,Chubut,2021-04-01,7.68
+internet_vmd_mbps,Chubut,2021-07-01,8.18
+internet_vmd_mbps,Chubut,2021-10-01,9.08
+internet_vmd_mbps,Chubut,2022-01-01,13.4
+internet_vmd_mbps,Chubut,2022-04-01,14.91
+internet_vmd_mbps,Chubut,2022-07-01,15.57
+internet_vmd_mbps,Chubut,2022-10-01,15.92
+internet_vmd_mbps,Chubut,2023-01-01,18.36
+internet_vmd_mbps,Chubut,2023-04-01,18.58
+internet_vmd_mbps,Chubut,2023-07-01,19.26
+internet_vmd_mbps,Chubut,2023-10-01,20.29
+internet_vmd_mbps,Chubut,2024-01-01,20.5
+internet_vmd_mbps,Chubut,2024-04-01,21.67
+internet_vmd_mbps,Chubut,2024-07-01,26.2
+internet_vmd_mbps,Chubut,2024-10-01,96.65
+internet_vmd_mbps,Chubut,2025-01-01,106.19
+internet_vmd_mbps,Chubut,2025-04-01,124.67
+internet_vmd_mbps,Chubut,2025-07-01,140.97
+internet_vmd_mbps,Chubut,2025-10-01,150.7
+internet_vmd_mbps,Chubut,2026-01-01,170.04
+internet_vmd_mbps,Chubut,2026-04-01,179.4
+internet_vmd_mbps,Corrientes,2014-01-01,3.22
+internet_vmd_mbps,Corrientes,2014-04-01,3.37
+internet_vmd_mbps,Corrientes,2014-07-01,3.41
+internet_vmd_mbps,Corrientes,2014-10-01,3.81
+internet_vmd_mbps,Corrientes,2015-01-01,4.63
+internet_vmd_mbps,Corrientes,2015-04-01,4.85
+internet_vmd_mbps,Corrientes,2015-07-01,5.06
+internet_vmd_mbps,Corrientes,2015-10-01,5.26
+internet_vmd_mbps,Corrientes,2016-01-01,5.37
+internet_vmd_mbps,Corrientes,2016-04-01,5.6
+internet_vmd_mbps,Corrientes,2016-07-01,5.96
+internet_vmd_mbps,Corrientes,2016-10-01,6.24
+internet_vmd_mbps,Corrientes,2017-01-01,6.43
+internet_vmd_mbps,Corrientes,2017-04-01,6.79
+internet_vmd_mbps,Corrientes,2017-07-01,7.45
+internet_vmd_mbps,Corrientes,2017-10-01,10.38
+internet_vmd_mbps,Corrientes,2018-01-01,11.12
+internet_vmd_mbps,Corrientes,2018-04-01,10.88
+internet_vmd_mbps,Corrientes,2018-07-01,11.49
+internet_vmd_mbps,Corrientes,2018-10-01,12.14
+internet_vmd_mbps,Corrientes,2019-01-01,12.05
+internet_vmd_mbps,Corrientes,2019-04-01,13.83
+internet_vmd_mbps,Corrientes,2019-07-01,16.7
+internet_vmd_mbps,Corrientes,2019-10-01,19.26
+internet_vmd_mbps,Corrientes,2020-01-01,20.54
+internet_vmd_mbps,Corrientes,2020-04-01,22.15
+internet_vmd_mbps,Corrientes,2020-07-01,23.85
+internet_vmd_mbps,Corrientes,2020-10-01,25.45
+internet_vmd_mbps,Corrientes,2021-01-01,25.99
+internet_vmd_mbps,Corrientes,2021-04-01,30.37
+internet_vmd_mbps,Corrientes,2021-07-01,32.17
+internet_vmd_mbps,Corrientes,2021-10-01,35.77
+internet_vmd_mbps,Corrientes,2022-01-01,38.11
+internet_vmd_mbps,Corrientes,2022-04-01,43.31
+internet_vmd_mbps,Corrientes,2022-07-01,45.07
+internet_vmd_mbps,Corrientes,2022-10-01,94.72
+internet_vmd_mbps,Corrientes,2023-01-01,94.8
+internet_vmd_mbps,Corrientes,2023-04-01,97.21
+internet_vmd_mbps,Corrientes,2023-07-01,99.64
+internet_vmd_mbps,Corrientes,2023-10-01,100.9
+internet_vmd_mbps,Corrientes,2024-01-01,102.49
+internet_vmd_mbps,Corrientes,2024-04-01,104.26
+internet_vmd_mbps,Corrientes,2024-07-01,108.95
+internet_vmd_mbps,Corrientes,2024-10-01,117.29
+internet_vmd_mbps,Corrientes,2025-01-01,124.11
+internet_vmd_mbps,Corrientes,2025-04-01,132.98
+internet_vmd_mbps,Corrientes,2025-07-01,141
+internet_vmd_mbps,Corrientes,2025-10-01,168.98
+internet_vmd_mbps,Corrientes,2026-01-01,170.44
+internet_vmd_mbps,Corrientes,2026-04-01,178.15
+internet_vmd_mbps,Córdoba,2014-01-01,3.39
+internet_vmd_mbps,Córdoba,2014-04-01,3.56
+internet_vmd_mbps,Córdoba,2014-07-01,3.66
+internet_vmd_mbps,Córdoba,2014-10-01,4.09
+internet_vmd_mbps,Córdoba,2015-01-01,4.3
+internet_vmd_mbps,Córdoba,2015-04-01,4.56
+internet_vmd_mbps,Córdoba,2015-07-01,4.87
+internet_vmd_mbps,Córdoba,2015-10-01,5.07
+internet_vmd_mbps,Córdoba,2016-01-01,5.16
+internet_vmd_mbps,Córdoba,2016-04-01,5.52
+internet_vmd_mbps,Córdoba,2016-07-01,6.07
+internet_vmd_mbps,Córdoba,2016-10-01,6.47
+internet_vmd_mbps,Córdoba,2017-01-01,6.8
+internet_vmd_mbps,Córdoba,2017-04-01,7.42
+internet_vmd_mbps,Córdoba,2017-07-01,9.12
+internet_vmd_mbps,Córdoba,2017-10-01,11.64
+internet_vmd_mbps,Córdoba,2018-01-01,12.79
+internet_vmd_mbps,Córdoba,2018-04-01,13.88
+internet_vmd_mbps,Córdoba,2018-07-01,14.82
+internet_vmd_mbps,Córdoba,2018-10-01,15.81
+internet_vmd_mbps,Córdoba,2019-01-01,15.73
+internet_vmd_mbps,Córdoba,2019-04-01,18.43
+internet_vmd_mbps,Córdoba,2019-07-01,23.19
+internet_vmd_mbps,Córdoba,2019-10-01,26.16
+internet_vmd_mbps,Córdoba,2020-01-01,29.39
+internet_vmd_mbps,Córdoba,2020-04-01,30.99
+internet_vmd_mbps,Córdoba,2020-07-01,33.51
+internet_vmd_mbps,Córdoba,2020-10-01,35.12
+internet_vmd_mbps,Córdoba,2021-01-01,36.17
+internet_vmd_mbps,Córdoba,2021-04-01,39.59
+internet_vmd_mbps,Córdoba,2021-07-01,41.93
+internet_vmd_mbps,Córdoba,2021-10-01,46.36
+internet_vmd_mbps,Córdoba,2022-01-01,49.89
+internet_vmd_mbps,Córdoba,2022-04-01,53.51
+internet_vmd_mbps,Córdoba,2022-07-01,56.32
+internet_vmd_mbps,Córdoba,2022-10-01,108.77
+internet_vmd_mbps,Córdoba,2023-01-01,109.57
+internet_vmd_mbps,Córdoba,2023-04-01,111.82
+internet_vmd_mbps,Córdoba,2023-07-01,111.5
+internet_vmd_mbps,Córdoba,2023-10-01,114.03
+internet_vmd_mbps,Córdoba,2024-01-01,114.89
+internet_vmd_mbps,Córdoba,2024-04-01,117.39
+internet_vmd_mbps,Córdoba,2024-07-01,121.01
+internet_vmd_mbps,Córdoba,2024-10-01,131.6
+internet_vmd_mbps,Córdoba,2025-01-01,140.96
+internet_vmd_mbps,Córdoba,2025-04-01,148.66
+internet_vmd_mbps,Córdoba,2025-07-01,157.99
+internet_vmd_mbps,Córdoba,2025-10-01,170.08
+internet_vmd_mbps,Córdoba,2026-01-01,177.67
+internet_vmd_mbps,Córdoba,2026-04-01,185.64
+internet_vmd_mbps,Entre Ríos,2014-01-01,3.17
+internet_vmd_mbps,Entre Ríos,2014-04-01,3.31
+internet_vmd_mbps,Entre Ríos,2014-07-01,3.4
+internet_vmd_mbps,Entre Ríos,2014-10-01,3.8
+internet_vmd_mbps,Entre Ríos,2015-01-01,4.35
+internet_vmd_mbps,Entre Ríos,2015-04-01,4.55
+internet_vmd_mbps,Entre Ríos,2015-07-01,4.77
+internet_vmd_mbps,Entre Ríos,2015-10-01,5.01
+internet_vmd_mbps,Entre Ríos,2016-01-01,5.08
+internet_vmd_mbps,Entre Ríos,2016-04-01,5.13
+internet_vmd_mbps,Entre Ríos,2016-07-01,5.59
+internet_vmd_mbps,Entre Ríos,2016-10-01,5.81
+internet_vmd_mbps,Entre Ríos,2017-01-01,5.95
+internet_vmd_mbps,Entre Ríos,2017-04-01,6.29
+internet_vmd_mbps,Entre Ríos,2017-07-01,6.99
+internet_vmd_mbps,Entre Ríos,2017-10-01,9.3
+internet_vmd_mbps,Entre Ríos,2018-01-01,9.88
+internet_vmd_mbps,Entre Ríos,2018-04-01,10.19
+internet_vmd_mbps,Entre Ríos,2018-07-01,10.52
+internet_vmd_mbps,Entre Ríos,2018-10-01,11.02
+internet_vmd_mbps,Entre Ríos,2019-01-01,10.66
+internet_vmd_mbps,Entre Ríos,2019-04-01,12.19
+internet_vmd_mbps,Entre Ríos,2019-07-01,14.7
+internet_vmd_mbps,Entre Ríos,2019-10-01,17.01
+internet_vmd_mbps,Entre Ríos,2020-01-01,19.03
+internet_vmd_mbps,Entre Ríos,2020-04-01,20.45
+internet_vmd_mbps,Entre Ríos,2020-07-01,22.43
+internet_vmd_mbps,Entre Ríos,2020-10-01,24.05
+internet_vmd_mbps,Entre Ríos,2021-01-01,23.87
+internet_vmd_mbps,Entre Ríos,2021-04-01,27.62
+internet_vmd_mbps,Entre Ríos,2021-07-01,29.6
+internet_vmd_mbps,Entre Ríos,2021-10-01,33.32
+internet_vmd_mbps,Entre Ríos,2022-01-01,35.59
+internet_vmd_mbps,Entre Ríos,2022-04-01,40.03
+internet_vmd_mbps,Entre Ríos,2022-07-01,42.49
+internet_vmd_mbps,Entre Ríos,2022-10-01,87.47
+internet_vmd_mbps,Entre Ríos,2023-01-01,86.71
+internet_vmd_mbps,Entre Ríos,2023-04-01,89.37
+internet_vmd_mbps,Entre Ríos,2023-07-01,96.26
+internet_vmd_mbps,Entre Ríos,2023-10-01,101.18
+internet_vmd_mbps,Entre Ríos,2024-01-01,101.36
+internet_vmd_mbps,Entre Ríos,2024-04-01,100.98
+internet_vmd_mbps,Entre Ríos,2024-07-01,104.27
+internet_vmd_mbps,Entre Ríos,2024-10-01,113.76
+internet_vmd_mbps,Entre Ríos,2025-01-01,119.34
+internet_vmd_mbps,Entre Ríos,2025-04-01,125.57
+internet_vmd_mbps,Entre Ríos,2025-07-01,117.01
+internet_vmd_mbps,Entre Ríos,2025-10-01,129.11
+internet_vmd_mbps,Entre Ríos,2026-01-01,135.08
+internet_vmd_mbps,Entre Ríos,2026-04-01,142.06
+internet_vmd_mbps,Formosa,2014-01-01,2.57
+internet_vmd_mbps,Formosa,2014-04-01,2.65
+internet_vmd_mbps,Formosa,2014-07-01,2.66
+internet_vmd_mbps,Formosa,2014-10-01,3.02
+internet_vmd_mbps,Formosa,2015-01-01,3.38
+internet_vmd_mbps,Formosa,2015-04-01,3.76
+internet_vmd_mbps,Formosa,2015-07-01,4.17
+internet_vmd_mbps,Formosa,2015-10-01,4.66
+internet_vmd_mbps,Formosa,2016-01-01,4.87
+internet_vmd_mbps,Formosa,2016-04-01,5.1
+internet_vmd_mbps,Formosa,2016-07-01,5.42
+internet_vmd_mbps,Formosa,2016-10-01,5.63
+internet_vmd_mbps,Formosa,2017-01-01,5.74
+internet_vmd_mbps,Formosa,2017-04-01,6.18
+internet_vmd_mbps,Formosa,2017-07-01,7.07
+internet_vmd_mbps,Formosa,2017-10-01,10.11
+internet_vmd_mbps,Formosa,2018-01-01,11.06
+internet_vmd_mbps,Formosa,2018-04-01,8.97
+internet_vmd_mbps,Formosa,2018-07-01,9.32
+internet_vmd_mbps,Formosa,2018-10-01,9.82
+internet_vmd_mbps,Formosa,2019-01-01,9.83
+internet_vmd_mbps,Formosa,2019-04-01,10.84
+internet_vmd_mbps,Formosa,2019-07-01,13.22
+internet_vmd_mbps,Formosa,2019-10-01,14.53
+internet_vmd_mbps,Formosa,2020-01-01,15.7
+internet_vmd_mbps,Formosa,2020-04-01,16.87
+internet_vmd_mbps,Formosa,2020-07-01,18.28
+internet_vmd_mbps,Formosa,2020-10-01,19.7
+internet_vmd_mbps,Formosa,2021-01-01,20.98
+internet_vmd_mbps,Formosa,2021-04-01,23.97
+internet_vmd_mbps,Formosa,2021-07-01,26.69
+internet_vmd_mbps,Formosa,2021-10-01,28.76
+internet_vmd_mbps,Formosa,2022-01-01,30.28
+internet_vmd_mbps,Formosa,2022-04-01,28.47
+internet_vmd_mbps,Formosa,2022-07-01,30.35
+internet_vmd_mbps,Formosa,2022-10-01,72.03
+internet_vmd_mbps,Formosa,2023-01-01,73.96
+internet_vmd_mbps,Formosa,2023-04-01,77.32
+internet_vmd_mbps,Formosa,2023-07-01,80.29
+internet_vmd_mbps,Formosa,2023-10-01,83.35
+internet_vmd_mbps,Formosa,2024-01-01,83.8
+internet_vmd_mbps,Formosa,2024-04-01,82.66
+internet_vmd_mbps,Formosa,2024-07-01,86.86
+internet_vmd_mbps,Formosa,2024-10-01,95.12
+internet_vmd_mbps,Formosa,2025-01-01,102.72
+internet_vmd_mbps,Formosa,2025-04-01,112.02
+internet_vmd_mbps,Formosa,2025-07-01,119.87
+internet_vmd_mbps,Formosa,2025-10-01,127.7
+internet_vmd_mbps,Formosa,2026-01-01,144.73
+internet_vmd_mbps,Formosa,2026-04-01,151.58
+internet_vmd_mbps,Jujuy,2014-01-01,2.69
+internet_vmd_mbps,Jujuy,2014-04-01,2.77
+internet_vmd_mbps,Jujuy,2014-07-01,2.93
+internet_vmd_mbps,Jujuy,2014-10-01,3.13
+internet_vmd_mbps,Jujuy,2015-01-01,3.24
+internet_vmd_mbps,Jujuy,2015-04-01,3.41
+internet_vmd_mbps,Jujuy,2015-07-01,3.53
+internet_vmd_mbps,Jujuy,2015-10-01,3.72
+internet_vmd_mbps,Jujuy,2016-01-01,3.77
+internet_vmd_mbps,Jujuy,2016-04-01,3.84
+internet_vmd_mbps,Jujuy,2016-07-01,4.22
+internet_vmd_mbps,Jujuy,2016-10-01,4.32
+internet_vmd_mbps,Jujuy,2017-01-01,4.39
+internet_vmd_mbps,Jujuy,2017-04-01,4.54
+internet_vmd_mbps,Jujuy,2017-07-01,4.69
+internet_vmd_mbps,Jujuy,2017-10-01,6.64
+internet_vmd_mbps,Jujuy,2018-01-01,6.74
+internet_vmd_mbps,Jujuy,2018-04-01,6.29
+internet_vmd_mbps,Jujuy,2018-07-01,7.67
+internet_vmd_mbps,Jujuy,2018-10-01,8.56
+internet_vmd_mbps,Jujuy,2019-01-01,8.56
+internet_vmd_mbps,Jujuy,2019-04-01,12.07
+internet_vmd_mbps,Jujuy,2019-07-01,11.97
+internet_vmd_mbps,Jujuy,2019-10-01,12.96
+internet_vmd_mbps,Jujuy,2020-01-01,14.14
+internet_vmd_mbps,Jujuy,2020-04-01,15.86
+internet_vmd_mbps,Jujuy,2020-07-01,21.91
+internet_vmd_mbps,Jujuy,2020-10-01,25.21
+internet_vmd_mbps,Jujuy,2021-01-01,26.78
+internet_vmd_mbps,Jujuy,2021-04-01,25.81
+internet_vmd_mbps,Jujuy,2021-07-01,25.98
+internet_vmd_mbps,Jujuy,2021-10-01,27.14
+internet_vmd_mbps,Jujuy,2022-01-01,27.69
+internet_vmd_mbps,Jujuy,2022-04-01,29.39
+internet_vmd_mbps,Jujuy,2022-07-01,32.43
+internet_vmd_mbps,Jujuy,2022-10-01,39.32
+internet_vmd_mbps,Jujuy,2023-01-01,42.75
+internet_vmd_mbps,Jujuy,2023-04-01,43.56
+internet_vmd_mbps,Jujuy,2023-07-01,44.55
+internet_vmd_mbps,Jujuy,2023-10-01,46.2
+internet_vmd_mbps,Jujuy,2024-01-01,47.52
+internet_vmd_mbps,Jujuy,2024-04-01,49.87
+internet_vmd_mbps,Jujuy,2024-07-01,55.18
+internet_vmd_mbps,Jujuy,2024-10-01,59.74
+internet_vmd_mbps,Jujuy,2025-01-01,63.34
+internet_vmd_mbps,Jujuy,2025-04-01,68.05
+internet_vmd_mbps,Jujuy,2025-07-01,82.72
+internet_vmd_mbps,Jujuy,2025-10-01,88.25
+internet_vmd_mbps,Jujuy,2026-01-01,94.94
+internet_vmd_mbps,Jujuy,2026-04-01,101.71
+internet_vmd_mbps,La Pampa,2014-01-01,2.65
+internet_vmd_mbps,La Pampa,2014-04-01,2.68
+internet_vmd_mbps,La Pampa,2014-07-01,2.82
+internet_vmd_mbps,La Pampa,2014-10-01,2.75
+internet_vmd_mbps,La Pampa,2015-01-01,2.83
+internet_vmd_mbps,La Pampa,2015-04-01,2.86
+internet_vmd_mbps,La Pampa,2015-07-01,2.91
+internet_vmd_mbps,La Pampa,2015-10-01,2.94
+internet_vmd_mbps,La Pampa,2016-01-01,3.05
+internet_vmd_mbps,La Pampa,2016-04-01,3.15
+internet_vmd_mbps,La Pampa,2016-07-01,3.14
+internet_vmd_mbps,La Pampa,2016-10-01,3.19
+internet_vmd_mbps,La Pampa,2017-01-01,3.22
+internet_vmd_mbps,La Pampa,2017-04-01,3.32
+internet_vmd_mbps,La Pampa,2017-07-01,3.44
+internet_vmd_mbps,La Pampa,2017-10-01,3.98
+internet_vmd_mbps,La Pampa,2018-01-01,4
+internet_vmd_mbps,La Pampa,2018-04-01,4.1
+internet_vmd_mbps,La Pampa,2018-07-01,4.28
+internet_vmd_mbps,La Pampa,2018-10-01,4.32
+internet_vmd_mbps,La Pampa,2019-01-01,5.06
+internet_vmd_mbps,La Pampa,2019-04-01,5.49
+internet_vmd_mbps,La Pampa,2019-07-01,5.72
+internet_vmd_mbps,La Pampa,2019-10-01,6.53
+internet_vmd_mbps,La Pampa,2020-01-01,7.29
+internet_vmd_mbps,La Pampa,2020-04-01,8.03
+internet_vmd_mbps,La Pampa,2020-07-01,10.7
+internet_vmd_mbps,La Pampa,2020-10-01,9.88
+internet_vmd_mbps,La Pampa,2021-01-01,10.73
+internet_vmd_mbps,La Pampa,2021-04-01,12.28
+internet_vmd_mbps,La Pampa,2021-07-01,12.99
+internet_vmd_mbps,La Pampa,2021-10-01,13.85
+internet_vmd_mbps,La Pampa,2022-01-01,14.84
+internet_vmd_mbps,La Pampa,2022-04-01,16.07
+internet_vmd_mbps,La Pampa,2022-07-01,18.1
+internet_vmd_mbps,La Pampa,2022-10-01,19.1
+internet_vmd_mbps,La Pampa,2023-01-01,20.09
+internet_vmd_mbps,La Pampa,2023-04-01,22.78
+internet_vmd_mbps,La Pampa,2023-07-01,24.21
+internet_vmd_mbps,La Pampa,2023-10-01,25.61
+internet_vmd_mbps,La Pampa,2024-01-01,26.55
+internet_vmd_mbps,La Pampa,2024-04-01,28.73
+internet_vmd_mbps,La Pampa,2024-07-01,34.36
+internet_vmd_mbps,La Pampa,2024-10-01,49.31
+internet_vmd_mbps,La Pampa,2025-01-01,54.6
+internet_vmd_mbps,La Pampa,2025-04-01,60.12
+internet_vmd_mbps,La Pampa,2025-07-01,67.39
+internet_vmd_mbps,La Pampa,2025-10-01,86.49
+internet_vmd_mbps,La Pampa,2026-01-01,102.54
+internet_vmd_mbps,La Pampa,2026-04-01,117.55
+internet_vmd_mbps,La Rioja,2014-01-01,2.96
+internet_vmd_mbps,La Rioja,2014-04-01,3.1
+internet_vmd_mbps,La Rioja,2014-07-01,3.1
+internet_vmd_mbps,La Rioja,2014-10-01,3.58
+internet_vmd_mbps,La Rioja,2015-01-01,3.78
+internet_vmd_mbps,La Rioja,2015-04-01,4
+internet_vmd_mbps,La Rioja,2015-07-01,4.25
+internet_vmd_mbps,La Rioja,2015-10-01,4.52
+internet_vmd_mbps,La Rioja,2016-01-01,4.62
+internet_vmd_mbps,La Rioja,2016-04-01,4.77
+internet_vmd_mbps,La Rioja,2016-07-01,5.08
+internet_vmd_mbps,La Rioja,2016-10-01,5.34
+internet_vmd_mbps,La Rioja,2017-01-01,5.43
+internet_vmd_mbps,La Rioja,2017-04-01,5.53
+internet_vmd_mbps,La Rioja,2017-07-01,5.01
+internet_vmd_mbps,La Rioja,2017-10-01,5.88
+internet_vmd_mbps,La Rioja,2018-01-01,5.89
+internet_vmd_mbps,La Rioja,2018-04-01,5.59
+internet_vmd_mbps,La Rioja,2018-07-01,6.16
+internet_vmd_mbps,La Rioja,2018-10-01,7.09
+internet_vmd_mbps,La Rioja,2019-01-01,7.09
+internet_vmd_mbps,La Rioja,2019-04-01,7.89
+internet_vmd_mbps,La Rioja,2019-07-01,8
+internet_vmd_mbps,La Rioja,2019-10-01,8
+internet_vmd_mbps,La Rioja,2020-01-01,7.96
+internet_vmd_mbps,La Rioja,2020-04-01,11.67
+internet_vmd_mbps,La Rioja,2020-07-01,12.19
+internet_vmd_mbps,La Rioja,2020-10-01,12.53
+internet_vmd_mbps,La Rioja,2021-01-01,12.7
+internet_vmd_mbps,La Rioja,2021-04-01,38.53
+internet_vmd_mbps,La Rioja,2021-07-01,38.87
+internet_vmd_mbps,La Rioja,2021-10-01,39.7
+internet_vmd_mbps,La Rioja,2022-01-01,41.37
+internet_vmd_mbps,La Rioja,2022-04-01,43.28
+internet_vmd_mbps,La Rioja,2022-07-01,44.3
+internet_vmd_mbps,La Rioja,2022-10-01,61
+internet_vmd_mbps,La Rioja,2023-01-01,63.13
+internet_vmd_mbps,La Rioja,2023-04-01,63.55
+internet_vmd_mbps,La Rioja,2023-07-01,63.84
+internet_vmd_mbps,La Rioja,2023-10-01,64.18
+internet_vmd_mbps,La Rioja,2024-01-01,63.71
+internet_vmd_mbps,La Rioja,2024-04-01,64.24
+internet_vmd_mbps,La Rioja,2024-07-01,65.85
+internet_vmd_mbps,La Rioja,2024-10-01,68.38
+internet_vmd_mbps,La Rioja,2025-01-01,71.66
+internet_vmd_mbps,La Rioja,2025-04-01,74.24
+internet_vmd_mbps,La Rioja,2025-07-01,76.23
+internet_vmd_mbps,La Rioja,2025-10-01,79.9
+internet_vmd_mbps,La Rioja,2026-01-01,83.46
+internet_vmd_mbps,La Rioja,2026-04-01,93.92
+internet_vmd_mbps,Mendoza,2014-01-01,3.5
+internet_vmd_mbps,Mendoza,2014-04-01,3.5
+internet_vmd_mbps,Mendoza,2014-07-01,3.5
+internet_vmd_mbps,Mendoza,2014-10-01,3.5
+internet_vmd_mbps,Mendoza,2015-01-01,3.5
+internet_vmd_mbps,Mendoza,2015-04-01,3.5
+internet_vmd_mbps,Mendoza,2015-07-01,3.5
+internet_vmd_mbps,Mendoza,2015-10-01,3.5
+internet_vmd_mbps,Mendoza,2016-01-01,3.5
+internet_vmd_mbps,Mendoza,2016-04-01,3.5
+internet_vmd_mbps,Mendoza,2016-07-01,3.51
+internet_vmd_mbps,Mendoza,2016-10-01,3.51
+internet_vmd_mbps,Mendoza,2017-01-01,3.51
+internet_vmd_mbps,Mendoza,2017-04-01,3.51
+internet_vmd_mbps,Mendoza,2017-07-01,3.51
+internet_vmd_mbps,Mendoza,2017-10-01,5.71
+internet_vmd_mbps,Mendoza,2018-01-01,5.88
+internet_vmd_mbps,Mendoza,2018-04-01,5.88
+internet_vmd_mbps,Mendoza,2018-07-01,5.79
+internet_vmd_mbps,Mendoza,2018-10-01,5.75
+internet_vmd_mbps,Mendoza,2019-01-01,5.74
+internet_vmd_mbps,Mendoza,2019-04-01,6.03
+internet_vmd_mbps,Mendoza,2019-07-01,6.11
+internet_vmd_mbps,Mendoza,2019-10-01,7.79
+internet_vmd_mbps,Mendoza,2020-01-01,8.44
+internet_vmd_mbps,Mendoza,2020-04-01,9.27
+internet_vmd_mbps,Mendoza,2020-07-01,10.19
+internet_vmd_mbps,Mendoza,2020-10-01,11.09
+internet_vmd_mbps,Mendoza,2021-01-01,12.6
+internet_vmd_mbps,Mendoza,2021-04-01,13.47
+internet_vmd_mbps,Mendoza,2021-07-01,13.37
+internet_vmd_mbps,Mendoza,2021-10-01,22.23
+internet_vmd_mbps,Mendoza,2022-01-01,26.2
+internet_vmd_mbps,Mendoza,2022-04-01,29.72
+internet_vmd_mbps,Mendoza,2022-07-01,34.16
+internet_vmd_mbps,Mendoza,2022-10-01,38.76
+internet_vmd_mbps,Mendoza,2023-01-01,41.45
+internet_vmd_mbps,Mendoza,2023-04-01,42.69
+internet_vmd_mbps,Mendoza,2023-07-01,46.96
+internet_vmd_mbps,Mendoza,2023-10-01,49.46
+internet_vmd_mbps,Mendoza,2024-01-01,51.85
+internet_vmd_mbps,Mendoza,2024-04-01,55.32
+internet_vmd_mbps,Mendoza,2024-07-01,60.98
+internet_vmd_mbps,Mendoza,2024-10-01,158.34
+internet_vmd_mbps,Mendoza,2025-01-01,169.19
+internet_vmd_mbps,Mendoza,2025-04-01,176.49
+internet_vmd_mbps,Mendoza,2025-07-01,189.4
+internet_vmd_mbps,Mendoza,2025-10-01,201.9
+internet_vmd_mbps,Mendoza,2026-01-01,212.27
+internet_vmd_mbps,Mendoza,2026-04-01,222.38
+internet_vmd_mbps,Misiones,2014-01-01,3.4
+internet_vmd_mbps,Misiones,2014-04-01,3.54
+internet_vmd_mbps,Misiones,2014-07-01,3.58
+internet_vmd_mbps,Misiones,2014-10-01,4.03
+internet_vmd_mbps,Misiones,2015-01-01,4.97
+internet_vmd_mbps,Misiones,2015-04-01,5.33
+internet_vmd_mbps,Misiones,2015-07-01,5.63
+internet_vmd_mbps,Misiones,2015-10-01,5.9
+internet_vmd_mbps,Misiones,2016-01-01,6
+internet_vmd_mbps,Misiones,2016-04-01,6.23
+internet_vmd_mbps,Misiones,2016-07-01,6.74
+internet_vmd_mbps,Misiones,2016-10-01,7.11
+internet_vmd_mbps,Misiones,2017-01-01,7.34
+internet_vmd_mbps,Misiones,2017-04-01,7.6
+internet_vmd_mbps,Misiones,2017-07-01,8.43
+internet_vmd_mbps,Misiones,2017-10-01,11.32
+internet_vmd_mbps,Misiones,2018-01-01,12.08
+internet_vmd_mbps,Misiones,2018-04-01,11.76
+internet_vmd_mbps,Misiones,2018-07-01,12.49
+internet_vmd_mbps,Misiones,2018-10-01,12.5
+internet_vmd_mbps,Misiones,2019-01-01,12.51
+internet_vmd_mbps,Misiones,2019-04-01,14.5
+internet_vmd_mbps,Misiones,2019-07-01,17.93
+internet_vmd_mbps,Misiones,2019-10-01,20.32
+internet_vmd_mbps,Misiones,2020-01-01,22.15
+internet_vmd_mbps,Misiones,2020-04-01,22.56
+internet_vmd_mbps,Misiones,2020-07-01,24.14
+internet_vmd_mbps,Misiones,2020-10-01,24.96
+internet_vmd_mbps,Misiones,2021-01-01,25.08
+internet_vmd_mbps,Misiones,2021-04-01,28.68
+internet_vmd_mbps,Misiones,2021-07-01,30.88
+internet_vmd_mbps,Misiones,2021-10-01,38.9
+internet_vmd_mbps,Misiones,2022-01-01,41.87
+internet_vmd_mbps,Misiones,2022-04-01,46.23
+internet_vmd_mbps,Misiones,2022-07-01,49.3
+internet_vmd_mbps,Misiones,2022-10-01,91.24
+internet_vmd_mbps,Misiones,2023-01-01,89.81
+internet_vmd_mbps,Misiones,2023-04-01,90.55
+internet_vmd_mbps,Misiones,2023-07-01,91.49
+internet_vmd_mbps,Misiones,2023-10-01,93.65
+internet_vmd_mbps,Misiones,2024-01-01,94.98
+internet_vmd_mbps,Misiones,2024-04-01,96.15
+internet_vmd_mbps,Misiones,2024-07-01,99.63
+internet_vmd_mbps,Misiones,2024-10-01,111.07
+internet_vmd_mbps,Misiones,2025-01-01,115.65
+internet_vmd_mbps,Misiones,2025-04-01,121.27
+internet_vmd_mbps,Misiones,2025-07-01,137.05
+internet_vmd_mbps,Misiones,2025-10-01,155.67
+internet_vmd_mbps,Misiones,2026-01-01,165.29
+internet_vmd_mbps,Misiones,2026-04-01,168.79
+internet_vmd_mbps,Neuquén,2014-01-01,3.55
+internet_vmd_mbps,Neuquén,2014-04-01,3.66
+internet_vmd_mbps,Neuquén,2014-07-01,3.74
+internet_vmd_mbps,Neuquén,2014-10-01,3.85
+internet_vmd_mbps,Neuquén,2015-01-01,3.91
+internet_vmd_mbps,Neuquén,2015-04-01,4.06
+internet_vmd_mbps,Neuquén,2015-07-01,4.23
+internet_vmd_mbps,Neuquén,2015-10-01,4.36
+internet_vmd_mbps,Neuquén,2016-01-01,4.42
+internet_vmd_mbps,Neuquén,2016-04-01,4.87
+internet_vmd_mbps,Neuquén,2016-07-01,5.29
+internet_vmd_mbps,Neuquén,2016-10-01,5.68
+internet_vmd_mbps,Neuquén,2017-01-01,6.03
+internet_vmd_mbps,Neuquén,2017-04-01,6.7
+internet_vmd_mbps,Neuquén,2017-07-01,8.17
+internet_vmd_mbps,Neuquén,2017-10-01,10.72
+internet_vmd_mbps,Neuquén,2018-01-01,11.96
+internet_vmd_mbps,Neuquén,2018-04-01,13.37
+internet_vmd_mbps,Neuquén,2018-07-01,14.67
+internet_vmd_mbps,Neuquén,2018-10-01,15.89
+internet_vmd_mbps,Neuquén,2019-01-01,15.88
+internet_vmd_mbps,Neuquén,2019-04-01,17.24
+internet_vmd_mbps,Neuquén,2019-07-01,23.75
+internet_vmd_mbps,Neuquén,2019-10-01,26.02
+internet_vmd_mbps,Neuquén,2020-01-01,27.77
+internet_vmd_mbps,Neuquén,2020-04-01,29.1
+internet_vmd_mbps,Neuquén,2020-07-01,31.46
+internet_vmd_mbps,Neuquén,2020-10-01,33.91
+internet_vmd_mbps,Neuquén,2021-01-01,34.24
+internet_vmd_mbps,Neuquén,2021-04-01,36.11
+internet_vmd_mbps,Neuquén,2021-07-01,38.34
+internet_vmd_mbps,Neuquén,2021-10-01,40.09
+internet_vmd_mbps,Neuquén,2022-01-01,43.05
+internet_vmd_mbps,Neuquén,2022-04-01,46.53
+internet_vmd_mbps,Neuquén,2022-07-01,47.81
+internet_vmd_mbps,Neuquén,2022-10-01,95.37
+internet_vmd_mbps,Neuquén,2023-01-01,93.42
+internet_vmd_mbps,Neuquén,2023-04-01,93.97
+internet_vmd_mbps,Neuquén,2023-07-01,96.57
+internet_vmd_mbps,Neuquén,2023-10-01,99.63
+internet_vmd_mbps,Neuquén,2024-01-01,98.16
+internet_vmd_mbps,Neuquén,2024-04-01,97.04
+internet_vmd_mbps,Neuquén,2024-07-01,97.11
+internet_vmd_mbps,Neuquén,2024-10-01,179.59
+internet_vmd_mbps,Neuquén,2025-01-01,217.27
+internet_vmd_mbps,Neuquén,2025-04-01,221.85
+internet_vmd_mbps,Neuquén,2025-07-01,225.4
+internet_vmd_mbps,Neuquén,2025-10-01,234.65
+internet_vmd_mbps,Neuquén,2026-01-01,247
+internet_vmd_mbps,Neuquén,2026-04-01,270.72
+internet_vmd_mbps,Río Negro,2014-01-01,3.35
+internet_vmd_mbps,Río Negro,2014-04-01,3.43
+internet_vmd_mbps,Río Negro,2014-07-01,3.48
+internet_vmd_mbps,Río Negro,2014-10-01,3.54
+internet_vmd_mbps,Río Negro,2015-01-01,3.59
+internet_vmd_mbps,Río Negro,2015-04-01,3.67
+internet_vmd_mbps,Río Negro,2015-07-01,3.74
+internet_vmd_mbps,Río Negro,2015-10-01,3.77
+internet_vmd_mbps,Río Negro,2016-01-01,3.83
+internet_vmd_mbps,Río Negro,2016-04-01,3.98
+internet_vmd_mbps,Río Negro,2016-07-01,4.16
+internet_vmd_mbps,Río Negro,2016-10-01,4.37
+internet_vmd_mbps,Río Negro,2017-01-01,4.45
+internet_vmd_mbps,Río Negro,2017-04-01,4.74
+internet_vmd_mbps,Río Negro,2017-07-01,5.49
+internet_vmd_mbps,Río Negro,2017-10-01,8.05
+internet_vmd_mbps,Río Negro,2018-01-01,8.98
+internet_vmd_mbps,Río Negro,2018-04-01,9.51
+internet_vmd_mbps,Río Negro,2018-07-01,10.06
+internet_vmd_mbps,Río Negro,2018-10-01,10.49
+internet_vmd_mbps,Río Negro,2019-01-01,10.49
+internet_vmd_mbps,Río Negro,2019-04-01,11.63
+internet_vmd_mbps,Río Negro,2019-07-01,15.98
+internet_vmd_mbps,Río Negro,2019-10-01,17.18
+internet_vmd_mbps,Río Negro,2020-01-01,19.06
+internet_vmd_mbps,Río Negro,2020-04-01,19.68
+internet_vmd_mbps,Río Negro,2020-07-01,21.08
+internet_vmd_mbps,Río Negro,2020-10-01,21.64
+internet_vmd_mbps,Río Negro,2021-01-01,21.92
+internet_vmd_mbps,Río Negro,2021-04-01,23.75
+internet_vmd_mbps,Río Negro,2021-07-01,25.4
+internet_vmd_mbps,Río Negro,2021-10-01,27.2
+internet_vmd_mbps,Río Negro,2022-01-01,31.09
+internet_vmd_mbps,Río Negro,2022-04-01,33.26
+internet_vmd_mbps,Río Negro,2022-07-01,34.13
+internet_vmd_mbps,Río Negro,2022-10-01,75.31
+internet_vmd_mbps,Río Negro,2023-01-01,74.4
+internet_vmd_mbps,Río Negro,2023-04-01,70.76
+internet_vmd_mbps,Río Negro,2023-07-01,70.93
+internet_vmd_mbps,Río Negro,2023-10-01,74.37
+internet_vmd_mbps,Río Negro,2024-01-01,75
+internet_vmd_mbps,Río Negro,2024-04-01,75.05
+internet_vmd_mbps,Río Negro,2024-07-01,77.68
+internet_vmd_mbps,Río Negro,2024-10-01,135.99
+internet_vmd_mbps,Río Negro,2025-01-01,143.09
+internet_vmd_mbps,Río Negro,2025-04-01,147.86
+internet_vmd_mbps,Río Negro,2025-07-01,158.68
+internet_vmd_mbps,Río Negro,2025-10-01,173.37
+internet_vmd_mbps,Río Negro,2026-01-01,183.41
+internet_vmd_mbps,Río Negro,2026-04-01,192.61
+internet_vmd_mbps,Salta,2014-01-01,3.3
+internet_vmd_mbps,Salta,2014-04-01,3.39
+internet_vmd_mbps,Salta,2014-07-01,3.41
+internet_vmd_mbps,Salta,2014-10-01,3.86
+internet_vmd_mbps,Salta,2015-01-01,4.02
+internet_vmd_mbps,Salta,2015-04-01,4.22
+internet_vmd_mbps,Salta,2015-07-01,4.42
+internet_vmd_mbps,Salta,2015-10-01,4.67
+internet_vmd_mbps,Salta,2016-01-01,4.74
+internet_vmd_mbps,Salta,2016-04-01,4.75
+internet_vmd_mbps,Salta,2016-07-01,5.05
+internet_vmd_mbps,Salta,2016-10-01,5.22
+internet_vmd_mbps,Salta,2017-01-01,5.34
+internet_vmd_mbps,Salta,2017-04-01,5.76
+internet_vmd_mbps,Salta,2017-07-01,6.13
+internet_vmd_mbps,Salta,2017-10-01,8.45
+internet_vmd_mbps,Salta,2018-01-01,9.19
+internet_vmd_mbps,Salta,2018-04-01,8.93
+internet_vmd_mbps,Salta,2018-07-01,9.27
+internet_vmd_mbps,Salta,2018-10-01,10.46
+internet_vmd_mbps,Salta,2019-01-01,10.38
+internet_vmd_mbps,Salta,2019-04-01,12.55
+internet_vmd_mbps,Salta,2019-07-01,14.75
+internet_vmd_mbps,Salta,2019-10-01,19.08
+internet_vmd_mbps,Salta,2020-01-01,21.43
+internet_vmd_mbps,Salta,2020-04-01,22.56
+internet_vmd_mbps,Salta,2020-07-01,25.26
+internet_vmd_mbps,Salta,2020-10-01,25.32
+internet_vmd_mbps,Salta,2021-01-01,27.32
+internet_vmd_mbps,Salta,2021-04-01,29.24
+internet_vmd_mbps,Salta,2021-07-01,31.21
+internet_vmd_mbps,Salta,2021-10-01,33.94
+internet_vmd_mbps,Salta,2022-01-01,36.71
+internet_vmd_mbps,Salta,2022-04-01,38.77
+internet_vmd_mbps,Salta,2022-07-01,41.33
+internet_vmd_mbps,Salta,2022-10-01,75.93
+internet_vmd_mbps,Salta,2023-01-01,76.85
+internet_vmd_mbps,Salta,2023-04-01,79.1
+internet_vmd_mbps,Salta,2023-07-01,80.8
+internet_vmd_mbps,Salta,2023-10-01,83.04
+internet_vmd_mbps,Salta,2024-01-01,84.34
+internet_vmd_mbps,Salta,2024-04-01,87.03
+internet_vmd_mbps,Salta,2024-07-01,93.17
+internet_vmd_mbps,Salta,2024-10-01,121.98
+internet_vmd_mbps,Salta,2025-01-01,132.74
+internet_vmd_mbps,Salta,2025-04-01,143.01
+internet_vmd_mbps,Salta,2025-07-01,156.75
+internet_vmd_mbps,Salta,2025-10-01,172.05
+internet_vmd_mbps,Salta,2026-01-01,165.09
+internet_vmd_mbps,Salta,2026-04-01,176.16
+internet_vmd_mbps,San Juan,2014-01-01,3.47
+internet_vmd_mbps,San Juan,2014-04-01,3.47
+internet_vmd_mbps,San Juan,2014-07-01,3.47
+internet_vmd_mbps,San Juan,2014-10-01,3.48
+internet_vmd_mbps,San Juan,2015-01-01,3.48
+internet_vmd_mbps,San Juan,2015-04-01,3.48
+internet_vmd_mbps,San Juan,2015-07-01,3.48
+internet_vmd_mbps,San Juan,2015-10-01,3.48
+internet_vmd_mbps,San Juan,2016-01-01,3.49
+internet_vmd_mbps,San Juan,2016-04-01,3.49
+internet_vmd_mbps,San Juan,2016-07-01,3.49
+internet_vmd_mbps,San Juan,2016-10-01,3.49
+internet_vmd_mbps,San Juan,2017-01-01,3.49
+internet_vmd_mbps,San Juan,2017-04-01,3.49
+internet_vmd_mbps,San Juan,2017-07-01,3.45
+internet_vmd_mbps,San Juan,2017-10-01,5.83
+internet_vmd_mbps,San Juan,2018-01-01,5.85
+internet_vmd_mbps,San Juan,2018-04-01,5.85
+internet_vmd_mbps,San Juan,2018-07-01,5.74
+internet_vmd_mbps,San Juan,2018-10-01,5.72
+internet_vmd_mbps,San Juan,2019-01-01,5.84
+internet_vmd_mbps,San Juan,2019-04-01,6.12
+internet_vmd_mbps,San Juan,2019-07-01,6.04
+internet_vmd_mbps,San Juan,2019-10-01,6.04
+internet_vmd_mbps,San Juan,2020-01-01,6.04
+internet_vmd_mbps,San Juan,2020-04-01,6.31
+internet_vmd_mbps,San Juan,2020-07-01,6.03
+internet_vmd_mbps,San Juan,2020-10-01,6.41
+internet_vmd_mbps,San Juan,2021-01-01,6.91
+internet_vmd_mbps,San Juan,2021-04-01,6.99
+internet_vmd_mbps,San Juan,2021-07-01,7.04
+internet_vmd_mbps,San Juan,2021-10-01,11.05
+internet_vmd_mbps,San Juan,2022-01-01,11.99
+internet_vmd_mbps,San Juan,2022-04-01,14.44
+internet_vmd_mbps,San Juan,2022-07-01,15.84
+internet_vmd_mbps,San Juan,2022-10-01,16.39
+internet_vmd_mbps,San Juan,2023-01-01,18.7
+internet_vmd_mbps,San Juan,2023-04-01,20.39
+internet_vmd_mbps,San Juan,2023-07-01,24.45
+internet_vmd_mbps,San Juan,2023-10-01,24.78
+internet_vmd_mbps,San Juan,2024-01-01,30.58
+internet_vmd_mbps,San Juan,2024-04-01,32.17
+internet_vmd_mbps,San Juan,2024-07-01,36.91
+internet_vmd_mbps,San Juan,2024-10-01,215.72
+internet_vmd_mbps,San Juan,2025-01-01,231.23
+internet_vmd_mbps,San Juan,2025-04-01,234.66
+internet_vmd_mbps,San Juan,2025-07-01,240.65
+internet_vmd_mbps,San Juan,2025-10-01,248.34
+internet_vmd_mbps,San Juan,2026-01-01,258.05
+internet_vmd_mbps,San Juan,2026-04-01,262.95
+internet_vmd_mbps,San Luis,2014-01-01,3.5
+internet_vmd_mbps,San Luis,2014-04-01,3.5
+internet_vmd_mbps,San Luis,2014-07-01,3.5
+internet_vmd_mbps,San Luis,2014-10-01,3.5
+internet_vmd_mbps,San Luis,2015-01-01,3.5
+internet_vmd_mbps,San Luis,2015-04-01,3.5
+internet_vmd_mbps,San Luis,2015-07-01,3.5
+internet_vmd_mbps,San Luis,2015-10-01,3.5
+internet_vmd_mbps,San Luis,2016-01-01,3.5
+internet_vmd_mbps,San Luis,2016-04-01,3.5
+internet_vmd_mbps,San Luis,2016-07-01,3.5
+internet_vmd_mbps,San Luis,2016-10-01,3.5
+internet_vmd_mbps,San Luis,2017-01-01,3.5
+internet_vmd_mbps,San Luis,2017-04-01,3.5
+internet_vmd_mbps,San Luis,2017-07-01,3.5
+internet_vmd_mbps,San Luis,2017-10-01,5.73
+internet_vmd_mbps,San Luis,2018-01-01,5.89
+internet_vmd_mbps,San Luis,2018-04-01,5.9
+internet_vmd_mbps,San Luis,2018-07-01,8.81
+internet_vmd_mbps,San Luis,2018-10-01,8.82
+internet_vmd_mbps,San Luis,2019-01-01,8.71
+internet_vmd_mbps,San Luis,2019-04-01,19.88
+internet_vmd_mbps,San Luis,2019-07-01,19.74
+internet_vmd_mbps,San Luis,2019-10-01,20.69
+internet_vmd_mbps,San Luis,2020-01-01,20.99
+internet_vmd_mbps,San Luis,2020-04-01,21.02
+internet_vmd_mbps,San Luis,2020-07-01,20.85
+internet_vmd_mbps,San Luis,2020-10-01,21.25
+internet_vmd_mbps,San Luis,2021-01-01,21.59
+internet_vmd_mbps,San Luis,2021-04-01,21.66
+internet_vmd_mbps,San Luis,2021-07-01,21.7
+internet_vmd_mbps,San Luis,2021-10-01,20.91
+internet_vmd_mbps,San Luis,2022-01-01,20.95
+internet_vmd_mbps,San Luis,2022-04-01,19.32
+internet_vmd_mbps,San Luis,2022-07-01,19.33
+internet_vmd_mbps,San Luis,2022-10-01,30.67
+internet_vmd_mbps,San Luis,2023-01-01,55.85
+internet_vmd_mbps,San Luis,2023-04-01,103.84
+internet_vmd_mbps,San Luis,2023-07-01,104.97
+internet_vmd_mbps,San Luis,2023-10-01,174.59
+internet_vmd_mbps,San Luis,2024-01-01,179.49
+internet_vmd_mbps,San Luis,2024-04-01,181.61
+internet_vmd_mbps,San Luis,2024-07-01,178.73
+internet_vmd_mbps,San Luis,2024-10-01,192.49
+internet_vmd_mbps,San Luis,2025-01-01,209.79
+internet_vmd_mbps,San Luis,2025-04-01,217.01
+internet_vmd_mbps,San Luis,2025-07-01,230.14
+internet_vmd_mbps,San Luis,2025-10-01,252.65
+internet_vmd_mbps,San Luis,2026-01-01,264.31
+internet_vmd_mbps,San Luis,2026-04-01,271.93
+internet_vmd_mbps,Santa Cruz,2014-01-01,3.32
+internet_vmd_mbps,Santa Cruz,2014-04-01,3.32
+internet_vmd_mbps,Santa Cruz,2014-07-01,3.31
+internet_vmd_mbps,Santa Cruz,2014-10-01,3.33
+internet_vmd_mbps,Santa Cruz,2015-01-01,3.47
+internet_vmd_mbps,Santa Cruz,2015-04-01,3.47
+internet_vmd_mbps,Santa Cruz,2015-07-01,3.48
+internet_vmd_mbps,Santa Cruz,2015-10-01,3.48
+internet_vmd_mbps,Santa Cruz,2016-01-01,3.48
+internet_vmd_mbps,Santa Cruz,2016-04-01,3.5
+internet_vmd_mbps,Santa Cruz,2016-07-01,3.54
+internet_vmd_mbps,Santa Cruz,2016-10-01,3.56
+internet_vmd_mbps,Santa Cruz,2017-01-01,3.59
+internet_vmd_mbps,Santa Cruz,2017-04-01,3.6
+internet_vmd_mbps,Santa Cruz,2017-07-01,3.61
+internet_vmd_mbps,Santa Cruz,2017-10-01,5.21
+internet_vmd_mbps,Santa Cruz,2018-01-01,5.19
+internet_vmd_mbps,Santa Cruz,2018-04-01,5.19
+internet_vmd_mbps,Santa Cruz,2018-07-01,5.37
+internet_vmd_mbps,Santa Cruz,2018-10-01,5.12
+internet_vmd_mbps,Santa Cruz,2019-01-01,5.78
+internet_vmd_mbps,Santa Cruz,2019-04-01,6.01
+internet_vmd_mbps,Santa Cruz,2019-07-01,5.02
+internet_vmd_mbps,Santa Cruz,2019-10-01,5.21
+internet_vmd_mbps,Santa Cruz,2020-01-01,6.42
+internet_vmd_mbps,Santa Cruz,2020-04-01,6.59
+internet_vmd_mbps,Santa Cruz,2020-07-01,6.65
+internet_vmd_mbps,Santa Cruz,2020-10-01,7.49
+internet_vmd_mbps,Santa Cruz,2021-01-01,7.5
+internet_vmd_mbps,Santa Cruz,2021-04-01,7.63
+internet_vmd_mbps,Santa Cruz,2021-07-01,7.69
+internet_vmd_mbps,Santa Cruz,2021-10-01,8.99
+internet_vmd_mbps,Santa Cruz,2022-01-01,10.89
+internet_vmd_mbps,Santa Cruz,2022-04-01,11.81
+internet_vmd_mbps,Santa Cruz,2022-07-01,12.6
+internet_vmd_mbps,Santa Cruz,2022-10-01,14.33
+internet_vmd_mbps,Santa Cruz,2023-01-01,14.98
+internet_vmd_mbps,Santa Cruz,2023-04-01,15.48
+internet_vmd_mbps,Santa Cruz,2023-07-01,15.67
+internet_vmd_mbps,Santa Cruz,2023-10-01,36.77
+internet_vmd_mbps,Santa Cruz,2024-01-01,31.6
+internet_vmd_mbps,Santa Cruz,2024-04-01,29.89
+internet_vmd_mbps,Santa Cruz,2024-07-01,30.06
+internet_vmd_mbps,Santa Cruz,2024-10-01,47.71
+internet_vmd_mbps,Santa Cruz,2025-01-01,55.33
+internet_vmd_mbps,Santa Cruz,2025-04-01,62.82
+internet_vmd_mbps,Santa Cruz,2025-07-01,72.33
+internet_vmd_mbps,Santa Cruz,2025-10-01,152.27
+internet_vmd_mbps,Santa Cruz,2026-01-01,160.23
+internet_vmd_mbps,Santa Cruz,2026-04-01,164.82
+internet_vmd_mbps,Santa Fe,2014-01-01,3.15
+internet_vmd_mbps,Santa Fe,2014-04-01,3.31
+internet_vmd_mbps,Santa Fe,2014-07-01,3.38
+internet_vmd_mbps,Santa Fe,2014-10-01,3.78
+internet_vmd_mbps,Santa Fe,2015-01-01,4.06
+internet_vmd_mbps,Santa Fe,2015-04-01,4.3
+internet_vmd_mbps,Santa Fe,2015-07-01,4.56
+internet_vmd_mbps,Santa Fe,2015-10-01,4.81
+internet_vmd_mbps,Santa Fe,2016-01-01,4.9
+internet_vmd_mbps,Santa Fe,2016-04-01,5.14
+internet_vmd_mbps,Santa Fe,2016-07-01,5.68
+internet_vmd_mbps,Santa Fe,2016-10-01,6.04
+internet_vmd_mbps,Santa Fe,2017-01-01,6.28
+internet_vmd_mbps,Santa Fe,2017-04-01,6.84
+internet_vmd_mbps,Santa Fe,2017-07-01,7.79
+internet_vmd_mbps,Santa Fe,2017-10-01,10.3
+internet_vmd_mbps,Santa Fe,2018-01-01,11.17
+internet_vmd_mbps,Santa Fe,2018-04-01,11.75
+internet_vmd_mbps,Santa Fe,2018-07-01,12.36
+internet_vmd_mbps,Santa Fe,2018-10-01,13.18
+internet_vmd_mbps,Santa Fe,2019-01-01,12.99
+internet_vmd_mbps,Santa Fe,2019-04-01,15.07
+internet_vmd_mbps,Santa Fe,2019-07-01,18.17
+internet_vmd_mbps,Santa Fe,2019-10-01,20.55
+internet_vmd_mbps,Santa Fe,2020-01-01,22.42
+internet_vmd_mbps,Santa Fe,2020-04-01,23.93
+internet_vmd_mbps,Santa Fe,2020-07-01,25.69
+internet_vmd_mbps,Santa Fe,2020-10-01,27.29
+internet_vmd_mbps,Santa Fe,2021-01-01,28.13
+internet_vmd_mbps,Santa Fe,2021-04-01,30.7
+internet_vmd_mbps,Santa Fe,2021-07-01,33.13
+internet_vmd_mbps,Santa Fe,2021-10-01,36.02
+internet_vmd_mbps,Santa Fe,2022-01-01,38.89
+internet_vmd_mbps,Santa Fe,2022-04-01,42.01
+internet_vmd_mbps,Santa Fe,2022-07-01,45.15
+internet_vmd_mbps,Santa Fe,2022-10-01,90.3
+internet_vmd_mbps,Santa Fe,2023-01-01,92.22
+internet_vmd_mbps,Santa Fe,2023-04-01,94.87
+internet_vmd_mbps,Santa Fe,2023-07-01,97.39
+internet_vmd_mbps,Santa Fe,2023-10-01,99.81
+internet_vmd_mbps,Santa Fe,2024-01-01,100.2
+internet_vmd_mbps,Santa Fe,2024-04-01,102.51
+internet_vmd_mbps,Santa Fe,2024-07-01,105.68
+internet_vmd_mbps,Santa Fe,2024-10-01,120.82
+internet_vmd_mbps,Santa Fe,2025-01-01,127
+internet_vmd_mbps,Santa Fe,2025-04-01,135.07
+internet_vmd_mbps,Santa Fe,2025-07-01,142.93
+internet_vmd_mbps,Santa Fe,2025-10-01,153.93
+internet_vmd_mbps,Santa Fe,2026-01-01,161.11
+internet_vmd_mbps,Santa Fe,2026-04-01,171.99
+internet_vmd_mbps,Santiago Del Estero,2014-01-01,2.95
+internet_vmd_mbps,Santiago Del Estero,2014-04-01,3.07
+internet_vmd_mbps,Santiago Del Estero,2014-07-01,3.1
+internet_vmd_mbps,Santiago Del Estero,2014-10-01,3.46
+internet_vmd_mbps,Santiago Del Estero,2015-01-01,3.57
+internet_vmd_mbps,Santiago Del Estero,2015-04-01,3.73
+internet_vmd_mbps,Santiago Del Estero,2015-07-01,3.91
+internet_vmd_mbps,Santiago Del Estero,2015-10-01,4.09
+internet_vmd_mbps,Santiago Del Estero,2016-01-01,4.17
+internet_vmd_mbps,Santiago Del Estero,2016-04-01,4.31
+internet_vmd_mbps,Santiago Del Estero,2016-07-01,4.67
+internet_vmd_mbps,Santiago Del Estero,2016-10-01,4.87
+internet_vmd_mbps,Santiago Del Estero,2017-01-01,4.95
+internet_vmd_mbps,Santiago Del Estero,2017-04-01,5.06
+internet_vmd_mbps,Santiago Del Estero,2017-07-01,5.18
+internet_vmd_mbps,Santiago Del Estero,2017-10-01,6.17
+internet_vmd_mbps,Santiago Del Estero,2018-01-01,6.25
+internet_vmd_mbps,Santiago Del Estero,2018-04-01,5.91
+internet_vmd_mbps,Santiago Del Estero,2018-07-01,5.78
+internet_vmd_mbps,Santiago Del Estero,2018-10-01,6.31
+internet_vmd_mbps,Santiago Del Estero,2019-01-01,6.42
+internet_vmd_mbps,Santiago Del Estero,2019-04-01,7.1
+internet_vmd_mbps,Santiago Del Estero,2019-07-01,9.39
+internet_vmd_mbps,Santiago Del Estero,2019-10-01,9.79
+internet_vmd_mbps,Santiago Del Estero,2020-01-01,10
+internet_vmd_mbps,Santiago Del Estero,2020-04-01,10.41
+internet_vmd_mbps,Santiago Del Estero,2020-07-01,10.88
+internet_vmd_mbps,Santiago Del Estero,2020-10-01,11.28
+internet_vmd_mbps,Santiago Del Estero,2021-01-01,11.58
+internet_vmd_mbps,Santiago Del Estero,2021-04-01,12.72
+internet_vmd_mbps,Santiago Del Estero,2021-07-01,13.35
+internet_vmd_mbps,Santiago Del Estero,2021-10-01,13.84
+internet_vmd_mbps,Santiago Del Estero,2022-01-01,14.5
+internet_vmd_mbps,Santiago Del Estero,2022-04-01,16.34
+internet_vmd_mbps,Santiago Del Estero,2022-07-01,17.69
+internet_vmd_mbps,Santiago Del Estero,2022-10-01,34.4
+internet_vmd_mbps,Santiago Del Estero,2023-01-01,36.27
+internet_vmd_mbps,Santiago Del Estero,2023-04-01,37.62
+internet_vmd_mbps,Santiago Del Estero,2023-07-01,41.46
+internet_vmd_mbps,Santiago Del Estero,2023-10-01,44.22
+internet_vmd_mbps,Santiago Del Estero,2024-01-01,44.9
+internet_vmd_mbps,Santiago Del Estero,2024-04-01,48.95
+internet_vmd_mbps,Santiago Del Estero,2024-07-01,54.36
+internet_vmd_mbps,Santiago Del Estero,2024-10-01,93.21
+internet_vmd_mbps,Santiago Del Estero,2025-01-01,101.44
+internet_vmd_mbps,Santiago Del Estero,2025-04-01,109.44
+internet_vmd_mbps,Santiago Del Estero,2025-07-01,118.77
+internet_vmd_mbps,Santiago Del Estero,2025-10-01,129.05
+internet_vmd_mbps,Santiago Del Estero,2026-01-01,119.85
+internet_vmd_mbps,Santiago Del Estero,2026-04-01,131.57
+internet_vmd_mbps,Tierra Del Fuego,2014-01-01,3.45
+internet_vmd_mbps,Tierra Del Fuego,2014-04-01,3.47
+internet_vmd_mbps,Tierra Del Fuego,2014-07-01,3.47
+internet_vmd_mbps,Tierra Del Fuego,2014-10-01,3.47
+internet_vmd_mbps,Tierra Del Fuego,2015-01-01,3.45
+internet_vmd_mbps,Tierra Del Fuego,2015-04-01,3.48
+internet_vmd_mbps,Tierra Del Fuego,2015-07-01,3.48
+internet_vmd_mbps,Tierra Del Fuego,2015-10-01,3.47
+internet_vmd_mbps,Tierra Del Fuego,2016-01-01,3.48
+internet_vmd_mbps,Tierra Del Fuego,2016-04-01,3.48
+internet_vmd_mbps,Tierra Del Fuego,2016-07-01,3.48
+internet_vmd_mbps,Tierra Del Fuego,2016-10-01,3.48
+internet_vmd_mbps,Tierra Del Fuego,2017-01-01,3.48
+internet_vmd_mbps,Tierra Del Fuego,2017-04-01,3.48
+internet_vmd_mbps,Tierra Del Fuego,2017-07-01,3.48
+internet_vmd_mbps,Tierra Del Fuego,2017-10-01,5.2
+internet_vmd_mbps,Tierra Del Fuego,2018-01-01,5.77
+internet_vmd_mbps,Tierra Del Fuego,2018-04-01,5.94
+internet_vmd_mbps,Tierra Del Fuego,2018-07-01,5.99
+internet_vmd_mbps,Tierra Del Fuego,2018-10-01,7.44
+internet_vmd_mbps,Tierra Del Fuego,2019-01-01,6.34
+internet_vmd_mbps,Tierra Del Fuego,2019-04-01,6.34
+internet_vmd_mbps,Tierra Del Fuego,2019-07-01,6.69
+internet_vmd_mbps,Tierra Del Fuego,2019-10-01,7.27
+internet_vmd_mbps,Tierra Del Fuego,2020-01-01,7.41
+internet_vmd_mbps,Tierra Del Fuego,2020-04-01,8.13
+internet_vmd_mbps,Tierra Del Fuego,2020-07-01,8.51
+internet_vmd_mbps,Tierra Del Fuego,2020-10-01,8.49
+internet_vmd_mbps,Tierra Del Fuego,2021-01-01,8.73
+internet_vmd_mbps,Tierra Del Fuego,2021-04-01,8.59
+internet_vmd_mbps,Tierra Del Fuego,2021-07-01,9.52
+internet_vmd_mbps,Tierra Del Fuego,2021-10-01,10.7
+internet_vmd_mbps,Tierra Del Fuego,2022-01-01,10.73
+internet_vmd_mbps,Tierra Del Fuego,2022-04-01,10.97
+internet_vmd_mbps,Tierra Del Fuego,2022-07-01,11.01
+internet_vmd_mbps,Tierra Del Fuego,2022-10-01,13.48
+internet_vmd_mbps,Tierra Del Fuego,2023-01-01,14.58
+internet_vmd_mbps,Tierra Del Fuego,2023-04-01,16.92
+internet_vmd_mbps,Tierra Del Fuego,2023-07-01,17.17
+internet_vmd_mbps,Tierra Del Fuego,2023-10-01,17.92
+internet_vmd_mbps,Tierra Del Fuego,2024-01-01,21.54
+internet_vmd_mbps,Tierra Del Fuego,2024-04-01,22.09
+internet_vmd_mbps,Tierra Del Fuego,2024-07-01,24.73
+internet_vmd_mbps,Tierra Del Fuego,2024-10-01,39.63
+internet_vmd_mbps,Tierra Del Fuego,2025-01-01,50.4
+internet_vmd_mbps,Tierra Del Fuego,2025-04-01,59.05
+internet_vmd_mbps,Tierra Del Fuego,2025-07-01,90.93
+internet_vmd_mbps,Tierra Del Fuego,2025-10-01,95.58
+internet_vmd_mbps,Tierra Del Fuego,2026-01-01,97.38
+internet_vmd_mbps,Tierra Del Fuego,2026-04-01,101.17
+internet_vmd_mbps,Tucumán,2014-01-01,3.21
+internet_vmd_mbps,Tucumán,2014-04-01,3.35
+internet_vmd_mbps,Tucumán,2014-07-01,3.35
+internet_vmd_mbps,Tucumán,2014-10-01,3.86
+internet_vmd_mbps,Tucumán,2015-01-01,4.07
+internet_vmd_mbps,Tucumán,2015-04-01,4.31
+internet_vmd_mbps,Tucumán,2015-07-01,4.57
+internet_vmd_mbps,Tucumán,2015-10-01,4.88
+internet_vmd_mbps,Tucumán,2016-01-01,5
+internet_vmd_mbps,Tucumán,2016-04-01,5.2
+internet_vmd_mbps,Tucumán,2016-07-01,5.54
+internet_vmd_mbps,Tucumán,2016-10-01,5.73
+internet_vmd_mbps,Tucumán,2017-01-01,5.88
+internet_vmd_mbps,Tucumán,2017-04-01,6.09
+internet_vmd_mbps,Tucumán,2017-07-01,6.39
+internet_vmd_mbps,Tucumán,2017-10-01,9.11
+internet_vmd_mbps,Tucumán,2018-01-01,9.36
+internet_vmd_mbps,Tucumán,2018-04-01,13.51
+internet_vmd_mbps,Tucumán,2018-07-01,15.26
+internet_vmd_mbps,Tucumán,2018-10-01,16.58
+internet_vmd_mbps,Tucumán,2019-01-01,16.57
+internet_vmd_mbps,Tucumán,2019-04-01,18.53
+internet_vmd_mbps,Tucumán,2019-07-01,19.32
+internet_vmd_mbps,Tucumán,2019-10-01,29.87
+internet_vmd_mbps,Tucumán,2020-01-01,32.25
+internet_vmd_mbps,Tucumán,2020-04-01,32.7
+internet_vmd_mbps,Tucumán,2020-07-01,34.84
+internet_vmd_mbps,Tucumán,2020-10-01,36.44
+internet_vmd_mbps,Tucumán,2021-01-01,37.98
+internet_vmd_mbps,Tucumán,2021-04-01,40.31
+internet_vmd_mbps,Tucumán,2021-07-01,42.1
+internet_vmd_mbps,Tucumán,2021-10-01,45.15
+internet_vmd_mbps,Tucumán,2022-01-01,47.24
+internet_vmd_mbps,Tucumán,2022-04-01,50.09
+internet_vmd_mbps,Tucumán,2022-07-01,53.36
+internet_vmd_mbps,Tucumán,2022-10-01,88.33
+internet_vmd_mbps,Tucumán,2023-01-01,95.79
+internet_vmd_mbps,Tucumán,2023-04-01,96.69
+internet_vmd_mbps,Tucumán,2023-07-01,98.85
+internet_vmd_mbps,Tucumán,2023-10-01,101.55
+internet_vmd_mbps,Tucumán,2024-01-01,103.36
+internet_vmd_mbps,Tucumán,2024-04-01,108.93
+internet_vmd_mbps,Tucumán,2024-07-01,116.01
+internet_vmd_mbps,Tucumán,2024-10-01,125.7
+internet_vmd_mbps,Tucumán,2025-01-01,132.97
+internet_vmd_mbps,Tucumán,2025-04-01,142.06
+internet_vmd_mbps,Tucumán,2025-07-01,160.05
+internet_vmd_mbps,Tucumán,2025-10-01,168.9
+internet_vmd_mbps,Tucumán,2026-01-01,176.97
+internet_vmd_mbps,Tucumán,2026-04-01,186.83

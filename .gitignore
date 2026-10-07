@@ -1,0 +1,17 @@
+# Excel/ZIP generados por los notebooks
+*.zip
+*.xlsx
+*.xls
+
+# Graficos y tablas generados (se regeneran en Colab/local)
+output/*.png
+*.tex
+!docs/informe_indicadores/*.tex
+
+__pycache__/
+*.py[cod]
+.env
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+_local_run/

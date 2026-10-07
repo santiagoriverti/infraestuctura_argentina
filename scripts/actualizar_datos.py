@@ -4,14 +4,15 @@ largo en data/raw/ (una fila por dato, valores crudos sin transformar):
 
 - nacional.csv       codigo, fecha, valor            (modulos nacional y auxiliar; mezcla frecuencias)
 - provincial.csv     codigo, provincia, fecha, valor
-- internacional.csv  codigo, iso3, pais, anio, valor
+- internacional.csv  codigo, iso3, pais, fecha, valor   (anual: fecha = 1 de enero del anio)
 - enacom/*.csv       archivos de ENACOM tal como se publican (respaldo de la fuente)
 
 Uso:
     python scripts/actualizar_datos.py
 
-Solo se bajan las filas del catalogo con api = datos_gob, imig, enacom o wdi. Las demas
-(api = pendiente) son variables candidatas que todavia no tienen descarga automatica.
+Solo se bajan las filas del catalogo con api = datos_gob, imig, enacom, wdi u oecd_bb. Las de
+api = ookla y eph tienen su propio script (actualizar_ookla.py, actualizar_eph.py) y las de
+api = pendiente son variables candidatas que todavia no tienen descarga automatica.
 
 Fuentes (todas publicas, sin clave):
 - datos.gob.ar (API Series de Tiempo): demanda y potencia electrica (CAMMESA via SSPM), produccion
@@ -24,6 +25,8 @@ Fuentes (todas publicas, sin clave):
   total pais y por provincia (penetracion, velocidad media de bajada, accesos por tecnologia).
 - Banco Mundial (API WDI v2): indicadores anuales 2000+ de Argentina, pares de la region,
   referencias (Australia, Canada, Espana, EEUU) y agregados (America Latina y el Caribe, OCDE).
+- OCDE (SDMX, Broadband and telecom database): suscripciones de banda ancha fija por tecnologia,
+  semestral (Q2 y Q4). Cubre a los pares miembros o adherentes (no a Argentina ni Uruguay).
 
 Si una fuente falla se conservan los datos que ya estaban para esos codigos (aviso por pantalla),
 asi una caida puntual de una API no borra datos.
@@ -49,7 +52,7 @@ OUT = {
 CLAVES = {  # columnas que identifican una fila (sin el valor)
     "nacional": ["codigo", "fecha"],
     "provincial": ["codigo", "provincia", "fecha"],
-    "internacional": ["codigo", "iso3", "anio"],
+    "internacional": ["codigo", "iso3", "fecha"],
 }
 
 DATOS_GOB = "https://apis.datos.gob.ar/series/api/series/"
@@ -60,6 +63,8 @@ ENACOM = "https://indicadores.enacom.gob.ar/Files/DatosAbiertos/{}.csv"
 ENACOM_INTERMEDIO = ROOT / "data" / "reference" / "certs" / "sectigo_public_server_auth_ca_dv_r36.pem"
 WDI = "https://api.worldbank.org/v2/country/{paises}/indicator/{indicador}"
 WDI_DESDE = 2000
+OECD_BB = ("https://sdmx.oecd.org/public/rest/data/OECD.STI.DEP,DSD_BB_DATABASE@DF_BB_TEL_DATABASE,/"
+           "{paises}.Q.FBB.SUB.{modo}._Z.{unidad}")
 
 # Pares de la region, referencias (paises extensos y exportadores de materias primas) y agregados
 PAISES = {
@@ -130,9 +135,25 @@ def wdi(indicador: str) -> pd.DataFrame:
     js = r.json()
     if len(js) < 2 or not js[1]:
         raise ValueError(f"sin datos para {indicador}: {js[0]}")
-    filas = [{"iso3": x["countryiso3code"] or x["country"]["id"], "anio": int(x["date"]), "valor": x["value"]}
+    filas = [{"iso3": x["countryiso3code"] or x["country"]["id"], "fecha": f"{x['date']}-01-01", "valor": x["value"]}
              for x in js[1] if x["value"] is not None]
     df = pd.DataFrame(filas)
+    df["pais"] = df["iso3"].map(PAISES)
+    return df
+
+
+def oecd_bb(id_api: str) -> pd.DataFrame:
+    """'MODO.UNIDAD' (p. ej. 'FIB.PT_SB_FBB') -> datos semestrales; '2024-Q4' -> fecha 2024-10-01."""
+    modo, unidad = id_api.split(".")
+    paises = "+".join(p for p in PAISES if p not in ("LCN", "OED"))
+    r = requests.get(OECD_BB.format(paises=paises, modo=modo, unidad=unidad),
+                     params={"startPeriod": WDI_DESDE, "dimensionAtObservation": "AllDimensions"},
+                     headers={"Accept": "application/vnd.sdmx.data+csv; charset=utf-8"}, timeout=180)
+    r.raise_for_status()
+    df = pd.read_csv(io.StringIO(r.text)).dropna(subset=["OBS_VALUE"])
+    anio, trim = df["TIME_PERIOD"].str.split("-Q", expand=True).T.values
+    df = pd.DataFrame({"iso3": df["REF_AREA"].values, "valor": df["OBS_VALUE"].values,
+                       "fecha": [f"{a}-{3 * (int(q) - 1) + 1:02d}-01" for a, q in zip(anio, trim)]})
     df["pais"] = df["iso3"].map(PAISES)
     return df
 
@@ -156,7 +177,9 @@ def descargar(fila) -> pd.DataFrame:
         df = base.assign(valor=enacom_valor(base, expr))
         df = df[["provincia", "fecha", "valor"] if "provincia" in base.columns else ["fecha", "valor"]]
     elif api == "wdi":
-        df = wdi(id_api)[["iso3", "pais", "anio", "valor"]]
+        df = wdi(id_api)[["iso3", "pais", "fecha", "valor"]]
+    elif api == "oecd_bb":
+        df = oecd_bb(id_api)[["iso3", "pais", "fecha", "valor"]]
     else:
         raise ValueError(f"api desconocida: {api}")
     df.insert(0, "codigo", codigo)
@@ -169,7 +192,7 @@ def destino(modulo: str) -> str:
 
 def main():
     cat = pd.read_csv(CATALOGO, dtype=str).fillna("")
-    cat = cat[cat["api"].isin(["datos_gob", "imig", "enacom", "wdi"])]
+    cat = cat[cat["api"].isin(["datos_gob", "imig", "enacom", "wdi", "oecd_bb"])]
     print(f"Catalogo: {len(cat)} series con descarga automatica\n")
 
     partes = {k: [] for k in OUT}
@@ -213,12 +236,12 @@ def resumen():
             print(f"  {codigo:<26} {g['fecha'].min()[:7]} -> {g['fecha'].max()[:7]}  ({len(g)} datos{extra})")
     ruta = OUT["internacional"]
     if ruta.exists():
-        df = pd.read_csv(ruta)
+        df = pd.read_csv(ruta, dtype={"fecha": str})
         print(f"\ninternacional ({ruta.relative_to(ROOT)})")
         for codigo, g in df.groupby("codigo", sort=False):
-            arg = g[g["iso3"] == "ARG"]["anio"]
-            rango = f"{arg.min()}-{arg.max()} ({len(arg)} anios)" if len(arg) else "SIN DATOS"
-            print(f"  {codigo:<26} ARG {rango:<22} | {g['iso3'].nunique()} paises/agregados, ultimo anio {g['anio'].max()}")
+            arg = g[g["iso3"] == "ARG"]["fecha"]
+            rango = f"{arg.min()[:7]} a {arg.max()[:7]} ({len(arg)} datos)" if len(arg) else "SIN DATOS"
+            print(f"  {codigo:<26} ARG {rango:<28} | {g['iso3'].nunique()} paises/agregados, ultimo {g['fecha'].max()[:7]}")
 
 
 if __name__ == "__main__":

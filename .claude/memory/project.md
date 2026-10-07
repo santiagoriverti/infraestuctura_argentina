@@ -26,4 +26,26 @@ infraestructura que permite a las empresas desarrollarse y atraer inversiones.
 con quiebre 2018-2019 (−33% vs 2012, probable cambio de cobertura); CAMMESA en datos.energia
 congelado en feb-2020; capex de infraestructura del SPN 1,06% PIB (2016) → 0,20% (2025).
 
-**Pendiente:** respuestas del usuario a las decisiones abiertas → módulo A (notebook nacional).
+**Respuestas del usuario (misma sesión):** IIP ok · telecom como distancia a los países de comparación ·
+uso ÷ EMAE ok · capex "como te parezca" (→ todo en Inversión) · pesos iguales pero configurables · pares ok.
+
+**Módulo A v1 (misma sesión):**
+- Fuentes nuevas: Ookla Open Data (velocidad medida, 11 países + 24 provincias, 2019-T1+; parquet por
+  trimestre leído por S3 anónimo, teselas ubicadas por quadkey con polígonos Natural Earth / IGN),
+  OCDE SDMX (% fibra de 9 pares), EPH (agua/cloaca/gas de red desde los zips de analisis_EPH),
+  consumo de gas (364.3_TOTALTAL__5), ENACOM c/100 hab. (= ITU del 4to trimestre). ITU DataHub: 403.
+- `src/iip_nacional.py` + `src/graficos.py` + notebook 01 (gen_notebooks.py) + correr_nacional.py.
+- Ajustes metodológicos encontrados al revisar resultados (todos documentados en CONTEXTO §2):
+  margen de reserva contra pico de 36 meses (12 saltaba con el clima); potencia instalada anual
+  interpolada (escalones en cada T1); fibra como cociente (la diferencia en p.p. engaña en una curva S);
+  referencia de pares extendida con tendencia por país hasta 6 trimestres (ITU/OCDE con ~1,5 años de
+  rezago; si no, Telecom perdía 2 de 3 variables en 2026); encadenamiento hacia atrás (la entrada de la
+  velocidad en 2019 hacía saltar el IIP +0,2).
+- Fuera del índice: gas de red de la EPH (cae por tarifas, no por menos red), demanda eléctrica, peajes,
+  velocidad contratada.
+- Resultado 2026-T2: IIP +0,32 (rango +0,09 a +0,74), cambio 12m +0,18 firme; Energía +0,91, Telecom
+  +1,17, Agua +0,87, Transporte +0,02, Inversión −1,37 (capex 0,19% PIB, mínimo). Por gestión solo es
+  firme que Macri es el más bajo (con advertencia de stock heredado).
+- `docs/informe_indicadores/seccion_iip.tex`: compila con pdflatex (prueba en scratchpad).
+
+**Pendiente:** usuario corre el NB01 en Colab y pega la sección en el Overleaf → módulo C → módulo B.

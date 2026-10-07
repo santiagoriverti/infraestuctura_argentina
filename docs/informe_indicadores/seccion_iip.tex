@@ -1,0 +1,133 @@
+% =============================================================================================
+% Seccion "Indice de Infraestructura Productiva" del documento de INECO-UADE "Propuesta de
+% Indicadores Economicos" (octubre 2026, en Overleaf; el documento completo NO esta en este repo).
+% Se copia y pega dentro del documento, en lugar de "% Escribir aqui".
+%
+% - Figuras que usa (subirlas a la carpeta figuras/ del Overleaf):
+%     figuras/iip_g02_pilares.png        (= output/iip_g02_pilares.png)
+%     figuras/iip_g04_telecom_pares.png  (= output/iip_g04_telecom_pares.png)
+%   Se regeneran con python scripts/correr_nacional.py o con el notebook 01 (vienen en el ZIP).
+% - Paquetes: booktabs (\toprule) y amsmath (\operatorname), los mismos de la seccion del IIJP.
+% - Citas: mecon_imig (ya esta en el documento, de la seccion del IIJP) y nuevas: cammesa,
+%   se_gas, indec_issp, enacom_internet, ookla, bm_wdi, ocde_broadband, indec_eph, indec_isac,
+%   wef_gci, oecd_jrc -> los \bibitem estan al final de este archivo.
+% - Cifras: datos hasta 2026-T2 (ultimo trimestre del indice), commit en ESTADO.md. Si se actualizan
+%   los datos, revisar las cifras marcadas en ESTADO.md (seccion "Donde se citan las cifras").
+% =============================================================================================
+
+\section{Índice de Infraestructura Productiva}
+
+El Índice de Infraestructura Productiva (IIP) resume el estado de la infraestructura que las empresas necesitan para producir y decidir inversiones: energía disponible, capacidad para mover carga, conectividad, agua y saneamiento, y el ritmo de inversión que repone y amplía ese capital. Combina doce indicadores de fuentes públicas en cinco pilares, es trimestral desde 2016 y se actualiza con cada publicación de sus fuentes. Los rankings internacionales de competitividad cumplen otra función: se publican con años de rezago y el más citado, el pilar de infraestructura del Foro Económico Mundial, no se actualiza desde 2019 \cite{wef_gci}.
+
+\subsection{Metodología}
+
+El Cuadro~\ref{tab:iip_variables} resume los indicadores. Tres decisiones guían su construcción. Primero, los indicadores de uso, como la carga transportada, siguen al ciclo económico más que a la infraestructura; por eso se expresan por unidad de actividad (divididos por el EMAE). Segundo, en telecomunicaciones la tecnología mejora en todo el mundo: la velocidad contratada en la Argentina pasó de 3,6 a 265~Mbps entre 2014 y 2026 \cite{enacom_internet}, y medida contra su propia historia mostraría una mejora permanente. Esos indicadores se miden entonces como brecha contra la mediana de diez países de comparación (Brasil, Chile, Uruguay, México, Colombia, Perú, Australia, Canadá, España y Estados Unidos),
+\begin{equation*}
+b_t = \frac{x^{\text{ARG}}_t}{\operatorname{med}_{i}\, x^{i}_t} - 1,
+\end{equation*}
+con la velocidad medida por Ookla \cite{ookla} en lugar de la contratada, que no es comparable entre países. Tercero, la inversión pública se mide en relación con el PIB y se agrupa en su propio pilar, que anticipa el estado futuro de los demás.
+
+\begin{table}[!htb]
+\centering
+\small
+\caption{Pilares e indicadores del IIP}
+\vspace{.25 cm}
+\label{tab:iip_variables}
+\begin{tabular}{@{}l p{7.2cm} l@{}}
+\toprule
+Pilar & Indicador & Fuente \\
+\midrule
+Energía & Margen de reserva eléctrica: potencia instalada sobre el pico de demanda de 36 meses & CAMMESA \cite{cammesa} \\
+ & Autoabastecimiento de gas: producción sobre consumo, 12 meses & SE, ENARGAS \cite{se_gas} \\
+Transporte y logística & Carga ferroviaria por unidad de actividad & INDEC \cite{indec_issp} \\
+ & Carga aérea por unidad de actividad & INDEC \cite{indec_issp} \\
+Telecomunicaciones & Accesos a internet fijo por habitante, frente a los pares & ENACOM, ITU \cite{bm_wdi} \\
+ & Velocidad medida de bajada, frente a los pares & Ookla \cite{ookla} \\
+ & Proporción de accesos por fibra óptica, frente a los pares & ENACOM, OCDE \cite{ocde_broadband} \\
+Agua y saneamiento & Hogares con agua de red (31 aglomerados urbanos) & EPH \cite{indec_eph} \\
+ & Hogares con desagüe cloacal & EPH \cite{indec_eph} \\
+Inversión & Gasto de capital nacional en energía, transporte y agua (\% del PIB) & Hacienda \cite{mecon_imig} \\
+ & Insumos de la construcción vial (asfalto, ISAC) & INDEC \cite{indec_isac} \\
+ & Despachos de cemento, 12 meses & INDEC \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+La normalización es la misma del Índice Macroeconómico de este documento, para que ambos se lean igual. Cada indicador se estandariza con medidas robustas \cite{oecd_jrc} sobre el período 2016--2026,
+\begin{equation*}
+z_{j,t} = s_j\,\frac{x_{j,t} - \operatorname{med}(x_j)}{\operatorname{IQR}(x_j)/1{,}349}, \qquad |z_{j,t}| \le 3,
+\end{equation*}
+donde $s_j$ es el signo del indicador. Cada pilar promedia sus indicadores y el IIP promedia los cinco pilares con pesos iguales (los pesos son un parámetro del cálculo). Así, 0 representa lo típico del período y $+1$, una desviación por encima. Algunos indicadores empiezan más tarde (agua y cloacas en 2017, la velocidad medida en 2019): para que su incorporación no produzca saltos, el índice se encadena hacia atrás, de modo que el nivel del último trimestre usa todos los indicadores y la historia se mueve solo con las variaciones de los disponibles en cada par de trimestres. Las fuentes internacionales publican con rezago (la ITU y la OCDE llegan a fines de 2024), por lo que la referencia de los pares se extiende con la tendencia de cada país durante a lo sumo seis trimestres. La robustez se evalúa con trece variantes razonables de la metodología: sin cada pilar, contra el mejor de los pares en lugar de la mediana, con otra ventana, sin extender la referencia y sin encadenar, entre otras. Una conclusión se considera firme solo si se mantiene en todas.
+
+\subsection{Resultados}
+
+En el segundo trimestre de 2026 el IIP se ubicó en $+0{,}32$ desviaciones: por encima de lo típico del período en las trece variantes (rango de $+0{,}09$ a $+0{,}74$). Mejoró $0{,}18$ en el último año, también en todas las variantes (rango de $+0{,}11$ a $+0{,}27$). La mejora, sin embargo, es desigual entre pilares (Figura~\ref{fig:iip_pilares}).
+
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=0.95\textwidth]{figuras/iip_g02_pilares.png}
+\caption{IIP y sus pilares, 2016-T1 a 2026-T2 (desvíos respecto de lo típico del período). Las bandas grises marcan las gestiones de gobierno.}
+\label{fig:iip_pilares}
+\end{figure}
+
+La energía ($+0{,}91$) y las telecomunicaciones ($+1{,}17$) explican la mejora. La producción de gas cubre el 122\% del consumo interno, contra el 99\% de 2016, por el desarrollo de Vaca Muerta. El margen de reserva eléctrica, en cambio, es del 46\%, por debajo del máximo de 62\% de 2021, porque el pico de demanda creció más que la potencia instalada. En telecomunicaciones, la Argentina alcanzó a sus pares en accesos a internet fijo (29,6 cada 100 habitantes, frente a 29,7 de la mediana; en 2016 tenía un 25\% menos) y acortó la brecha en fibra óptica: el 50\% de sus accesos, un 34\% menos que los pares, frente a un 73\% menos en 2016. La velocidad medida, en cambio, es de 180~Mbps, un 37\% por debajo de la mediana de los pares (286~Mbps), y esa brecha se amplió desde cerca del 20\% de 2019 (Figura~\ref{fig:iip_telecom}). La Argentina está más conectada que antes, pero con redes relativamente más lentas.
+
+\begin{figure}[!htb]
+\centering
+\includegraphics[width=0.95\textwidth]{figuras/iip_g04_telecom_pares.png}
+\caption{Telecomunicaciones: Argentina frente a la mediana de los diez países de comparación. El tramo punteado extiende la tendencia de los pares mientras las fuentes internacionales no publican.}
+\label{fig:iip_telecom}
+\end{figure}
+
+En agua y saneamiento ($+0{,}87$), el 91,0\% de los hogares urbanos tiene agua de red y el 73,0\%, cloacas; los avances son de menos de un punto, pero la estandarización los amplifica porque estas series se mueven poco. El transporte ($+0{,}02$) mueve una carga típica por unidad de actividad. El pilar de inversión ($-1{,}37$) está en el mínimo de la serie: el gasto de capital nacional en energía, transporte y agua fue de 0,19\% del PIB en los doce meses a junio de 2026, contra 0,80\% en 2023 y 1,06\% en 2016 \cite{mecon_imig}, y los insumos de la obra vial y los despachos de cemento están por debajo de lo típico.
+
+\begin{table}[!htb]
+\centering
+\small
+\caption{IIP y pilares: promedio por gestión de gobierno (desvíos respecto de lo típico)}
+\vspace{.25 cm}
+\label{tab:iip_gestiones}
+\begin{tabular}{@{}l r r r r r r@{}}
+\toprule
+Gestión & IIP & Energía & Transporte & Telecom. & Agua & Inversión \\
+\midrule
+Macri (2016-T1--2019-T4)        & $-0{,}19$ & $-0{,}89$ & $+0{,}06$ & $+0{,}02$ & $-0{,}55$ & $+0{,}72$ \\
+A.~Fernández (2020-T1--2023-T4) & $+0{,}11$ & $+0{,}56$ & $-0{,}08$ & $+0{,}28$ & $-0{,}28$ & $+0{,}06$ \\
+Milei (2024-T1--2026-T2)        & $+0{,}14$ & $+0{,}58$ & $-0{,}12$ & $+0{,}74$ & $+0{,}70$ & $-1{,}18$ \\
+\bottomrule
+\end{tabular}
+
+\smallskip
+\parbox{12.5cm}{\footnotesize Promedios de los valores trimestrales. Agua y saneamiento desde 2017-T4. Fuente: INECO--UADE en base a CAMMESA, Secretaría de Energía, ENARGAS, INDEC, ENACOM, Ookla, Banco Mundial (ITU), OCDE y Secretaría de Hacienda.}
+\end{table}
+
+El Cuadro~\ref{tab:iip_gestiones} compara los promedios por gestión, con dos advertencias. La infraestructura es un stock: el promedio de cada gestión refleja en buena medida lo que heredó, y el de Macri incluye el punto de partida de 2016, con un margen de reserva del 33\% y un déficit de gas. Ese promedio es el más bajo en las trece variantes, pero sin el pilar de energía la diferencia es mínima. La comparación entre A.~Fernández y Milei no es firme: su orden se invierte según la variante.
+
+En síntesis, la infraestructura productiva está algo mejor que lo típico de la última década y mejoró en el último año, sostenida por sectores donde predomina la inversión privada (gas y telecomunicaciones). Al mismo tiempo, la inversión pública en infraestructura está en mínimos. Como la infraestructura se deteriora sin mantenimiento, el pilar de inversión anticipa presiones futuras sobre el transporte y el agua, donde el Estado es el principal inversor. El IIP se complementa con un ranking provincial y una comparación internacional por pilar, en desarrollo.
+
+% =============================================================================================
+% \bibitem nuevos (pegar dentro de \begin{thebibliography} ... \end{thebibliography}).
+% mecon_imig ya esta en el documento (seccion del IIJP).
+%
+% \bibitem{cammesa} CAMMESA (2026). \textit{Demanda de energía eléctrica y potencia instalada del Mercado Eléctrico Mayorista, series mensuales}. Vía Subsecretaría de Programación Macroeconómica, datos.gob.ar.
+%
+% \bibitem{se_gas} Secretaría de Energía y ENARGAS (2026). \textit{Producción y consumo de gas natural, series mensuales}. Vía Subsecretaría de Programación Macroeconómica, datos.gob.ar.
+%
+% \bibitem{indec_issp} INDEC (2026). \textit{Estadísticas de servicios públicos}. Buenos Aires: Instituto Nacional de Estadística y Censos.
+%
+% \bibitem{enacom_internet} ENACOM (2026). \textit{Indicadores de internet fijo: accesos, penetración, velocidad y tecnologías}. Ente Nacional de Comunicaciones, indicadores.enacom.gob.ar.
+%
+% \bibitem{ookla} Ookla (2026). \textit{Speedtest\textsuperscript{\textregistered} by Ookla\textsuperscript{\textregistered} Global Fixed and Mobile Network Performance Maps}. Datos abiertos, licencia CC BY-NC-SA 4.0.
+%
+% \bibitem{bm_wdi} Banco Mundial (2026). \textit{World Development Indicators: Fixed broadband subscriptions (per 100 people)}. Datos de la Unión Internacional de Telecomunicaciones (ITU).
+%
+% \bibitem{ocde_broadband} OCDE (2026). \textit{Broadband and Telecom Database}. París: Organización para la Cooperación y el Desarrollo Económicos.
+%
+% \bibitem{indec_eph} INDEC (2026). \textit{Encuesta Permanente de Hogares: bases de microdatos}. Buenos Aires: Instituto Nacional de Estadística y Censos.
+%
+% \bibitem{indec_isac} INDEC (2026). \textit{Indicador sintético de la actividad de la construcción (ISAC)}. Buenos Aires: Instituto Nacional de Estadística y Censos.
+%
+% \bibitem{wef_gci} World Economic Forum (2019). \textit{The Global Competitiveness Report 2019}. Ginebra: WEF.
+%
+% \bibitem{oecd_jrc} OECD y JRC (2008). \textit{Handbook on Constructing Composite Indicators: Methodology and User Guide}. París: OECD Publishing.
+% =============================================================================================

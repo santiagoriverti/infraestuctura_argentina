@@ -26,39 +26,86 @@ compuestos de la OCDE/JRC (*Handbook on Constructing Composite Indicators*, 2008
 | **Agua y saneamiento** | hogares con agua de red y cloacas | — | — | — | capex agua (IMIG) |
 | **Inversión** | — | stock de capital público | — | — | capex infraestructura % PIB, construcción, cemento |
 
-El pilar **Inversión** agrupa los flujos que no son de un sector solo (construcción, cemento,
-capex total en % del PIB). El capex sectorial puede ir en su pilar o en Inversión: es una de las
-decisiones abiertas (§4).
+El pilar **Inversión** agrupa los flujos de inversión: el gasto de capital nacional de los tres
+sectores (energía, transporte y agua) va todo ahí, junto con la construcción vial y el cemento. Los
+pilares sectoriales miden el estado (cobertura, capacidad, calidad, uso) y el de Inversión, el flujo
+que lo va a cambiar.
 
 ## 2. Los tres módulos
 
-### A. Nacional (serie trimestral)
+### A. Nacional (serie trimestral) — v1, implementado
 
-¿La infraestructura argentina mejora o empeora? Serie trimestral desde 2014-T1 (inicio de ENACOM);
-algunas variables arrancan en 2012 (ISSP, ISAC) o 2016 (IMIG). Las mensuales se llevan a
-trimestre (promedio o suma según la variable) y las anuales (potencia instalada) se repiten en los
-cuatro trimestres del año.
+¿La infraestructura argentina mejora o empeora? Código: `src/iip_nacional.py` (cálculo) y
+`src/graficos.py`; notebook `notebooks/01_iip_nacional.ipynb` (generado por `scripts/gen_notebooks.py`);
+corrida local `scripts/correr_nacional.py` → `output/`.
 
-Variables de la **propuesta v0** (todas descargadas):
+**Ventana:** 2016-T1 a hoy (parámetro `inicio`). El último trimestre es el último con dato propio en al
+menos la mitad de las variables. Las mensuales se llevan a trimestre con ventanas de 12 meses tomadas en
+el último mes del trimestre (sacan la estacionalidad) o con el promedio de los 3 meses (ISAC, ya
+desestacionalizado).
 
-| Pilar | Variable | Transformación | Signo |
+| Pilar | Variable | Transformación | Fuente |
 |---|---|---|---|
-| Energía | margen de reserva eléctrica | potencia instalada / potencia máxima de los últimos 12 meses − 1 | + |
-| Energía | producción de gas natural | MMm³/día, promedio móvil 4 trimestres | + |
-| Transporte | carga ferroviaria | t-km relativas al EMAE (uso independiente del ciclo) | + |
-| Transporte | carga aérea | relativa al EMAE | + |
-| Telecom | penetración de internet fijo | accesos c/100 hogares | + |
-| Telecom | velocidad media de bajada | logaritmo de Mbps | + |
-| Telecom | accesos por fibra óptica | % de accesos | + |
-| Agua | hogares con agua de red / cloacas | % hogares (EPH, 31 aglomerados) — **pendiente** | + |
-| Inversión | capex en infraestructura del SPN | energía + transporte + agua, % del PIB, 4 trimestres móviles | + |
-| Inversión | construcción vial | ISAC insumo asfalto, desest. | + |
-| Inversión | construcción total | despachos de cemento, desest./promedio móvil | + |
+| Energía | margen de reserva eléctrica | potencia instalada / pico de demanda de los últimos **36** meses − 1 (con 12 meses saltaba con el clima de un verano). La instalada es anual (stock a diciembre): va al 4to trimestre y se interpola; después del último año se repite (marcado) | CAMMESA |
+| Energía | autoabastecimiento de gas | producción / consumo entregado, 12 meses | SE, ENARGAS |
+| Transporte | carga ferroviaria | t-km de 12 meses / EMAE promedio de 12 meses (2016 = 100) | INDEC ISSP |
+| Transporte | carga aérea | ídem | INDEC ISSP |
+| Telecom | penetración de internet fijo | Argentina (ENACOM, c/100 hab.) / referencia de los pares (ITU, dato anual = stock a diciembre → 4to trimestre, interpolado) − 1 | ENACOM, ITU |
+| Telecom | velocidad medida | Argentina / referencia de los pares − 1, desde 2019-T1 | Ookla |
+| Telecom | accesos por fibra | % de Argentina / referencia de los pares − 1 (OCDE semestral, interpolado). Cociente y no diferencia: en una curva de adopción en S la diferencia en p.p. se agranda aunque Argentina se acerque (2019: 7% vs 19%; 2025: 47% vs 69%) | ENACOM, OCDE |
+| Agua | hogares con agua de red | % hogares, promedio de 4 trimestres (saca ruido muestral) | EPH |
+| Agua | hogares con cloaca | ídem | EPH |
+| Inversión | gasto de capital nacional en infraestructura | energía + transporte + agua (Nación + transf. a provincias), 12 meses / PIB nominal | IMIG, INDEC |
+| Inversión | construcción vial | ISAC insumo asfalto, desest., promedio trimestral | INDEC ISAC |
+| Inversión | despachos de cemento | suma de 12 meses | INDEC |
 
-**Normalización propuesta:** la misma del Índice Macroeconómico de `cuentas_publicas` (v9), para que
-los dos índices del documento de INECO se lean igual: z robusto (mediana e IQR/1,349 sobre los datos
-propios de cada variable, tope ±3), pilar = promedio simple de sus variables, índice = promedio simple
-de los pilares disponibles. 0 = lo típico del período.
+**Telecomunicaciones contra los pares (decisión del usuario, oct-2026).** La velocidad (4 → 265 Mbps
+contratados en 2014-2026) y la fibra suben solas con la tecnología: contra su propia historia el pilar
+crecería mecánicamente. Por eso se mide la **brecha** de Argentina contra la **mediana** de los 10
+países de comparación (parámetro `referencia="mejor"` para medir contra la frontera del grupo). La
+referencia exige al menos 5 pares con dato. La velocidad es la **medida** de Ookla (ENACOM solo publica
+la contratada, y solo de Argentina).
+
+**Uso relativo a la actividad.** La carga transportada sigue al ciclo; dividida por el EMAE mide si la
+red absorbe más o menos carga por unidad de actividad.
+
+**Normalización:** la del Índice Macroeconómico de `cuentas_publicas` (v9), para que los dos índices del
+documento de INECO se lean igual: z robusto (mediana e IQR/1,349 sobre los datos propios de la ventana,
+con el signo de la variable, tope ±3). Pilar = promedio ponderado de sus variables; IIP = promedio
+ponderado de los pilares. **Pesos iguales por defecto, configurables** (`pesos_pilares`,
+`pesos_variables` en la celda de parámetros del notebook). 0 = lo típico del período.
+
+**Encadenamiento hacia atrás** (`encadenar=True`): el último trimestre es el promedio de todas las
+variables (la cifra titular no cambia); hacia atrás, cada trimestre difiere del siguiente en el promedio
+ponderado de las variaciones de las variables presentes en ambos. Sin esto, la entrada de la velocidad
+medida (2019-T1, con una brecha chica) hacía saltar Telecom +1,1 y el IIP +0,2 en un trimestre. Se
+aplica igual a los pilares dentro del IIP (Agua entra en 2017-T4).
+
+**Rezagos y arrastres:**
+- La ITU y la OCDE publican con ~1,5 años de rezago (hoy llegan a 2024-T4). La referencia de los pares
+  se **extiende con la tendencia lineal de cada país** (últimos 8 trimestres, fibra acotada a 100%)
+  hasta `max_rezago_pares` = 6 trimestres, marcado como arrastre. Repetir el último dato sobreestimaba a
+  Argentina (los pares siguen creciendo); dejar caer las variables cambiaba la composición del pilar.
+- Para el resto, después del último dato propio se repite el último valor a lo sumo `max_arrastre` = 4
+  trimestres; más allá, la variable queda vacía. Todo arrastre queda marcado (hoja Arrastrados).
+
+**Sensibilidad** (`iip.sensibilidad()`, hoja Sensibilidad): 13 variantes — base, referencia = el mejor
+de los pares, sin cada pilar (5), Inversión solo con gasto de capital, ventana desde 2017, arrastre 2,
+referencia sin extender, sin encadenar, tope ±2. Una conclusión es **firme** si se mantiene en todas.
+
+**Resultado 2026-T2 (oct-2026):** IIP **+0,32** (rango +0,09 a +0,74: por encima de lo típico en todas
+las variantes); cambio en 12 meses **+0,18** (rango +0,11 a +0,27: mejora firme). Pilares: Energía
++0,91 · Transporte +0,02 · Telecom +1,17 · Agua +0,87 · Inversión −1,37. Por gestión: Macri −0,19 ·
+A. Fernández +0,11 · Milei +0,14. Firme: Macri el más bajo en las 13 (advertencia: es un stock y la
+ventana arranca en 2016, así que incluye el punto de partida heredado; sin Energía la diferencia es
+mínima). **No firme:** A. Fernández vs Milei.
+
+**Fuera del índice (a propósito):**
+- *Hogares que cocinan con gas de red* (EPH): cae de 70% a 65% desde 2022, más por la suba de tarifas
+  (cambio a electricidad o garrafa) que por menos red. Mide uso, no conexión.
+- *Demanda eléctrica*: uso con signo ambiguo (eficiencia vs electrificación).
+- *Peajes*: quiebre de cobertura 2018-2019 (§5).
+- *Velocidad contratada de ENACOM*: no comparable con otros países.
 
 ### B. Provincial (ranking)
 
@@ -79,29 +126,26 @@ exportadores de materias primas); agregados América Latina y el Caribe y OCDE.
 
 Medida propuesta: **distancia a la frontera** dentro del grupo de comparación de cada año,
 (x − peor) / (mejor − peor) × 100 (con el signo de la variable), promediada por pilar. Variables
-descargadas del Banco Mundial: acceso a electricidad, pérdidas de red, consumo eléctrico por
-habitante, banda ancha fija, usuarios de internet, servidores seguros, contenedores (TEU), carga
-aérea, LPI (infraestructura y general), FBKF % PIB, agua y saneamiento básicos, empresas con cortes
-eléctricos. Candidatas: stock de capital público (FMI ICSD), velocidad medida (Ookla), WEF GCI 2019.
+descargadas: Banco Mundial (acceso a electricidad, pérdidas de red, consumo eléctrico por habitante,
+banda ancha fija, usuarios de internet, servidores seguros, contenedores (TEU), carga aérea, LPI,
+FBKF % PIB, agua y saneamiento básicos, empresas con cortes eléctricos), OCDE (% fibra) y Ookla
+(velocidad medida, trimestral). Candidatas: stock de capital público (FMI ICSD), WEF GCI 2019.
 
 ## 3. Sección para el informe de INECO-UADE
 
 Mismo formato que la sección del IIJP (`IPC_jubilados/docs/informe_indicadores/seccion_iijp.tex`):
-texto + metodología + 1-2 figuras + bibitems, lista para pegar en el Overleaf. Se escribe cuando el
-módulo A tenga cifras. Irá en `docs/informe_indicadores/seccion_infraestructura.tex`.
+texto + metodología + figuras + bibitems, lista para pegar en el Overleaf:
+`docs/informe_indicadores/seccion_iip.tex`.
 
-## 4. Decisiones abiertas (a validar con el usuario)
+## 4. Decisiones (respondidas por el usuario, 2026-10-07)
 
-1. **Nombre.** Trabajo con "Índice de Infraestructura Productiva (IIP)".
-2. **Variables con tendencia.** Internet (velocidad 4 → 265 Mbps en 2014-2026) sube siempre: con z
-   contra su propia historia el pilar Telecom crece mecánicamente y arrastra el índice. Opciones:
-   (a) dejarlo (es mejora real), (b) medir la brecha contra la frontera internacional (usa el
-   módulo C), (c) usar variaciones en lugar de niveles.
-3. **Variables de uso.** La carga transportada o la demanda eléctrica siguen al ciclo económico más
-   que a la infraestructura. Propuesta: relativizarlas al EMAE; alternativa: dejarlas fuera.
-4. **Capex sectorial**: en cada pilar o todo junto en el pilar Inversión.
-5. **Pesos**: iguales por pilar (como el índice macro). PCA solo como control.
-6. **Países de comparación** del módulo C.
+1. **Nombre:** Índice de Infraestructura Productiva (IIP).
+2. **Variables con tendencia:** se miden como **distancia a los países de comparación** (telecom).
+3. **Variables de uso:** relativas al EMAE.
+4. **Capex sectorial:** a criterio de Claude → todo en el pilar Inversión (§1).
+5. **Pesos:** iguales, pero **configurables** (celda de parámetros del notebook).
+6. **Países de comparación:** Brasil, Chile, Uruguay, México, Colombia, Perú, Australia, Canadá,
+   España y EEUU.
 
 ## 5. Fuentes y trampas conocidas
 
@@ -137,3 +181,19 @@ módulo A tenga cifras. Irá en `docs/informe_indicadores/seccion_infraestructur
   Secretaría de Obras Públicas, no toda la obra pública.
 - **Vialidad:** no hay dato abierto actualizado del estado de las rutas por provincia; el dataset
   "Pavimentos" (DNV, 2019) solo trae el material de calzada.
+- **Ookla Open Data** (`scripts/actualizar_ookla.py`): un parquet de ~350 MB por trimestre (teselas de
+  zoom 16 del mundo, sin país). Los archivos 2019-2022 no traen coordenadas: se ubican por el `quadkey`.
+  Se bajan solo las columnas necesarias (~3,5 min por trimestre); cada trimestre queda en
+  `data/raw/ookla/` y no se vuelve a bajar. País = polígono de Natural Earth 1:50m, provincia = polígono
+  del IGN, ambos simplificados a ~0,005° y versionados en `data/reference/geo/` (el WFS del IGN devuelve
+  los nombres con la codificación rota: se identifican por código INDEC). Velocidad = promedio de
+  teselas ponderado por tests. **Licencia CC BY-NC-SA 4.0**: uso no comercial y citar "Speedtest® by
+  Ookla® Global Fixed and Mobile Network Performance Maps".
+- **ITU (DataHub):** la API no es pública (403). La penetración de los pares sale del Banco Mundial
+  (`IT.NET.BBND.P2`, que es la ITU); el dato anual es el stock a diciembre y coincide con ENACOM del 4to
+  trimestre (2014-2024, diferencias < 0,4).
+- **OCDE (SDMX, `DSD_BB_DATABASE@DF_BB_TEL_DATABASE`):** % de suscripciones por fibra (`FIB`,
+  `PT_SB_FBB`), Q2 y Q4. Cubre 9 de los 10 pares (falta Uruguay) y no a Argentina.
+- **EPH** (`scripts/actualizar_eph.py`): los zips de 2016 no están en el FTP del INDEC con el nombre
+  estándar → la serie arranca en 2017-T1. Lee los zips de `../analisis_EPH/data/raw` si existen. Agua y
+  cloaca son casi planas (~90% y ~73%) y con ruido muestral de ~0,5 p.p.: van suavizadas.

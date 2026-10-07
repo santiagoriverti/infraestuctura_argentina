@@ -15,3 +15,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 _local_run/
+
+# Zips de la EPH (pesados; se bajan del INDEC o se leen de ../analisis_EPH)
+data/raw/eph_zips/

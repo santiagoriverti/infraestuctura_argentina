@@ -55,4 +55,21 @@ IIJP, Infraestructura, Inmobiliario, Supermercados; bibitems existentes indec_ep
 utdt, sepa, indec_engho, haber_minimo, mecon_imig). Cuadro de pilares con columnas "versión preliminar"
 y "a incorporar" + subsección "Próximos pasos". Compila con el preámbulo real (babel spanish, titlesec).
 
+**Cierre de la sesión 1 (2026-10-08), pedido del usuario: dejar todo listo para seguir desde otra
+sesión/PC:**
+- Documentación revisada contra el estado real: README (índice de documentación, requisitos, scripts),
+  CLAUDE.md (documento INECO, herramientas de verificación, convención de notas del catálogo),
+  ESTADO.md (reescrito: estado, cifras y dónde se citan, rutina, PC nueva, verificaciones),
+  CONTEXTO.md (3,6 Mbps en 2014, nombre del índice macro en el documento, flujo del código, §3 de la
+  sección, reutilizar `consumo_energetico_argentina` para el módulo B).
+- Nuevos: `data/README.md` (diccionario de datos y columnas del catálogo),
+  `docs/informe_indicadores/README.md` (el documento, cómo pegar y probar la sección),
+  `scripts/comparar_zip.py` (ZIP de Colab vs local; probado con el ZIP real → IDENTICO y con un ZIP
+  alterado → detecta la diferencia), `scripts/probar_seccion_latex.py` (compila con el preámbulo y la
+  bibliografía reales del documento → OK).
+- Catálogo: solo la columna `notas` (30 filas): cada serie dice `IIP: ...` o `Fuera del IIP: ...`;
+  corregida la nota de la potencia instalada (pico de 36 meses). 59 filas: 48 descargadas, 1 verificada,
+  10 candidatas.
+- Docstring de `src/iip_nacional.py` actualizado (encadenamiento, rezago de pares); sin cambios de cálculo.
+
 **Pendiente:** usuario pega la sección en el Overleaf → módulo C → módulo B.

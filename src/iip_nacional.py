@@ -4,17 +4,22 @@ Indice de Infraestructura Productiva (IIP) - modulo A: Argentina, trimestral.
     import src.iip_nacional as iip
     res = iip.calcular(Path("."))                       # parametros por defecto
     res = iip.calcular(Path("."), pesos_pilares={...})  # cualquier parametro de PARAMETROS
+    tabla, series = iip.sensibilidad(Path("."))         # 13 variantes de la metodologia
 
-Metodo (detalle en CONTEXTO.md):
+Metodo (detalle en CONTEXTO.md §2):
 1. Cada variable se lleva a trimestre con su transformacion (VARIABLES). Las que crecen solas por
    el avance tecnologico (telecomunicaciones) se miden como BRECHA contra los paises de comparacion
    (mediana de los pares, o el mejor de ellos con referencia="mejor"). Las de uso se relativizan al
    EMAE. Los montos van en % del PIB.
 2. z robusto sobre los datos propios de la ventana [inicio, ultimo]: (x - mediana) / (IQR / 1,349),
    con el signo de la variable y tope +-tope_z. 0 = lo tipico del periodo.
-3. Pilar = promedio ponderado de sus variables disponibles; IIP = promedio ponderado de los pilares
-   disponibles. Pesos por defecto iguales; se cambian con pesos_variables / pesos_pilares.
-4. Un dato que falta al final se arrastra hasta max_arrastre trimestres (queda marcado).
+3. Pilar = promedio ponderado de sus variables; IIP = promedio ponderado de los pilares. Pesos por
+   defecto iguales; se cambian con pesos_variables / pesos_pilares. Con encadenar=True (defecto) se
+   encadena hacia atras: el ultimo trimestre usa todas las variables y la historia se mueve con las
+   variaciones de las presentes en cada par de trimestres (sin saltos por composicion).
+4. Rezagos: la referencia de los pares (ITU, OCDE) se extiende con la tendencia de cada pais hasta
+   max_rezago_pares trimestres; el resto de las variables repite su ultimo dato hasta max_arrastre
+   trimestres. Todo queda marcado en res["arrastre"].
 """
 
 from pathlib import Path

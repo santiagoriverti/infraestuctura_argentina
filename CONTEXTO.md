@@ -39,6 +39,15 @@ que lo va a cambiar.
 `src/graficos.py`; notebook `notebooks/01_iip_nacional.ipynb` (generado por `scripts/gen_notebooks.py`);
 corrida local `scripts/correr_nacional.py` → `output/`.
 
+**Flujo del código** (`src/iip_nacional.py`): `calcular(base, **parametros)` → `cargar()` (lee
+`data/raw/`) → `construir_variables()` (las 12 transformaciones de `VARIABLES`; brechas con
+`_referencia()` + `_extrapolar()`) → corte en el último trimestre con dato propio en ≥ la mitad de las
+variables → `_arrastrar()` → `normalizar()` (z robusto) → `agregar()` (`_encadenado()` o
+`_promedio_ponderado()`) → `por_gobierno()`. `sensibilidad()` recalcula con las variantes de
+`variantes()`. `exportar_excel(res, ruta, sens)` arma el Excel (9 hojas; 8 si no se le pasa la
+sensibilidad); `src/graficos.py` (`todos()`) los 4 PNG
+`iip_g0*.png`. Todos los parámetros y sus valores por defecto están en `PARAMETROS`.
+
 **Ventana:** 2016-T1 a hoy (parámetro `inicio`). El último trimestre es el último con dato propio en al
 menos la mitad de las variables. Las mensuales se llevan a trimestre con ventanas de 12 meses tomadas en
 el último mes del trimestre (sacan la estacionalidad) o con el promedio de los 3 meses (ISAC, ya
@@ -59,7 +68,7 @@ desestacionalizado).
 | Inversión | construcción vial | ISAC insumo asfalto, desest., promedio trimestral | INDEC ISAC |
 | Inversión | despachos de cemento | suma de 12 meses | INDEC |
 
-**Telecomunicaciones contra los pares (decisión del usuario, oct-2026).** La velocidad (4 → 265 Mbps
+**Telecomunicaciones contra los pares (decisión del usuario, oct-2026).** La velocidad (3,6 → 265 Mbps
 contratados en 2014-2026) y la fibra suben solas con la tecnología: contra su propia historia el pilar
 crecería mecánicamente. Por eso se mide la **brecha** de Argentina contra la **mediana** de los 10
 países de comparación (parámetro `referencia="mejor"` para medir contra la frontera del grupo). La
@@ -69,8 +78,8 @@ la contratada, y solo de Argentina).
 **Uso relativo a la actividad.** La carga transportada sigue al ciclo; dividida por el EMAE mide si la
 red absorbe más o menos carga por unidad de actividad.
 
-**Normalización:** la del Índice Macroeconómico de `cuentas_publicas` (v9), para que los dos índices del
-documento de INECO se lean igual: z robusto (mediana e IQR/1,349 sobre los datos propios de la ventana,
+**Normalización:** la del Índice Macroeconómico de `cuentas_publicas` (v9; en el documento de INECO se
+llama "Índice de Fortaleza Macroeconómica Argentina"), para que los dos índices del documento se lean igual: z robusto (mediana e IQR/1,349 sobre los datos propios de la ventana,
 con el signo de la variable, tope ±3). Pilar = promedio ponderado de sus variables; IIP = promedio
 ponderado de los pilares. **Pesos iguales por defecto, configurables** (`pesos_pilares`,
 `pesos_variables` en la celda de parámetros del notebook). 0 = lo típico del período.
@@ -118,6 +127,12 @@ y gas de red (Censo 2010/2022; EPH para los aglomerados), demanda eléctrica por
 usuarios de gas (ENARGAS), rutas pavimentadas por km² (DNV + vialidades provinciales), obra pública
 nacional por habitante (Mapa de Inversiones), parques industriales (RENPI).
 
+Para CAMMESA por provincia y ENARGAS, **reutilizar el repo hermano `consumo_energetico_argentina`**
+(`src/fuentes.py`): ya baja la Base del Informe Mensual de CAMMESA (demanda por agente, provincia y
+tarifa, 2012+) y los datos de ENARGAS por provincia desde el pivot cache de sus Excel. Para Ookla por
+provincia ya está `data/raw/ookla_fijo.csv` (`nivel = provincia`) y para la EPH, `eph_servicios.csv`
+por aglomerado (falta mapear aglomerado → provincia).
+
 ### C. Internacional (benchmark)
 
 ¿Cómo está Argentina frente a sus pares? Anual 2000+. Comparación: Brasil, Chile, Uruguay, México,
@@ -133,9 +148,16 @@ FBKF % PIB, agua y saneamiento básicos, empresas con cortes eléctricos), OCDE 
 
 ## 3. Sección para el informe de INECO-UADE
 
-Mismo formato que la sección del IIJP (`IPC_jubilados/docs/informe_indicadores/seccion_iijp.tex`):
-texto + metodología + figuras + bibitems, lista para pegar en el Overleaf:
-`docs/informe_indicadores/seccion_iip.tex`.
+`docs/informe_indicadores/seccion_iip.tex` es la sección 4, "Índice de Infraestructura en Argentina",
+del documento *Propuesta de Indicadores Económicos* (Overleaf; el documento no está en el repo). La
+introducción del documento la presenta como un índice "que debería desarrollarse en su totalidad" y que
+"evalúe la inversión en obra pública": por eso está redactada como **propuesta** (pedido del usuario,
+2026-10-08) — introducción, propuesta metodológica con un cuadro de pilares "versión preliminar / a
+incorporar", resultados preliminares (2 figuras + cuadro por gestión) y próximos pasos.
+
+Estructura del documento, preámbulo, bibitems existentes, convenciones (trimestres `2026T2`, "RIC",
+"Cuadro"), cómo pegarla y cómo probarla (`scripts/probar_seccion_latex.py`):
+[`docs/informe_indicadores/README.md`](docs/informe_indicadores/README.md).
 
 ## 4. Decisiones (respondidas por el usuario, 2026-10-07)
 
@@ -159,9 +181,9 @@ texto + metodología + figuras + bibitems, lista para pegar en el Overleaf:
   se recuperan (2019: 15,5 M; 2025: 13,7 M/mes, −33% vs 2012). Probable cambio de cobertura (rutas que dejaron de cobrar peaje, cambios de
   concesión), no menos tránsito. **No usar sin revisar.**
 - **CAMMESA en datos.energia.gob.ar** (demanda por agente y provincia, potencia por central): los
-  CSV están **congelados en feb-2020**. Para la apertura provincial ir a la base del informe
-  mensual de CAMMESA. La demanda total y la potencia nacional sí están al día en datos.gob.ar
-  (dataset 367 del SSPM).
+  CSV están **congelados en feb-2020**. Para la apertura provincial ir a la Base del Informe Mensual
+  de CAMMESA (ya resuelto en el repo `consumo_energetico_argentina`). La demanda total y la potencia
+  nacional sí están al día en datos.gob.ar (dataset 367 del SSPM).
 - **ENACOM** (`indicadores.enacom.gob.ar/Files/DatosAbiertos/*.csv`): el servidor no envía el
   certificado intermedio (Sectigo Public Server Authentication CA DV R36) y Python falla con
   `CERTIFICATE_VERIFY_FAILED`. Solución: el intermedio está en `data/reference/certs/` y el

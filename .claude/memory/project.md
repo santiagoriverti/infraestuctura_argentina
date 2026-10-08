@@ -48,4 +48,11 @@ uso ÷ EMAE ok · capex "como te parezca" (→ todo en Inversión) · pesos igua
   firme que Macri es el más bajo (con advertencia de stock heredado).
 - `docs/informe_indicadores/seccion_iip.tex`: compila con pdflatex (prueba en scratchpad).
 
-**Pendiente:** usuario corre el NB01 en Colab y pega la sección en el Overleaf → módulo C → módulo B.
+**2026-10-08:** NB01 corrido en Colab por el usuario: ZIP idéntico a local (9 hojas, dif 0). Sección
+reescrita como PROPUESTA para `\section{Índice de Infraestructura en Argentina}` del documento real
+(el usuario pegó el .tex completo: secciones Termómetro, Fortaleza Macroeconómica (= índice macro),
+IIJP, Infraestructura, Inmobiliario, Supermercados; bibitems existentes indec_eph, indec_ipc, oecd2008,
+utdt, sepa, indec_engho, haber_minimo, mecon_imig). Cuadro de pilares con columnas "versión preliminar"
+y "a incorporar" + subsección "Próximos pasos". Compila con el preámbulo real (babel spanish, titlesec).
+
+**Pendiente:** usuario pega la sección en el Overleaf → módulo C → módulo B.

@@ -1,9 +1,9 @@
 # ESTADO DEL PROYECTO — infraestuctura_argentina
 
 > Punto de entrada para retomar el trabajo en otra sesión o en otra PC.
-> Última actualización: **2026-10-07** (sesión 1).
-> Siguiente tarea: **el usuario corre el notebook 01 en Colab y pega la sección LaTeX en el Overleaf**;
-> después, módulo C (internacional) o B (provincial).
+> Última actualización: **2026-10-08** (sesión 1).
+> Siguiente tarea: **el usuario pega la sección LaTeX en el Overleaf**; después, módulo C
+> (internacional) o B (provincial).
 
 ## 1. Dónde estamos
 
@@ -11,8 +11,8 @@
 |---|---|
 | Diseño | Módulos **A nacional** + **B provincial** + **C internacional**; 5 pilares; sección del documento INECO-UADE |
 | Decisiones del usuario | Respondidas (CONTEXTO §4): nombre IIP, telecom contra los pares, uso ÷ EMAE, pesos iguales configurables, 10 pares |
-| **Módulo A** | **v1 implementado**: `src/iip_nacional.py`, notebook `01_iip_nacional.ipynb` (verificado con nbconvert: 0 errores, ZIP = Excel 9 hojas + 4 PNG). **Falta correrlo en Colab** |
-| Sección LaTeX | `docs/informe_indicadores/seccion_iip.tex` — compila con pdflatex (sin citas ni referencias indefinidas) |
+| **Módulo A** | **v1 implementado**: `src/iip_nacional.py`, notebook `01_iip_nacional.ipynb`. **Verificado en Colab (2026-10-08, commit d99d860): idéntico a local en las 9 hojas** |
+| Sección LaTeX | `docs/informe_indicadores/seccion_iip.tex`, redactada como **propuesta** (versión preliminar + indicadores y módulos a incorporar + próximos pasos) para `\section{Índice de Infraestructura en Argentina}` del documento. Usa las claves que ya tiene el documento (`indec_eph`, `oecd2008`, `mecon_imig`) + 9 bibitems nuevos. Compila con el preámbulo real del documento (babel spanish, titlesec, hyperref): 0 errores, 0 overfull |
 | Módulo B | Datos listos: ENACOM y Ookla por provincia, EPH por aglomerado. Falta: Censo 2022, CAMMESA por provincia, Vialidad, ENARGAS, Mapa de Inversiones; el cálculo |
 | Módulo C | Datos listos: Banco Mundial (15 indicadores), OCDE (fibra), Ookla (11 países). Falta el cálculo (distancia a la frontera) |
 
@@ -43,9 +43,8 @@ Las cifras salen de `python scripts/correr_nacional.py` (= notebook 01). Se cita
 
 ## 3. Próximos pasos
 
-1. **Usuario:** correr el notebook 01 en Colab (debería dar lo mismo que local) y pegar
-   `seccion_iip.tex` en el Overleaf (subir `output/iip_g02_pilares.png` y `output/iip_g04_telecom_pares.png`
-   a `figuras/`; bibitems al final del archivo).
+1. **Usuario:** pegar `seccion_iip.tex` en el Overleaf (subir `iip_g02_pilares.png` y
+   `iip_g04_telecom_pares.png` del ZIP a `figuras/`; los 9 bibitems nuevos al final de thebibliography).
 2. **Módulo C (internacional):** distancia a la frontera por pilar con Banco Mundial + OCDE + Ookla.
    Evaluar FMI ICSD (stock de capital público). Notebook 02.
 3. **Módulo B (provincial):** Censo 2022 (agua, cloacas, gas de red por provincia), CAMMESA por
